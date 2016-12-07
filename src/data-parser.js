@@ -29,7 +29,8 @@ exports.DataParser.prototype = {
     });
   },
   parseLog: function(onComplete) {
-    this.logReady = false;
+    this.logData = this.logData.split('\n');
+    this.logReady = true;
   },
   checkComplete: function() {
     if (this.cscReady && this.logReady) {
