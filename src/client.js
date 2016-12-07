@@ -95,7 +95,7 @@ $(function() {
         var timestamp = message[0];
         var nodeId = message[1].substring(3);
         var message = message[2];
-        var result = nodes[nodeId - 1].onMessage(timestamp, message);
+        var result = parseNodeMessage(nodeId, timestamp, message);
         index += 1;
         if (result) {
           refresh();
@@ -103,5 +103,21 @@ $(function() {
         }
       }
     }, logReaderInterval);
+  }
+
+  function parseNodeMessage(nodeId, timestamp, message) {
+    var node = nodes[nodeId - 1];
+    if (/^\d+ \d+ \d+$/.test(message)) {
+      var argv = message.split(' ').map(Number);
+      if (node.nodeId !== '1' && argv[0] === 2) {
+        node.onAck(timestamp, argv[1], argv[2]);
+        return true;
+      }
+      return false;
+    } else if (message.indexOf('collision') !== -1) {
+      node.onCollision(timestamp);
+      return false;
+    }
+    return false;
   }
 });
