@@ -2,10 +2,12 @@ var fs = require('fs');
 var $ = require('jquery');
 var dataParser = require('./data-parser.js');
 var node = require('./node.js');
+var flow = require('./flow.js');
 
 $(function() {
   var parser = new dataParser.DataParser(onComplete);
   var nodes = [];
+  var flows = [];
 
   var svg_width = 600;
   var svg_height = 600;
@@ -14,9 +16,23 @@ $(function() {
   var x = d3.scale.linear().domain([-10, 130]).range([0, svg_width]);
   var y = d3.scale.linear().domain([-10, 130]).range([0, svg_height]);
 
-  var chart = d3.select('#visualizer')
-    .append('svg').attr({width: svg_width, height: svg_height})
-    .append('g');
+  var svg = d3.select('#visualizer')
+    .append('svg').attr({width: svg_width, height: svg_height});
+  var chart = svg.append('g');
+
+  var defs = svg.append('defs')
+    .attr({
+        'id': 'arrow',
+        'viewBox': '0 -5 10 10',
+        'refX': 5,
+        'refY': 0,
+        'markerWidth': 4,
+        'markerHeight': 4,
+        'orient': 'auto'
+    })
+    .append('path')
+      .attr('d', 'M0,-5L10,0L0,5')
+      .attr('class', 'arrowHead');
 
   var nodesGroup = chart.append('g')
     .attr('class', 'nodes');
@@ -64,6 +80,30 @@ $(function() {
       .duration(500)
       .delay(function(d, i) {return 50 * i;})
       .style('opacity', 1);
+
+      var flowViews = nodesGroup.selectAll('arrow')
+        .data(flows);
+
+      var newFlowViews = flowViews.enter()
+        .append('line')
+        .attr({
+            'class': 'arrow',
+            'marker-end': 'url(#arrow)',
+            'x1': function(d) { return x(d.getX1()); },
+            'y1': function(d) { return y(d.getY1()); },
+            'x2': function(d) { return x(d.getX2()); },
+            'y2': function(d) { return y(d.getY2()); }
+        })
+        .style('opacity', 1)
+        .transition('newFlow')
+        .duration(500)
+        .style('opacity', 0);
+
+      flowViews.exit()
+        .transition('exit')
+        .duration(500)
+        .style('opacity', 1)
+        .remove();
   }
 
   function onComplete(csc, log) {
@@ -107,10 +147,24 @@ $(function() {
 
   function parseNodeMessage(nodeId, timestamp, message) {
     var node = nodes[nodeId - 1];
+    if (node.nodeId === '1') {
+      return false;
+    }
     if (/^\d+ \d+ \d+$/.test(message)) {
       var argv = message.split(' ').map(Number);
-      if (node.nodeId !== '1' && argv[0] === 2) {
+      if (argv[0] === 2) {
         node.onAck(timestamp, argv[1], argv[2]);
+        return true;
+      } else if (argv[0] === 5) {
+        var newFlow = new flow.Flow(nodes[argv[1] - 1], nodes[argv[2] - 1]);
+        flows.push(newFlow);
+        setTimeout(function() {
+          var index = flows.indexOf(newFlow);
+          if (index > -1) {
+            flows.splice(index, 1);
+          }
+        }, 2000);
+        console.log('Data flow: ' + argv[1] + ' -> ' + argv[2]);
         return true;
       }
       return false;

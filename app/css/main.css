@@ -1,0 +1,10 @@
+.arrow {
+  stroke-width: 5;
+  stroke: #000;
+  stroke-dasharray: 5, 5;
+}
+
+.#arrow {
+  stroke-width: 1;
+  stroke-dasharray: 0;
+}
