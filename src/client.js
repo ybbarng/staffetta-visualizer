@@ -17,30 +17,27 @@ $(function() {
     .append('svg').attr({width: svg_width, height: svg_height})
     .append('g');
 
-  var elementsGroup = chart.append('g')
-    .attr('class', 'elements');
+  var nodesGroup = chart.append('g')
+    .attr('class', 'nodes');
 
   function refresh() {
-    var nodeViews = elementsGroup.selectAll('circle')
+    var nodeViews = nodesGroup.selectAll('node')
       .data(nodes);
 
-    nodeViews
-      .attr('transform', function(d) {
-        return 'translate(' + x(d.x) + ', ' + y(d.y) + ')';
-      })
-      .style('fill', 'yellow');
-
     var newNodeViews = nodeViews.enter()
-      .append('circle')
+      .append('g')
       .attr('transform', function(d) {
         return 'translate(' + x(d.x) + ', ' + y(d.y) + ')';
       })
+      .style('opacity', 0);
+
+    var circles = newNodeViews.append('circle')
       .attr('r', 14)
       .attr('stroke', 'gray')
       .attr('stroke-width', 2)
-      .style('fill', 'yellow')
-      .style('opacity', 0)
-      .transition('update')
+      .style('fill', 'yellow');
+
+    newNodeViews.transition('update')
       .duration(500)
       .delay(function(d, i) {return 50 * i;})
       .style('opacity', 1);
