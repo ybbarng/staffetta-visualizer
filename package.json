@@ -8,9 +8,10 @@
   "dependencies": {
     "browserify": "^13.1.1",
     "browserify-shim": "^3.8.12",
-    "ecstatic": "^2.1.0"
+    "ecstatic": "^2.1.0",
+    "xml2js": "^0.4.17"
   },
-  "browserify" : {
+  "browserify": {
     "transform": [
       "browserify-shim"
     ]
