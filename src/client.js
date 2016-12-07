@@ -25,9 +25,6 @@ $(function() {
       .data(nodes);
 
     nodeViews
-      .transition('update')
-      .duration(500)
-      .delay(function(d, i) {return 2 * i;})
       .attr('transform', function(d) {
         return 'translate(' + x(d.x) + ', ' + y(d.y) + ')';
       })
@@ -41,7 +38,12 @@ $(function() {
       .attr('r', 14)
       .attr('stroke', 'gray')
       .attr('stroke-width', 2)
-      .style('fill', 'yellow');
+      .style('fill', 'yellow')
+      .style('opacity', 0)
+      .transition('update')
+      .duration(500)
+      .delay(function(d, i) {return 50 * i;})
+      .style('opacity', 1);
   }
 
   function onComplete(csc, log) {
