@@ -23,6 +23,10 @@ exports.DataParser.prototype = {
   parseCsc: function() {
     var that = this;
     parser.parseString(this.cscData, function(error, result) {
+      if (error) {
+        console.log(error);
+        return;
+      }
       that.cscData = result;
       that.cscReady = true;
       that.checkComplete();
