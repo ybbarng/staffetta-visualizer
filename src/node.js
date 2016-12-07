@@ -7,7 +7,7 @@ exports.Node = function(nodeId, x, y) {
 
 exports.Node.prototype = {
   onMessage: function(timestamp, message) {
-    if (/^\d \d \d$/.test(message)) {
+    if (/^\d+ \d+ \d+$/.test(message)) {
       return this.parse(timestamp, message.split(' ').map(Number));
     } else if (message.indexOf('collision') !== -1) {
       this.onCollision(timestamp);
