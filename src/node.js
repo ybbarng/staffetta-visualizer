@@ -16,7 +16,7 @@ exports.Node.prototype = {
     return false;
   },
   parse: function(timestamp, argv) {
-    if (argv[0] === 2) {
+    if (this.nodeId !== '1' && argv[0] === 2) {
       this.onAck(timestamp, argv[1], argv[2]);
       return true;
     }
