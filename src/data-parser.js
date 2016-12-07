@@ -31,6 +31,7 @@ exports.DataParser.prototype = {
   parseLog: function(onComplete) {
     this.logData = this.logData.split('\n');
     this.logReady = true;
+    this.checkComplete();
   },
   checkComplete: function() {
     if (this.cscReady && this.logReady) {
