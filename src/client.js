@@ -31,11 +31,20 @@ $(function() {
       })
       .style('opacity', 0);
 
-    var nodeCircles = newNodeViews.append('circle')
+    newNodeViews.append('circle')
       .attr('r', 14)
       .attr('stroke', 'gray')
       .attr('stroke-width', 2)
-      .style('fill', 'yellow');
+      .style('fill', function(d) {
+        return 'rgba(255, 255, ' + Math.min(parseInt(d.frequency * 255 / 25), 255) + ', 1)';
+      });
+
+    var nodeCircles = nodesGroup.selectAll('circle')
+      .transition('update')
+      .duration(100)
+      .style('fill', function(d) {
+        return 'rgba(255, 255, ' + Math.min(parseInt(d.frequency * 255 / 25), 255) + ', 1)';
+      });
 
     var nodeLabels = newNodeViews.append('text')
       .text(function(d) {
