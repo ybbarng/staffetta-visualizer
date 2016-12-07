@@ -39,6 +39,8 @@ $(function() {
         return 'translate(' + x(d.x) + ', ' + y(d.y) + ')';
       })
       .attr('r', 14)
+      .attr('stroke', 'gray')
+      .attr('stroke-width', 2)
       .style('fill', 'yellow');
   }
 
