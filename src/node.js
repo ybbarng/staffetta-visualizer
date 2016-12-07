@@ -3,9 +3,15 @@ exports.Node = function(nodeId, x, y) {
   this.x = x;
   this.y = y;
   this.frequency = 10;
+  if (this.isSink()) {
+    this.frequency = 25;
+  }
 };
 
 exports.Node.prototype = {
+  isSink: function() {
+    return this.nodeId === '1';
+  },
   onMessage: function(timestamp, message) {
     if (/^\d+ \d+ \d+$/.test(message)) {
       return this.parse(timestamp, message.split(' ').map(Number));
