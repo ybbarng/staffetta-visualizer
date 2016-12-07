@@ -34,11 +34,11 @@ $(function() {
 
     var fillCircle = function(d) {
       return 'rgba(' +
-        Math.min(parseInt((d.frequency - 10) * 255 / 15), 255) +
+        Math.min(parseInt((d.frequency - 10) * 100 / 15) + 155, 255) +
         ', ' +
-        Math.max(parseInt(255 - Math.min(10, d.frequency) * 255 / 10), 0) +
+        Math.max(parseInt(255 - Math.min(10, d.frequency) * 100 / 10), 0) +
         ', ' +
-        Math.max(parseInt(255 - (Math.min(10, Math.abs(d.frequency - 10)) * 255 / 10)), 0) +
+        '255' +
         ', 1)';
     }
 
