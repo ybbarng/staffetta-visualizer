@@ -32,20 +32,26 @@ $(function() {
       })
       .style('opacity', 0);
 
+    var fillCircle = function(d) {
+      return 'rgba(' +
+        Math.min(parseInt((d.frequency - 10) * 255 / 15), 255) +
+        ', ' +
+        Math.max(parseInt(255 - Math.min(10, d.frequency) * 255 / 10), 0) +
+        ', ' +
+        Math.max(parseInt(255 - (Math.min(10, Math.abs(d.frequency - 10)) * 255 / 10)), 0) +
+        ', 1)';
+    }
+
     newNodeViews.append('circle')
       .attr('r', 14)
       .attr('stroke', 'gray')
       .attr('stroke-width', 2)
-      .style('fill', function(d) {
-        return 'rgba(255, 255, ' + Math.min(parseInt(d.frequency * 255 / 25), 255) + ', 1)';
-      });
+      .style('fill', fillCircle);
 
     var nodeCircles = nodesGroup.selectAll('circle')
       .transition('update')
       .duration(100)
-      .style('fill', function(d) {
-        return 'rgba(255, 255, ' + Math.min(parseInt(d.frequency * 255 / 25), 255) + ', 1)';
-      });
+      .style('fill', fillCircle);
 
     var nodeLabels = newNodeViews.append('text')
       .text(function(d) {
