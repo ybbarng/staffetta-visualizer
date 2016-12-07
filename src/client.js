@@ -75,7 +75,7 @@ $(function() {
     var motes = csc.simconf.simulation[0].mote;
     for (var i = 0; i < motes.length; i++) {
       var mote = motes[i];
-      var moteId = mote.interface_config[1].id;
+      var moteId = mote.interface_config[1].id[0];
       var location = mote.interface_config[0];
       nodes.push(new node.Node(moteId, location.x, location.y));
     }
