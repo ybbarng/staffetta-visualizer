@@ -31,11 +31,18 @@ $(function() {
       })
       .style('opacity', 0);
 
-    var circles = newNodeViews.append('circle')
+    var nodeCircles = newNodeViews.append('circle')
       .attr('r', 14)
       .attr('stroke', 'gray')
       .attr('stroke-width', 2)
       .style('fill', 'yellow');
+
+    var nodeLabels = newNodeViews.append('text')
+      .text(function(d) {
+        return d.nodeId;
+      })
+      .style('text-anchor', 'middle')
+      .style('dominant-baseline', 'central');
 
     newNodeViews.transition('update')
       .duration(500)
