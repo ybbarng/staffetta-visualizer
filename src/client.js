@@ -9,6 +9,7 @@ $(function() {
 
   var svg_width = 600;
   var svg_height = 600;
+  var logReaderInterval = 500;
 
   var x = d3.scale.linear().domain([-10, 130]).range([0, svg_width]);
   var y = d3.scale.linear().domain([-10, 130]).range([0, svg_height]);
@@ -61,6 +62,7 @@ $(function() {
 
   function onComplete(csc, log) {
     initiateSimulation(csc);
+    run(log);
   }
 
   function initiateSimulation(csc) {
@@ -72,5 +74,28 @@ $(function() {
       nodes.push(new node.Node(moteId, location.x, location.y));
     }
     refresh();
+  }
+
+  function run(log) {
+    var index = 0;
+    var logReader = setInterval(function() {
+      while (true) {
+        var message = log[index];
+        if (index >= log.length || message === '') {
+          window.clearInterval(logReader);
+          break;
+        }
+        message = message.split('\t');
+        var timestamp = message[0];
+        var nodeId = message[1].substring(3);
+        var message = message[2];
+        var result = nodes[nodeId - 1].onMessage(timestamp, message);
+        index += 1;
+        if (result) {
+          refresh();
+          break;
+        }
+      }
+    }, logReaderInterval);
   }
 });
