@@ -8,6 +8,7 @@ $(function() {
   var parser = new dataParser.DataParser(onComplete);
   var nodes = [];
   var flows = [];
+  var logReader = null;
 
   var svg_width = 720;
   var svg_height = 600;
@@ -144,11 +145,11 @@ $(function() {
 
   function run(log) {
     var index = 0;
-    var logReader = setInterval(function() {
+    logReader = setInterval(function() {
       while (true) {
         var message = log[index];
         if (index >= log.length || message === '') {
-          window.clearInterval(logReader);
+          stopLogReader();
           break;
         }
         message = message.split('\t');
@@ -194,5 +195,12 @@ $(function() {
       return false;
     }
     return false;
+  }
+
+  function stopLogReader() {
+    if (logReader !== null) {
+      window.clearInterval(logReader);
+      logReader = null;
+    }
   }
 });
