@@ -106,10 +106,10 @@ $(function() {
       .attr({
           'class': 'arrow',
           'marker-end': 'url(#arrow)',
-          'x1': function(d) { return x(d.getX1()); },
-          'y1': function(d) { return y(d.getY1()); },
-          'x2': function(d) { return x(d.getX2()); },
-          'y2': function(d) { return y(d.getY2()); }
+          'x1': function(d) { return x(d.x1); },
+          'y1': function(d) { return y(d.y1); },
+          'x2': function(d) { return x(d.x2); },
+          'y2': function(d) { return y(d.y2); }
       })
       .style('opacity', 1)
       .transition('enter')
