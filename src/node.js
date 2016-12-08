@@ -1,5 +1,5 @@
 exports.Node = function(nodeId, x, y) {
-  this.nodeId = nodeId;
+  this.setNodeId(nodeId);
   this.x = x;
   this.y = y;
   this.frequency = 10;
@@ -9,6 +9,11 @@ exports.Node = function(nodeId, x, y) {
 };
 
 exports.Node.prototype = {
+  setNodeId: function(nodeId) {
+    var first = nodeId / 26;
+    var second = nodeId % 26;
+    this.nodeId = (String.fromCharCode(97 + first) + String.fromCharCode(97 + second)).toUpperCase();
+  },
   isSink: function() {
     return this.nodeId === '1';
   },
