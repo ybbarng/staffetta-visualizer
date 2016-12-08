@@ -96,7 +96,7 @@ $(function() {
           'y2': function(d) { return y(d.getY2()); }
       })
       .style('opacity', 1)
-      .transition('newFlow')
+      .transition('enter')
       .duration(500)
       .style('opacity', 0);
 
