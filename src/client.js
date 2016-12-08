@@ -82,7 +82,7 @@ $(function() {
       .delay(function(d, i) {return 50 * i;})
       .style('opacity', 1);
 
-    var flowViews = nodesGroup.selectAll('arrow')
+    var flowViews = nodesGroup.selectAll('.arrow')
       .data(flows);
 
     var newFlowViews = flowViews.enter()
