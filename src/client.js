@@ -82,29 +82,29 @@ $(function() {
       .delay(function(d, i) {return 50 * i;})
       .style('opacity', 1);
 
-      var flowViews = nodesGroup.selectAll('arrow')
-        .data(flows);
+    var flowViews = nodesGroup.selectAll('arrow')
+      .data(flows);
 
-      var newFlowViews = flowViews.enter()
-        .append('line')
-        .attr({
-            'class': 'arrow',
-            'marker-end': 'url(#arrow)',
-            'x1': function(d) { return x(d.getX1()); },
-            'y1': function(d) { return y(d.getY1()); },
-            'x2': function(d) { return x(d.getX2()); },
-            'y2': function(d) { return y(d.getY2()); }
-        })
-        .style('opacity', 1)
-        .transition('newFlow')
-        .duration(500)
-        .style('opacity', 0);
+    var newFlowViews = flowViews.enter()
+      .append('line')
+      .attr({
+          'class': 'arrow',
+          'marker-end': 'url(#arrow)',
+          'x1': function(d) { return x(d.getX1()); },
+          'y1': function(d) { return y(d.getY1()); },
+          'x2': function(d) { return x(d.getX2()); },
+          'y2': function(d) { return y(d.getY2()); }
+      })
+      .style('opacity', 1)
+      .transition('newFlow')
+      .duration(500)
+      .style('opacity', 0);
 
-      flowViews.exit()
-        .transition('exit')
-        .duration(500)
-        .style('opacity', 1)
-        .remove();
+    flowViews.exit()
+      .transition('exit')
+      .duration(500)
+      .style('opacity', 1)
+      .remove();
   }
 
   function onComplete(csc, log) {
