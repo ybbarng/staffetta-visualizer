@@ -55,9 +55,10 @@ $(function() {
     .attr('transform', 'translate(' + chart_width + ', 20)');
 
   var colorLegend = d3.legend.color()
-    .cells(d3.range(1, 26))
-    .labelFormat(d3.format('d'))
+    .cells([1, 5, 10, 15, 20, 25])
+    .labels(["low (1)", "", "default (10)", "", "", "high (25)"])
     .scale(color)
+    .shapePadding(0)
     .title('Frequency');
 
   svg.select('.colorLegend')
