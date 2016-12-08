@@ -17,5 +17,8 @@ exports.Flow.prototype = {
     this.y1 = y1 + fromRadius * Math.sin(theta);
     this.x2 = x2 - toRadius * Math.cos(theta);
     this.y2 = y2 - toRadius * Math.sin(theta);
+  },
+  toString: function() {
+    return 'Flow: ' + this.fromNode.nodeId + ' -> ' + this.toNode.nodeId;
   }
 };
