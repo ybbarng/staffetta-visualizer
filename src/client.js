@@ -10,10 +10,11 @@ $(function() {
   var flows = [];
   var logReader = null;
 
-  var svg_width = 720;
+  var svg_width = 730;
   var svg_height = 600;
   var chart_width = 600;
   var chart_height = 600;
+  var legend_left_margin = 10;
   var logReaderInterval = 500;
 
   var x = d3.scale.linear().domain([-10, 130]).range([0, chart_width]);
@@ -52,7 +53,8 @@ $(function() {
 
   svg.append('g')
     .attr('class', 'colorLegend')
-    .attr('transform', 'translate(' + chart_width + ', 20)');
+    .attr('transform', 'translate(' +
+        (chart_width + legend_left_margin) + ', 20)');
 
   var colorLegend = d3.legend.color()
     .cells([1, 5, 10, 15, 20, 25])
@@ -66,6 +68,15 @@ $(function() {
 
   svg.select('.legendCells')
     .attr('transform', 'translate(0, 15)')
+
+    svg.append('line')
+      .attr('class', 'layout')
+      .attr({
+          'x1': 600,
+          'y1': 0,
+          'x2': 600,
+          'y2': 600
+      })
 
   function fillCircle(d) {
     return color(Math.min(d.frequency, 25));

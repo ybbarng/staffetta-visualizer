@@ -11,3 +11,8 @@ svg text {
   stroke-width: 1;
   stroke-dasharray: 0;
 }
+
+.layout {
+  stroke-width: 1;
+  stroke: #333;
+}
