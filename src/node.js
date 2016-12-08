@@ -3,7 +3,7 @@ exports.Node = function(nodeId, x, y) {
   this.x = x;
   this.y = y;
   this.frequency = 10;
-  if (this.isSink()) {
+  if (this.isSink) {
     this.frequency = 25;
   }
 };
@@ -13,12 +13,10 @@ exports.Node.prototype = {
     var first = nodeId / 26;
     var second = nodeId % 26;
     this.nodeId = (String.fromCharCode(97 + first) + String.fromCharCode(97 + second)).toUpperCase();
-  },
-  isSink: function() {
-    return this.nodeId === '1';
+    this.isSink = nodeId === "1";
   },
   onAck: function(timestamp, sender_id, frequency) {
-    if (this.nodeId === 1) {
+    if (this.isSink) {
       return;
     }
     this.frequency = frequency;

@@ -169,7 +169,7 @@ $(function() {
 
   function parseNodeMessage(nodeIndex, timestamp, message) {
     var node = nodes[nodeIndex];
-    if (node.isSink()) {
+    if (node.isSink) {
       return false;
     }
     if (/^\d+ \d+ \d+$/.test(message)) {
