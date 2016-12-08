@@ -114,15 +114,15 @@ $(function() {
           'x2': function(d) { return x(d.x2); },
           'y2': function(d) { return y(d.y2); }
       })
-      .style('opacity', 1)
+      .style('opacity', 0)
       .transition('enter')
       .duration(500)
-      .style('opacity', 0);
+      .style('opacity', 1);
 
     flowViews.exit()
       .transition('exit')
       .duration(500)
-      .style('opacity', 1)
+      .style('opacity', 0)
       .remove();
   }
 
