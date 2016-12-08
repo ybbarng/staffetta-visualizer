@@ -102,7 +102,7 @@ $(function() {
       .style('opacity', 1);
 
     var flowViews = flowsGroup.selectAll('.arrow')
-      .data(flows);
+      .data(flows, function(d) { return d.id; });
 
     var newFlowViews = flowViews.enter()
       .append('line')
@@ -182,6 +182,7 @@ $(function() {
           var index = flows.indexOf(newFlow);
           if (index > -1) {
             flows.splice(index, 1);
+            refresh();
           }
         }, 2000);
         console.log('Data flow: ' + argv[1] + ' -> ' + argv[2]);
