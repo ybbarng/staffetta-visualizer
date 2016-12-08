@@ -9,12 +9,14 @@ $(function() {
   var nodes = [];
   var flows = [];
 
-  var svg_width = 600;
+  var svg_width = 720;
   var svg_height = 600;
+  var chart_width = 600;
+  var chart_height = 600;
   var logReaderInterval = 500;
 
-  var x = d3.scale.linear().domain([-10, 130]).range([0, svg_width]);
-  var y = d3.scale.linear().domain([-10, 130]).range([0, svg_height]);
+  var x = d3.scale.linear().domain([-10, 130]).range([0, chart_width]);
+  var y = d3.scale.linear().domain([-10, 130]).range([0, chart_height]);
 
   var svg = d3.select('#visualizer')
     .append('svg').attr({width: svg_width, height: svg_height});
@@ -44,7 +46,7 @@ $(function() {
 
   svg.append('g')
     .attr('class', 'colorLegend')
-    .attr('transform', 'translate(20, 20)');
+    .attr('transform', 'translate(' + chart_width + ', 20)');
 
   var colorLegend = d3.legend.color()
     .cells(d3.range(1, 26))
