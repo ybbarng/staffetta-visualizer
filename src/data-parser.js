@@ -3,17 +3,18 @@ var xml2js = require('xml2js');
 
 var parser = new xml2js.Parser();
 
-exports.DataParser = function(onComplete) {
+exports.DataParser = function(onComplete, filename) {
+  var filename = (typeof filename !== 'undefined' ? b : 'infovis');
   this.cscReady = false;
   this.logReady = false;
 
   this.onComplete = onComplete;
   var that = this;
-  $.get('data/infovis.csc', function(data) {
+  $.get('data/' + filename + '.csc', function(data) {
     that.cscData = data;
     that.parseCsc();
   });
-  $.get('data/infovis.txt', function(data) {
+  $.get('data/' + filename + '.txt', function(data) {
     that.logData = data;
     that.parseLog();
   });
