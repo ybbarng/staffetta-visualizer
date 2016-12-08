@@ -37,6 +37,28 @@ $(function() {
   var nodesGroup = chart.append('g')
     .attr('class', 'nodes');
 
+  // for legend
+  var color = d3.scale.linear()
+    .domain([0, 25])
+    .range(['rgb(89, 255, 255)', 'rgb(255, 155, 255)']);
+
+  svg.append('g')
+    .attr('class', 'colorLegend')
+    .attr('transform', 'translate(20, 20)');
+
+  var colorLegend = d3.legend.color()
+    .cells(d3.range(1, 26))
+    .labelFormat(d3.format('d'))
+    .scale(color)
+    .title('Frequency');
+
+  svg.select('.colorLegend')
+    .call(colorLegend);
+
+  function fillCircle(d) {
+    return color(Math.min(d.frequency, 25));
+  }
+
   function refresh() {
     var nodeViews = nodesGroup.selectAll('.node')
       .data(nodes, function(d) { return d.nodeId; });
@@ -48,16 +70,6 @@ $(function() {
         return 'translate(' + x(d.x) + ', ' + y(d.y) + ')';
       })
       .style('opacity', 0);
-
-    var fillCircle = function(d) {
-      return 'rgba(' +
-        Math.min(parseInt((d.frequency - 10) * 100 / 15) + 155, 255) +
-        ', ' +
-        Math.max(parseInt(255 - Math.min(10, d.frequency) * 100 / 10), 0) +
-        ', ' +
-        '255' +
-        ', 1)';
-    }
 
     newNodeViews.append('circle')
       .attr('r', 14)
