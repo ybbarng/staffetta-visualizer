@@ -38,11 +38,12 @@ $(function() {
     .attr('class', 'nodes');
 
   function refresh() {
-    var nodeViews = nodesGroup.selectAll('node')
-      .data(nodes);
+    var nodeViews = nodesGroup.selectAll('.node')
+      .data(nodes, function(d) { return d.nodeId; });
 
     var newNodeViews = nodeViews.enter()
       .append('g')
+      .attr('class', 'node')
       .attr('transform', function(d) {
         return 'translate(' + x(d.x) + ', ' + y(d.y) + ')';
       })
