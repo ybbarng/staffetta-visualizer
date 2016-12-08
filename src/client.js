@@ -64,6 +64,9 @@ $(function() {
   svg.select('.colorLegend')
     .call(colorLegend);
 
+  svg.select('.legendCells')
+    .attr('transform', 'translate(0, 15)')
+
   function fillCircle(d) {
     return color(Math.min(d.frequency, 25));
   }
