@@ -10,7 +10,7 @@ $(function() {
   var flows = [];
   var logReader = null;
 
-  var svg_width = 730;
+  var svg_width = 800;
   var svg_height = 600;
   var chart_width = 600;
   var chart_height = 600;
@@ -61,7 +61,7 @@ $(function() {
     .labels(["low (1)", "", "default (10)", "", "", "high (25)"])
     .scale(color)
     .shapePadding(0)
-    .title('Frequency');
+    .title('Wake Up Frequency');
 
   svg.select('.colorLegend')
     .call(colorLegend);
