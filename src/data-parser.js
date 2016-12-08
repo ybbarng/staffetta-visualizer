@@ -13,7 +13,7 @@ exports.DataParser = function(onComplete) {
     that.cscData = data;
     that.parseCsc();
   });
-  $.get('data/infovis_log.txt', function(data) {
+  $.get('data/infovis.txt', function(data) {
     that.logData = data;
     that.parseLog();
   });
