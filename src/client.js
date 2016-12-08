@@ -41,6 +41,9 @@ $(function() {
   var nodesGroup = chart.append('g')
     .attr('class', 'nodes');
 
+  var flowsGroup = chart.append('g')
+    .attr('class', 'flows');
+
   // for legend
   var color = d3.scale.linear()
     .domain([0, 25])
@@ -98,7 +101,7 @@ $(function() {
       .delay(function(d, i) {return 50 * i;})
       .style('opacity', 1);
 
-    var flowViews = nodesGroup.selectAll('.arrow')
+    var flowViews = flowsGroup.selectAll('.arrow')
       .data(flows);
 
     var newFlowViews = flowViews.enter()
