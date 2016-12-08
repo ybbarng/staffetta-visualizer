@@ -22,7 +22,9 @@ $(function() {
     .append('svg').attr({width: svg_width, height: svg_height});
   var chart = svg.append('g');
 
-  var defs = svg.append('defs')
+  var defs = svg.append('defs');
+
+  defs.append('marker')
     .attr({
         'id': 'arrow',
         'viewBox': '0 -5 10 10',

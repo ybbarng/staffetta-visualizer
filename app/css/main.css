@@ -8,7 +8,7 @@ svg text {
   stroke-dasharray: 5, 5;
 }
 
-.#arrow {
+#arrow {
   stroke-width: 1;
   stroke-dasharray: 0;
 }
