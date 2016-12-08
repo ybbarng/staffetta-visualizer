@@ -154,9 +154,9 @@ $(function() {
         }
         message = message.split('\t');
         var timestamp = message[0];
-        var nodeId = message[1].substring(3);
+        var nodeIndex = parseInt(message[1].substring(3)) - 1;
         var message = message[2];
-        var result = parseNodeMessage(nodeId, timestamp, message);
+        var result = parseNodeMessage(nodeIndex, timestamp, message);
         index += 1;
         if (result) {
           refresh();
@@ -166,9 +166,9 @@ $(function() {
     }, logReaderInterval);
   }
 
-  function parseNodeMessage(nodeId, timestamp, message) {
-    var node = nodes[nodeId - 1];
-    if (node.nodeId === '1') {
+  function parseNodeMessage(nodeIndex, timestamp, message) {
+    var node = nodes[nodeIndex];
+    if (node.isSink()) {
       return false;
     }
     if (/^\d+ \d+ \d+$/.test(message)) {
