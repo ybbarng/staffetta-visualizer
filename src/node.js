@@ -16,7 +16,6 @@ exports.Node.prototype = {
     if (this.nodeId === 1) {
       return;
     }
-    console.log('Node ' + this.nodeId + ': ' + this.frequency + ' -> ' + frequency);
     this.frequency = frequency;
   },
   onCollision: function(timestamp) {
