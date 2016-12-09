@@ -47,7 +47,7 @@ $(function() {
 
   var $defaultOption = $('<option>', {
         value: '',
-        text: '파일 선택'
+        text: 'Select Simulation File'
   }).attr('disabled', true)
     .attr('selected', true);
   function loadDataFileList() {
