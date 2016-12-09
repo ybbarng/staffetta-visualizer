@@ -1,5 +1,5 @@
 #body {
-  width: 900px;
+  width: 950px;
   margin: auto;
 }
 
@@ -28,6 +28,11 @@ svg text {
 .layout, .pointer {
   stroke-width: 2;
   stroke: #555;
+}
+
+text.legend-main-title {
+  font-size: 20px;
+  font-weight: bold;
 }
 
 text.legendTitle, text.title {

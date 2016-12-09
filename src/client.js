@@ -33,7 +33,7 @@ $(function() {
   var flows = [];
   var logReader = null;
 
-  var svg_width = 900;
+  var svg_width = 950;
   var svg_height = 600;
   var chart_width = 600;
   var chart_height = 600;

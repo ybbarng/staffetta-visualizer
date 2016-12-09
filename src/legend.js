@@ -1,12 +1,19 @@
 exports.setup = function(svg, x, y, colorScale) {
-  var nodePreviewY = 20;
-  var colorLegendY = 140;
+  var nodePreviewY = 50;
+  var colorLegendY = 170;
+  var indent = 10;
   var legend = svg.append('g')
     .attr('class', 'legend')
     .attr('transform', 'translate(' + x + ', ' + y + ')');
 
-  nodePreview(legend, 0, nodePreviewY, colorScale(10));
-  colorLegend(legend, 0, colorLegendY, colorScale);
+  legend.append('text')
+    .attr('transform', 'translate(0, 25)')
+    .attr('class', 'legend-main-title')
+    .text('Legend')
+    .style('text-anchor', 'start');
+
+  nodePreview(legend, indent, nodePreviewY, colorScale(10));
+  colorLegend(legend, indent, colorLegendY, colorScale);
 };
 
 function nodePreview(legend, x, y, color) {
