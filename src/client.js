@@ -248,7 +248,6 @@ $(function() {
             refresh();
           }
         }, 2000);
-        console.log('Data flow: ' + argv[1] + ' -> ' + argv[2]);
         return true;
       }
       return false;
