@@ -15,7 +15,7 @@ svg text {
   font-family: Montserrat, Avenir Next, Arial, Helvetica, sans-serif;
 }
 
-.arrow {
+.arrow, .arrowLegend {
   stroke-width: 3;
   stroke: #000;
 }

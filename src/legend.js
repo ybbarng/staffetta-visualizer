@@ -1,6 +1,7 @@
 exports.setup = function(svg, x, y, colorScale) {
   var nodeLegendY = 50;
-  var colorLegendY = 170;
+  var flowLegendY = 170;
+  var colorLegendY = 240;
   var indent = 10;
   var legend = svg.append('g')
     .attr('class', 'legend')
@@ -13,6 +14,7 @@ exports.setup = function(svg, x, y, colorScale) {
     .style('text-anchor', 'start');
 
   nodeLegend(legend, indent, nodeLegendY, colorScale(10));
+  flowLegend(legend, indent, flowLegendY);
   colorLegend(legend, indent, colorLegendY, colorScale);
 };
 
@@ -58,10 +60,35 @@ function nodeLegend(legend, x, y, color) {
         'y2': 30
     });
 
-  nodePreview.append('text')
+  nodeLegend.append('text')
     .text('Color: wake up frequency')
     .style('dominant-baseline', 'central')
     .attr('transform', 'translate(70, 30)');
+}
+
+function flowLegend(legend, x, y) {
+  var flowLegendSection = legend.append('g')
+    .attr('class', 'flowLegendSection')
+    .attr('transform', 'translate(' + x + ', ' + y + ')');
+
+  flowLegendSection.append('text')
+    .attr('class', 'legendTitle')
+    .text('Flow');
+
+  flowLegendSection.append('line')
+    .attr({
+        'class': 'arrowLegend',
+        'marker-end': 'url(#arrow)',
+        'x1': 0,
+        'y1': 15,
+        'x2': 50,
+        'y2': 15,
+    });
+
+  flowLegendSection.append('text')
+    .text(': A data flow, sent from left to right')
+    .style('dominant-baseline', 'central')
+    .attr('transform', 'translate(60, 15)');
 }
 
 function colorLegend(legend, x, y, colorScale) {
