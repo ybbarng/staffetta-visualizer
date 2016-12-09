@@ -13,9 +13,9 @@
         <option disabled selected value>파일 선택</option>
       </select>
       <form id="upload" action="/upload", method="post", enctype="multipart/form-data">
-        <input type="text" name="simulationName">
-        <input type="file" name="csc">
-        <input type="file" name="log">
+        <label for="simulationName">시뮬레이션 이름: </label><input type="text" name="simulationName">
+        <label for="csc">csc 파일</label><input type="file" name="csc" accept=".csc">
+        <label for="log">log 파일</label><input type="file" name="log" accept=".txt">
         <input type="submit" name="Upload">
       </form>
       <div id="visualizer"></div>
