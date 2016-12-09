@@ -10,11 +10,13 @@ exports.Node = function(nodeId, x, y) {
 
 exports.Node.prototype = {
   setNodeId: function(nodeId) {
-    nodeId -= 1;
-    var first = nodeId / 26;
+    nodeId -= 2;
+    var first = Math.floor(nodeId / 26);
     var second = nodeId % 26;
-    this.nodeId = (String.fromCharCode(97 + first) + String.fromCharCode(97 + second)).toUpperCase();
-    this.isSink = nodeId === 0;
+    var firstChar = first === 0 ? '' : String.fromCharCode(64 + first);
+    var secondChar = String.fromCharCode(65 + second);
+    this.nodeId = firstChar + secondChar;
+    this.isSink = nodeId === -1;
     if (this.isSink) {
       this.nodeId = 'sink';
     }
