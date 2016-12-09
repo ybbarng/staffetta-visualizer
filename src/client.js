@@ -3,6 +3,7 @@ var $ = require('jquery');
 var dataParser = require('./data-parser.js');
 var node = require('./node.js');
 var flow = require('./flow.js');
+var nodePreview = require('./node-preview.js');
 
 $(function() {
   var $dataSelect = $('#datafile');
@@ -102,50 +103,7 @@ $(function() {
         'y2': 600
     });
 
-  var nodePreviewSection = svg.append('g')
-    .attr('class', 'nodePreviewSection')
-    .attr('transform', 'translate(610, 20)')
-
-  nodePreviewSection.append('text')
-    .attr('class', 'title')
-    .text('Node Preview');
-
-  var nodePreview = nodePreviewSection.append('g')
-    .attr('class', 'nodePreview')
-    .attr('transform', 'translate(32, 40)');
-
-  nodePreview.append('circle')
-    .attr('r', 30)
-    .attr('stroke', 'gray')
-    .attr('stroke-width', 2)
-    .style('fill', color(10));
-
-  nodePreview.append('text')
-    .text('nodeID')
-    .style('text-anchor', 'middle')
-    .style('dominant-baseline', 'central');
-
-  nodePreview.append('line')
-    .attr('class', 'pointer')
-    .attr({
-        'x1': 17,
-        'y1': 17,
-        'x2': 30,
-        'y2': 30
-    });
-  nodePreview.append('line')
-    .attr('class', 'pointer')
-    .attr({
-        'x1': 30,
-        'y1': 30,
-        'x2': 60,
-        'y2': 30
-    });
-
-  nodePreview.append('text')
-  .text('Color: wake up frequency')
-    .style('dominant-baseline', 'central')
-    .attr('transform', 'translate(70, 30)');
+  nodePreview.setup(svg, 610, 20, color(10));
 
   function fillCircle(d) {
     return color(Math.min(d.frequency, 25));
