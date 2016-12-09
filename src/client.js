@@ -15,6 +15,7 @@ $(function() {
   var chart_width = 600;
   var chart_height = 600;
   var legend_left_margin = 10;
+  var legend_top_margin = 200;
   var logReaderInterval = 500;
 
   var x = d3.scale.linear().domain([-10, 130]).range([0, chart_width]);
@@ -54,7 +55,8 @@ $(function() {
   svg.append('g')
     .attr('class', 'colorLegend')
     .attr('transform', 'translate(' +
-        (chart_width + legend_left_margin) + ', 20)');
+        (chart_width + legend_left_margin) + ', ' +
+        legend_top_margin + ')');
 
   var colorLegend = d3.legend.color()
     .cells([1, 5, 10, 15, 20, 25])
@@ -69,14 +71,37 @@ $(function() {
   svg.select('.legendCells')
     .attr('transform', 'translate(0, 15)')
 
-    svg.append('line')
-      .attr('class', 'layout')
-      .attr({
-          'x1': 600,
-          'y1': 0,
-          'x2': 600,
-          'y2': 600
-      })
+  svg.append('line')
+    .attr('class', 'layout')
+    .attr({
+        'x1': 600,
+        'y1': 0,
+        'x2': 600,
+        'y2': 600
+    });
+
+  var nodePreviewSection = svg.append('g')
+    .attr('class', 'nodePreviewSection')
+    .attr('transform', 'translate(610, 20)')
+
+  nodePreviewSection.append('text')
+    .attr('class', 'title')
+    .text('Node Preview');
+
+  var nodePreview = nodePreviewSection.append('g')
+    .attr('class', 'nodePreview')
+    .attr('transform', 'translate(32, 40)');
+
+  nodePreview.append('circle')
+    .attr('r', 30)
+    .attr('stroke', 'gray')
+    .attr('stroke-width', 2)
+    .style('fill', color(10));
+
+  nodePreview.append('text')
+  .text('nodeID')
+    .style('text-anchor', 'middle')
+    .style('dominant-baseline', 'central');
 
   function fillCircle(d) {
     return color(Math.min(d.frequency, 25));
