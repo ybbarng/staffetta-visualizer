@@ -4,6 +4,8 @@
     <meta charset="utf-8">
     <title>Staffetta Visualizer</title>
     <link rel="stylesheet" href="css/main.css">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
   </head>
   <body>
     <div id="body">
@@ -22,17 +24,30 @@
           <h2>Upload Simulation Files</h2>
         </div>
         <div class="modal-body">
-          <form id="upload" action="/upload", method="post", enctype="multipart/form-data">
-            <div>
-              <label for="simulationName">Name of Simulation: </label><input type="text" name="simulationName">
+          <form id="upload" class="form-horizontal" action="/upload", method="post", enctype="multipart/form-data">
+            <div class="form-group">
+              <label for="simulationName" class="col-sm-3 control-label">Name of Simulation: </label>
+              <div class="col-sm-9">
+                <input type="text" class="form-control" id="simulationName" name="simulationName">
+              </div>
             </div>
-            <div>
-              <label for="csc">csc File: </label><input type="file" name="csc" accept=".csc">
+            <div class="form-group">
+              <label for="csc" class="col-sm-3 control-label">csc File: </label>
+              <div class="col-sm-9">
+                <input type="file" class="form-control" id="csc" name="csc" accept=".csc">
+              </div>
             </div>
-            <div>
-              <label for="log">log File: </label><input type="file" name="log" accept=".txt">
+            <div class="form-group">
+              <label for="log" class="col-sm-3 control-label">log File: </label>
+              <div class="col-sm-9">
+                <input type="file" class="form-control" id="csc" name="log" accept=".txt">
+              </div>
             </div>
-            <input type="submit" name="Upload">
+            <div class="form-group">
+              <div class="col-sm-offset-3 col-sm-9">
+                <button type="submit" class="btn btn-default">Upload</button>
+              </div>
+            </div>
           </form>
         </div>
       </div>
