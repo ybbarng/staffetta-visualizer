@@ -12,6 +12,12 @@
       <select id="datafile">
         <option disabled selected value>파일 선택</option>
       </select>
+      <form action="/upload", method="post", enctype="multipart/form-data">
+        <input type="text" name="simulationName">
+        <input type="file" name="csc">
+        <input type="file" name="log">
+        <input type="submit" name="Upload">
+      </form>
       <div id="visualizer"></div>
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>

@@ -9,6 +9,8 @@
     "browserify": "^13.1.1",
     "browserify-shim": "^3.8.12",
     "ecstatic": "^2.1.0",
+    "express": "^4.14.0",
+    "multer": "^1.2.0",
     "routes": "^2.1.0",
     "xml2js": "^0.4.17"
   },

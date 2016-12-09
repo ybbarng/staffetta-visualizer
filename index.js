@@ -1,9 +1,24 @@
-var http = require('http');
-var ecstatic = require('ecstatic')({root: __dirname + '/app', handleError: false});
-var router = require('routes')();
+var express = require('express');
+var multer = require('multer');
 var fs = require('fs');
 
-dataFolder = './app/data/';
+var app = express();
+
+app.use(express.static(__dirname + '/app'));
+
+var storage = multer.diskStorage({
+    destination: function(req, file, callback) {
+      callback(null, __dirname + '/app/data/');
+    },
+    filename: function(req, file, callback) {
+      var fileName = req.body.simulationName;
+      var extension = file.fieldname === 'csc' ? 'csc' : 'txt';
+      callback(null, fileName + '.' + extension);
+    }
+});
+var upload = multer({ storage: storage });
+
+dataFolder = __dirname + '/app/data/';
 var dataList = [];
 fs.readdir(dataFolder, function(error, files) {
   files.forEach(function(file) {
@@ -14,21 +29,20 @@ fs.readdir(dataFolder, function(error, files) {
   });
 });
 
-router.addRoute('/datalist.json', function(req, res, params) {
-  res.end(JSON.stringify(dataList));
+app.get('/datalist.json', function(req, res) {
+  res.send(JSON.stringify(dataList));
 });
 
-var server = http.createServer(function(req, res) {
-  var m = router.match(req.url);
-  if (m) {
-    m.fn(req, res, m.params);
-  } else {
-    ecstatic(req, res);
-  }
+app.post('/upload', upload.fields([{
+        'name': 'csc', maxCount: 1
+      }, {
+        'name': 'log', maxCount:1
+      }]), function(req, res, next) {
+  res.sendStatus(200);
 });
 
 var port = 12025;
-server.listen(port, function() {
+app.listen(port, function() {
   console.log('Server is started.');
   console.log('Listening on ' + port);
 });
