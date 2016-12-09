@@ -12,9 +12,9 @@ svg text {
   stroke-dasharray: 0;
 }
 
-.layout {
-  stroke-width: 1;
-  stroke: #333;
+.layout, .pointer {
+  stroke-width: 2;
+  stroke: #555;
 }
 
 text.legendTitle, text.title {

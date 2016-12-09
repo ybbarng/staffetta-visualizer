@@ -10,7 +10,7 @@ $(function() {
   var flows = [];
   var logReader = null;
 
-  var svg_width = 800;
+  var svg_width = 900;
   var svg_height = 600;
   var chart_width = 600;
   var chart_height = 600;
@@ -99,9 +99,31 @@ $(function() {
     .style('fill', color(10));
 
   nodePreview.append('text')
-  .text('nodeID')
+    .text('nodeID')
     .style('text-anchor', 'middle')
     .style('dominant-baseline', 'central');
+
+  nodePreview.append('line')
+    .attr('class', 'pointer')
+    .attr({
+        'x1': 17,
+        'y1': 17,
+        'x2': 30,
+        'y2': 30
+    });
+  nodePreview.append('line')
+    .attr('class', 'pointer')
+    .attr({
+        'x1': 30,
+        'y1': 30,
+        'x2': 60,
+        'y2': 30
+    });
+
+  nodePreview.append('text')
+  .text('Color: Wake up frequency (10)')
+    .style('dominant-baseline', 'central')
+    .attr('transform', 'translate(70, 30)');
 
   function fillCircle(d) {
     return color(Math.min(d.frequency, 25));
