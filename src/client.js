@@ -48,21 +48,7 @@ $(function() {
     .append('svg').attr({width: svg_width, height: svg_height});
   var chart = svg.append('g');
 
-  var defs = svg.append('defs');
-
-  defs.append('marker')
-    .attr({
-        'id': 'arrow',
-        'viewBox': '0 -5 10 10',
-        'refX': 5,
-        'refY': 0,
-        'markerWidth': 4,
-        'markerHeight': 4,
-        'orient': 'auto'
-    })
-    .append('path')
-      .attr('d', 'M0,-5L10,0L0,5')
-      .attr('class', 'arrowHead');
+  setupArrowHead(svg);
 
   var nodesGroup = chart.append('g')
     .attr('class', 'nodes');
@@ -257,5 +243,23 @@ $(function() {
       window.clearInterval(logReader);
       logReader = null;
     }
+  }
+
+  function setupArrowHead(svg) {
+    var defs = svg.append('defs');
+
+    defs.append('marker')
+      .attr({
+          'id': 'arrow',
+          'viewBox': '0 -5 10 10',
+          'refX': 5,
+          'refY': 0,
+          'markerWidth': 4,
+          'markerHeight': 4,
+          'orient': 'auto'
+      })
+      .append('path')
+        .attr('d', 'M0,-5L10,0L0,5')
+        .attr('class', 'arrowHead');
   }
 });
