@@ -20,14 +20,18 @@ var upload = multer({ storage: storage });
 
 dataFolder = __dirname + '/app/data/';
 var dataList = [];
-fs.readdir(dataFolder, function(error, files) {
-  files.forEach(function(file) {
-    var dataName = file.split('.')[0];
-    if (dataList.indexOf(dataName) === -1) {
-      dataList.push(dataName);
-    }
+function loadDataList() {
+  dataList = [];
+  fs.readdir(dataFolder, function(error, files) {
+    files.forEach(function(file) {
+      var dataName = file.split('.')[0];
+      if (dataList.indexOf(dataName) === -1) {
+        dataList.push(dataName);
+      }
+    });
   });
-});
+}
+loadDataList();
 
 app.get('/datalist.json', function(req, res) {
   res.send(JSON.stringify(dataList));
@@ -38,6 +42,7 @@ app.post('/upload', upload.fields([{
       }, {
         'name': 'log', maxCount:1
       }]), function(req, res, next) {
+  loadDataList();
   res.sendStatus(200);
 });
 

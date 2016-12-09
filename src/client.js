@@ -9,8 +9,35 @@ $(function() {
   var $dataSelect = $('#datafile');
   $dataSelect.change(loadDataFile);
 
+  $('#upload').submit(function(e) {
+    e.preventDefault();
+    var formData = new FormData($('#upload')[0]);
+    $.ajax({
+        type: 'POST',
+        url: '/upload',
+        cache: false,
+        data: formData,
+        processData: false,
+        contentType: false,
+        success: function(result, status) {
+          loadDataFileList();
+        },
+        error: function(result, status) {
+          console.log(result);
+          console.log(status);
+        }
+    });
+  });
+
+  var $defaultOption = $('<option>', {
+        value: '',
+        text: '파일 선택'
+  }).attr('disabled', true)
+    .attr('selected', true);
   function loadDataFileList() {
+    $dataSelect.empty();
     $.get('/datalist.json', function(data) {
+      $dataSelect.append($defaultOption);
       var dataList = JSON.parse(data);
       dataList.map(function(dataName) {
         $dataSelect.append($('<option>', {
