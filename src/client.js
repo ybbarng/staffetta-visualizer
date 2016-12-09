@@ -15,7 +15,7 @@ $(function() {
   var chart_width = 600;
   var chart_height = 600;
   var legend_left_margin = 10;
-  var legend_top_margin = 200;
+  var legend_top_margin = 140;
   var logReaderInterval = 500;
 
   var x = d3.scale.linear().domain([-10, 130]).range([0, chart_width]);
