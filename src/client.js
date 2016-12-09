@@ -143,7 +143,7 @@ $(function() {
     });
 
   nodePreview.append('text')
-  .text('Color: Wake up frequency (10)')
+  .text('Color: wake up frequency')
     .style('dominant-baseline', 'central')
     .attr('transform', 'translate(70, 30)');
 
