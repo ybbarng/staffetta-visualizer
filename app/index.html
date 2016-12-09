@@ -8,17 +8,34 @@
   <body>
     <div id="body">
       <h1>Staffetta Visualizer</h1>
-      <label for="datafile">데이터 파일: </label>
+      <label for="datafile">Data file: </label>
       <select id="datafile">
-        <option disabled selected value>파일 선택</option>
+        <option disabled selected value>Select file</option>
       </select>
-      <form id="upload" action="/upload", method="post", enctype="multipart/form-data">
-        <label for="simulationName">시뮬레이션 이름: </label><input type="text" name="simulationName">
-        <label for="csc">csc 파일</label><input type="file" name="csc" accept=".csc">
-        <label for="log">log 파일</label><input type="file" name="log" accept=".txt">
-        <input type="submit" name="Upload">
-      </form>
+      <button id="uploadButton">Upload Simulation Files</button>
       <div id="visualizer"></div>
+    </div>
+    <div id="uploadModal" class="modal">
+      <div class="modal-content">
+        <div class="modal-header">
+          <span class="close">&times</span>
+          <h2>Upload Simulation Files</h2>
+        </div>
+        <div class="modal-body">
+          <form id="upload" action="/upload", method="post", enctype="multipart/form-data">
+            <div>
+              <label for="simulationName">Name of Simulation: </label><input type="text" name="simulationName">
+            </div>
+            <div>
+              <label for="csc">csc File: </label><input type="file" name="csc" accept=".csc">
+            </div>
+            <div>
+              <label for="log">log File: </label><input type="file" name="log" accept=".txt">
+            </div>
+            <input type="submit" name="Upload">
+          </form>
+        </div>
+      </div>
     </div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3/3.5.6/d3.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/d3-legend/1.13.0/d3-legend.min.js"></script>

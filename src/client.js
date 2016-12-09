@@ -9,6 +9,21 @@ $(function() {
   var $dataSelect = $('#datafile');
   $dataSelect.change(loadDataFile);
 
+  var modal = $('#uploadModal')[0];
+  $('#uploadButton').click(function() {
+    modal.style.display = 'block';
+  });
+
+  $('.close').click(function() {
+    modal.style.display = 'none';
+  });
+
+  window.onclick = function(event) {
+    if (event.target === modal) {
+      modal.style.display = 'none';
+    }
+  };
+
   $('#upload').submit(function(e) {
     e.preventDefault();
     var formData = new FormData($('#upload')[0]);
@@ -21,6 +36,7 @@ $(function() {
         contentType: false,
         success: function(result, status) {
           loadDataFileList();
+					modal.style.display = 'none';
         },
         error: function(result, status) {
           console.log(result);
