@@ -4,6 +4,7 @@ var dataParser = require('./data-parser.js');
 var node = require('./node.js');
 var flow = require('./flow.js');
 var nodePreview = require('./node-preview.js');
+var legend = require('./legend.js');
 
 $(function() {
   var $dataSelect = $('#datafile');
@@ -56,29 +57,9 @@ $(function() {
   var flowsGroup = chart.append('g')
     .attr('class', 'flows');
 
-  // for legend
   var color = d3.scale.linear()
     .domain([0, 25])
     .range(['rgb(89, 255, 255)', 'rgb(255, 155, 255)']);
-
-  svg.append('g')
-    .attr('class', 'colorLegend')
-    .attr('transform', 'translate(' +
-        (chart_width + legend_left_margin) + ', ' +
-        legend_top_margin + ')');
-
-  var colorLegend = d3.legend.color()
-    .cells([1, 5, 10, 15, 20, 25])
-    .labels(["low (1)", "", "default (10)", "", "", "high (25)"])
-    .scale(color)
-    .shapePadding(0)
-    .title('Wake Up Frequency');
-
-  svg.select('.colorLegend')
-    .call(colorLegend);
-
-  svg.select('.legendCells')
-    .attr('transform', 'translate(0, 15)')
 
   svg.append('line')
     .attr('class', 'layout')
@@ -89,7 +70,9 @@ $(function() {
         'y2': 600
     });
 
+  // Left side of svg
   nodePreview.setup(svg, 610, 20, color(10));
+  legend.setup(svg, chart_width + legend_left_margin, legend_top_margin, color);
 
   function fillCircle(d) {
     return color(Math.min(d.frequency, 25));
