@@ -1,5 +1,5 @@
 exports.setup = function(svg, x, y, colorScale) {
-  var nodePreviewY = 50;
+  var nodeLegendY = 50;
   var colorLegendY = 170;
   var indent = 10;
   var legend = svg.append('g')
@@ -12,35 +12,35 @@ exports.setup = function(svg, x, y, colorScale) {
     .text('Legend')
     .style('text-anchor', 'start');
 
-  nodePreview(legend, indent, nodePreviewY, colorScale(10));
+  nodeLegend(legend, indent, nodeLegendY, colorScale(10));
   colorLegend(legend, indent, colorLegendY, colorScale);
 };
 
-function nodePreview(legend, x, y, color) {
-  var nodePreviewSection = legend.append('g')
-    .attr('class', 'nodePreviewSection')
+function nodeLegend(legend, x, y, color) {
+  var nodeLegendSection = legend.append('g')
+    .attr('class', 'nodeLegendSection')
     .attr('transform', 'translate(' + x + ', ' + y + ')');
 
-  nodePreviewSection.append('text')
-    .attr('class', 'title')
-    .text('Node Preview');
+  nodeLegendSection.append('text')
+    .attr('class', 'legendTitle')
+    .text('Node Legend');
 
-  var nodePreview = nodePreviewSection.append('g')
-    .attr('class', 'nodePreview')
+  var nodeLegend = nodeLegendSection.append('g')
+    .attr('class', 'nodeLegend')
     .attr('transform', 'translate(32, 40)');
 
-  nodePreview.append('circle')
+  nodeLegend.append('circle')
     .attr('r', 30)
     .attr('stroke', 'gray')
     .attr('stroke-width', 2)
     .style('fill', color);
 
-  nodePreview.append('text')
+  nodeLegend.append('text')
     .text('nodeID')
     .style('text-anchor', 'middle')
     .style('dominant-baseline', 'central');
 
-  nodePreview.append('line')
+  nodeLegend.append('line')
     .attr('class', 'pointer')
     .attr({
         'x1': 17,
@@ -49,7 +49,7 @@ function nodePreview(legend, x, y, color) {
         'y2': 30
     });
 
-  nodePreview.append('line')
+  nodeLegend.append('line')
     .attr('class', 'pointer')
     .attr({
         'x1': 30,
