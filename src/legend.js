@@ -23,7 +23,7 @@ function nodeLegend(legend, x, y, color) {
 
   nodeLegendSection.append('text')
     .attr('class', 'legendTitle')
-    .text('Node Legend');
+    .text('Node');
 
   var nodeLegend = nodeLegendSection.append('g')
     .attr('class', 'nodeLegend')
