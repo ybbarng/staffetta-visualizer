@@ -3,7 +3,6 @@ var $ = require('jquery');
 var dataParser = require('./data-parser.js');
 var node = require('./node.js');
 var flow = require('./flow.js');
-var nodePreview = require('./node-preview.js');
 var legend = require('./legend.js');
 
 $(function() {
@@ -39,7 +38,6 @@ $(function() {
   var chart_width = 600;
   var chart_height = 600;
   var legend_left_margin = 10;
-  var legend_top_margin = 140;
   var logReaderInterval = 500;
 
   var x = d3.scale.linear().domain([-10, 130]).range([0, chart_width]);
@@ -71,8 +69,7 @@ $(function() {
     });
 
   // Left side of svg
-  nodePreview.setup(svg, 610, 20, color(10));
-  legend.setup(svg, chart_width + legend_left_margin, legend_top_margin, color);
+  legend.setup(svg, chart_width + legend_left_margin, 0, color);
 
   function fillCircle(d) {
     return color(Math.min(d.frequency, 25));
