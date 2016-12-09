@@ -4,7 +4,7 @@ var xml2js = require('xml2js');
 var parser = new xml2js.Parser();
 
 exports.DataParser = function(onComplete, filename) {
-  var filename = (typeof filename !== 'undefined' ? b : 'infovis');
+  var filename = (typeof filename !== 'undefined' ? filename : 'infovis');
   this.cscReady = false;
   this.logReady = false;
 

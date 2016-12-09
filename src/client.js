@@ -5,7 +5,29 @@ var node = require('./node.js');
 var flow = require('./flow.js');
 
 $(function() {
-  var parser = new dataParser.DataParser(onComplete);
+  var $dataSelect = $('#datafile');
+  $dataSelect.change(loadDataFile);
+
+  function loadDataFileList() {
+    $.get('/datalist.json', function(data) {
+      var dataList = JSON.parse(data);
+      dataList.map(function(dataName) {
+        $dataSelect.append($('<option>', {
+              value: dataName,
+              text: dataName
+        }));
+      });
+    });
+  }
+  loadDataFileList();
+
+  var parser = null;
+  function loadDataFile() {
+    var filename = $(this).find('option:selected').text();
+    stopLogReader();
+    parser = new dataParser.DataParser(onComplete, filename);
+
+  }
   var nodes = [];
   var flows = [];
   var logReader = null;
@@ -133,6 +155,12 @@ $(function() {
     var nodeViews = nodesGroup.selectAll('.node')
       .data(nodes, function(d) { return d.nodeId; });
 
+    nodeViews.transition('update')
+      .duration(500)
+      .attr('transform', function(d) {
+        return 'translate(' + x(d.x) + ', ' + y(d.y) + ')';
+      });
+
     var newNodeViews = nodeViews.enter()
       .append('g')
       .attr('class', 'node')
@@ -147,7 +175,7 @@ $(function() {
       .attr('stroke-width', 2)
       .style('fill', fillCircle);
 
-    var nodeCircles = nodesGroup.selectAll('circle')
+    var nodeCircles = nodeViews.select('circle')
       .transition('update')
       .duration(100)
       .style('fill', fillCircle);
@@ -159,10 +187,16 @@ $(function() {
       .style('text-anchor', 'middle')
       .style('dominant-baseline', 'central');
 
-    newNodeViews.transition('update')
+    newNodeViews.transition('enter')
       .duration(500)
       .delay(function(d, i) {return 50 * i;})
       .style('opacity', 1);
+
+    nodeViews.exit()
+      .transition('exit')
+      .duration(500)
+      .style('opacity', 0)
+      .remove();
 
     var flowViews = flowsGroup.selectAll('.arrow')
       .data(flows, function(d) { return d.id; });
@@ -195,6 +229,8 @@ $(function() {
   }
 
   function initiateSimulation(csc) {
+    nodes = [];
+    flows = [];
     var motes = csc.simconf.simulation[0].mote;
     for (var i = 0; i < motes.length; i++) {
       var mote = motes[i];
