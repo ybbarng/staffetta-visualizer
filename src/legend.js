@@ -46,24 +46,31 @@ function nodeLegend(legend, x, y, color) {
     .attr('class', 'pointer')
     .attr({
         'x1': 17,
-        'y1': 17,
+        'y1': -17,
         'x2': 30,
-        'y2': 30
+        'y2': -30
     });
 
   nodeLegend.append('line')
     .attr('class', 'pointer')
     .attr({
         'x1': 30,
-        'y1': 30,
+        'y1': -30,
         'x2': 60,
-        'y2': 30
+        'y2': -30
     });
 
   nodeLegend.append('text')
     .text('Color: wake up frequency')
     .style('dominant-baseline', 'central')
-    .attr('transform', 'translate(70, 30)');
+    .attr('transform', 'translate(70, -30)');
+
+  nodeLegend.append('text')
+    .attr('class', 'inOutMessage')
+    .style('text-anchor', 'middle')
+    .style('dominant-baseline', 'central')
+    .attr('transform', 'translate(25, 40)')
+    .text('# of in / out messages');
 }
 
 function flowLegend(legend, x, y) {
