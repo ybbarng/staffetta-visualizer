@@ -36,13 +36,13 @@ function nodeLegend(legend, x, y, color) {
     .attr('stroke', 'gray')
     .attr('stroke-width', 2)
     .style('fill', color)
-    .attr('transform', 'translate(10, 15)');
+    .attr('transform', 'translate(40, 15)');
 
   nodeLegend.append('text')
     .text('nodeID')
     .style('text-anchor', 'middle')
     .style('dominant-baseline', 'central')
-    .attr('transform', 'translate(10, 15)');
+    .attr('transform', 'translate(40, 15)');
 
   nodeLegend.append('text')
     .text('collision')
@@ -55,37 +55,56 @@ function nodeLegend(legend, x, y, color) {
       .attr('xlink:href', '/static/collision.svg')
       .attr('width', 30)
       .attr('height', 30)
-      .attr('x', -20)
+      .attr('x', 10)
       .attr('y', -20);
 
   nodeLegend.append('line')
     .attr('class', 'pointer')
     .attr({
-        'x1': 27,
+        'x1': 20,
+        'y1': -5,
+        'x2': 0,
+        'y2': -5
+    });
+
+  nodeLegend.append('line')
+    .attr('class', 'pointer')
+    .attr({
+        'x1': 0,
+        'y1': -5,
+        'x2': -8,
+        'y2': -16
+    });
+
+
+  nodeLegend.append('line')
+    .attr('class', 'pointer')
+    .attr({
+        'x1': 57,
         'y1': -2,
-        'x2': 40,
+        'x2': 70,
         'y2': -15
     });
 
   nodeLegend.append('line')
     .attr('class', 'pointer')
     .attr({
-        'x1': 40,
+        'x1': 70,
         'y1': -15,
-        'x2': 70,
+        'x2': 100,
         'y2': -15
     });
 
   nodeLegend.append('text')
     .text('Color: wake up frequency')
     .style('dominant-baseline', 'central')
-    .attr('transform', 'translate(80, -15)');
+    .attr('transform', 'translate(110, -15)');
 
   nodeLegend.append('text')
     .attr('class', 'inOutMessage')
     .style('text-anchor', 'middle')
     .style('dominant-baseline', 'central')
-    .attr('transform', 'translate(35, 55)')
+    .attr('transform', 'translate(65, 55)')
     .text('# of in / out messages');
 }
 
