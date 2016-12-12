@@ -1,7 +1,7 @@
 exports.setup = function(svg, x, y, colorScale) {
   var nodeLegendY = 50;
-  var flowLegendY = 170;
-  var colorLegendY = 240;
+  var flowLegendY = 190;
+  var colorLegendY = 260;
   var indent = 10;
   var legend = svg.append('g')
     .attr('class', 'legend')
@@ -35,41 +35,43 @@ function nodeLegend(legend, x, y, color) {
     .attr('r', 30)
     .attr('stroke', 'gray')
     .attr('stroke-width', 2)
-    .style('fill', color);
+    .style('fill', color)
+    .attr('transform', 'translate(10, 0)');
 
   nodeLegend.append('text')
     .text('nodeID')
     .style('text-anchor', 'middle')
-    .style('dominant-baseline', 'central');
+    .style('dominant-baseline', 'central')
+    .attr('transform', 'translate(10, 0)');
 
   nodeLegend.append('line')
     .attr('class', 'pointer')
     .attr({
-        'x1': 17,
+        'x1': 27,
         'y1': -17,
-        'x2': 30,
+        'x2': 40,
         'y2': -30
     });
 
   nodeLegend.append('line')
     .attr('class', 'pointer')
     .attr({
-        'x1': 30,
+        'x1': 40,
         'y1': -30,
-        'x2': 60,
+        'x2': 70,
         'y2': -30
     });
 
   nodeLegend.append('text')
     .text('Color: wake up frequency')
     .style('dominant-baseline', 'central')
-    .attr('transform', 'translate(70, -30)');
+    .attr('transform', 'translate(80, -30)');
 
   nodeLegend.append('text')
     .attr('class', 'inOutMessage')
     .style('text-anchor', 'middle')
     .style('dominant-baseline', 'central')
-    .attr('transform', 'translate(25, 40)')
+    .attr('transform', 'translate(35, 40)')
     .text('# of in / out messages');
 }
 
