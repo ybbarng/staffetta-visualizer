@@ -1,7 +1,7 @@
 exports.setup = function(svg, x, y, colorScale) {
   var nodeLegendY = 50;
-  var flowLegendY = 190;
-  var colorLegendY = 260;
+  var flowLegendY = 200;
+  var colorLegendY = 270;
   var indent = 10;
   var legend = svg.append('g')
     .attr('class', 'legend')
@@ -36,42 +36,56 @@ function nodeLegend(legend, x, y, color) {
     .attr('stroke', 'gray')
     .attr('stroke-width', 2)
     .style('fill', color)
-    .attr('transform', 'translate(10, 0)');
+    .attr('transform', 'translate(10, 15)');
 
   nodeLegend.append('text')
     .text('nodeID')
     .style('text-anchor', 'middle')
     .style('dominant-baseline', 'central')
-    .attr('transform', 'translate(10, 0)');
+    .attr('transform', 'translate(10, 15)');
+
+  nodeLegend.append('text')
+    .text('collision')
+    .style('text-anchor', 'middle')
+    .style('dominant-baseline', 'central')
+    .attr('transform', 'translate(-10, -25)');
+
+  nodeLegend.append('svg:image')
+      .attr('class', 'collision')
+      .attr('xlink:href', '/static/collision.svg')
+      .attr('width', 30)
+      .attr('height', 30)
+      .attr('x', -20)
+      .attr('y', -20);
 
   nodeLegend.append('line')
     .attr('class', 'pointer')
     .attr({
         'x1': 27,
-        'y1': -17,
+        'y1': -2,
         'x2': 40,
-        'y2': -30
+        'y2': -15
     });
 
   nodeLegend.append('line')
     .attr('class', 'pointer')
     .attr({
         'x1': 40,
-        'y1': -30,
+        'y1': -15,
         'x2': 70,
-        'y2': -30
+        'y2': -15
     });
 
   nodeLegend.append('text')
     .text('Color: wake up frequency')
     .style('dominant-baseline', 'central')
-    .attr('transform', 'translate(80, -30)');
+    .attr('transform', 'translate(80, -15)');
 
   nodeLegend.append('text')
     .attr('class', 'inOutMessage')
     .style('text-anchor', 'middle')
     .style('dominant-baseline', 'central')
-    .attr('transform', 'translate(35, 40)')
+    .attr('transform', 'translate(35, 55)')
     .text('# of in / out messages');
 }
 
