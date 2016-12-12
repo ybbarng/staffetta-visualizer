@@ -6,6 +6,8 @@ exports.Node = function(nodeId, x, y) {
   if (this.isSink) {
     this.frequency = 25;
   }
+  this.inMessage = 0;
+  this.outMessage = 0;
 };
 
 exports.Node.prototype = {

@@ -154,6 +154,21 @@ $(function() {
       .style('text-anchor', 'middle')
       .style('dominant-baseline', 'central');
 
+    function printInAndOutMessage(d) {
+      return d.inMessage + ' / ' + d.outMessage;
+    }
+
+    newNodeViews.append('text')
+      .attr('class', 'inOutMessage')
+      .style('text-anchor', 'middle')
+      .style('dominant-baseline', 'central')
+      .attr('transform', 'translate(0, 24)');
+
+    var nodeLabels = nodeViews.select('text.inOutMessage')
+      .transition('update')
+      .duration(500)
+      .text(printInAndOutMessage);
+
     newNodeViews.transition('enter')
       .duration(500)
       .delay(function(d, i) {return 50 * i;})
@@ -242,8 +257,13 @@ $(function() {
         node.onAck(timestamp, argv[1], argv[2]);
         return true;
       } else if (argv[0] === 5) {
-        var newFlow = new flow.Flow(nodes[argv[1] - 1], nodes[argv[2] - 1]);
+        var fromNode = nodes[argv[1] - 1];
+        var toNode = nodes[argv[2] - 1];
+        var newFlow = new flow.Flow(fromNode, toNode);
         flows.push(newFlow);
+        fromNode.outMessage += 1;
+        toNode.inMessage += 1;
+        refresh();
         setTimeout(function() {
           var index = flows.indexOf(newFlow);
           if (index > -1) {
