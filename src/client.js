@@ -2,6 +2,7 @@ var fs = require('fs');
 var $ = require('jquery');
 var dataParser = require('./data-parser.js');
 var node = require('./node.js');
+var collision = require('./collision.js');
 var flow = require('./flow.js');
 var legend = require('./legend.js');
 
@@ -73,6 +74,7 @@ $(function() {
 
   }
   var nodes = [];
+  var collisions = [];
   var flows = [];
   var logReader = null;
 
@@ -94,6 +96,9 @@ $(function() {
 
   var nodesGroup = chart.append('g')
     .attr('class', 'nodes');
+
+  var collisionsGroup = chart.append('g')
+    .attr('class', 'collisions');
 
   var flowsGroup = chart.append('g')
     .attr('class', 'flows');
@@ -175,6 +180,28 @@ $(function() {
       .style('opacity', 1);
 
     nodeViews.exit()
+      .transition('exit')
+      .duration(500)
+      .style('opacity', 0)
+      .remove();
+
+    var collisionViews = collisionsGroup.selectAll('.collision')
+      .data(collisions, function(d) { return d.id; });
+
+    var newCollisionViews = collisionViews.enter()
+      .append('svg:image')
+      .attr('class', 'collision')
+      .attr('xlink:href', '/static/collision.svg')
+      .attr('width', 25)
+      .attr('height', 25)
+      .attr('x', function(d) { return x(d.x); })
+      .attr('y', function(d) { return y(d.y); })
+      .style('opacity', 0)
+      .transition('enter')
+      .duration(500)
+      .style('opacity', 1);
+
+      collisionViews.exit()
       .transition('exit')
       .duration(500)
       .style('opacity', 0)
@@ -276,6 +303,16 @@ $(function() {
       return false;
     } else if (message.indexOf('collision') !== -1) {
       node.onCollision(timestamp);
+      var newCollision = new collision.Collision(node);
+      collisions.push(newCollision);
+      refresh();
+        setTimeout(function() {
+          var index = collisions.indexOf(newCollision);
+          if (index > -1) {
+            collisions.splice(index, 1);
+            refresh();
+          }
+        }, 2000);
       return false;
     }
     return false;

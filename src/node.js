@@ -1,7 +1,7 @@
 exports.Node = function(nodeId, x, y) {
   this.setNodeId(nodeId);
-  this.x = x;
-  this.y = y;
+  this.x = parseInt(x);
+  this.y = parseInt(y);
   this.frequency = 10;
   if (this.isSink) {
     this.frequency = 25;
@@ -30,6 +30,5 @@ exports.Node.prototype = {
     this.frequency = frequency;
   },
   onCollision: function(timestamp) {
-    console.log('Node ' + this.nodeId + ': collision');
   }
 };
