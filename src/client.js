@@ -251,6 +251,7 @@ $(function() {
   function initiateSimulation(csc) {
     nodes = [];
     flows = [];
+    collisions = [];
     var motes = csc.simconf.simulation[0].mote;
     for (var i = 0; i < motes.length; i++) {
       var mote = motes[i];
