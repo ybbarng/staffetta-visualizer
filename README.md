@@ -1,5 +1,8 @@
 # Staffetta Visualizer
 
+* [Source Code](https://github.com/ybbarng/staffetta-visualizer)
+* [Demonstration](https://staffetta.byb.kr)
+
 ## Prerequisites
 
 ### Install Dependencies
