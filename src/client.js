@@ -119,6 +119,15 @@ $(function() {
   // Left side of svg
   legend.setup(svg, chart_width + legend_left_margin, 0, color);
 
+  var tip = d3.tip()
+    .attr('class', 'd3-tip')
+    .offset([-10, 0])
+    .html(function(d) {
+      return d.frequency + ' wake-ups/second';
+    });
+
+  svg.call(tip);
+
   function fillCircle(d) {
     return color(Math.min(d.frequency, 25));
   }
@@ -139,7 +148,9 @@ $(function() {
       .attr('transform', function(d) {
         return 'translate(' + x(d.x) + ', ' + y(d.y) + ')';
       })
-      .style('opacity', 0);
+      .style('opacity', 0)
+      .on('mouseover', tip.show)
+      .on('mouseout', tip.hide);
 
     newNodeViews.append('circle')
       .attr('r', 14)
