@@ -44,6 +44,9 @@ text.legendTitle {
   font-weight: bold;
 }
 
+#footer {
+  text-align: center;
+}
 
 /* The Modal (background) */
 .modal {
