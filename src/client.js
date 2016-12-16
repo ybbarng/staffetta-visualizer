@@ -200,7 +200,7 @@ $(function() {
       .transition('update')
       .duration(500)
       .text(function(d) {
-        return 'D: ' + (d.dutyCycle / 10) + '% P: ' + d.power + 'uJ';
+        return 'D: ' + (d.dutyCycle / 10) + '% P: ' + d.power + 'μJ';
       });
 
     function printInAndOutMessage(d) {
@@ -289,7 +289,7 @@ $(function() {
       });
     simulationInfoView.select('.totalPower')
       .text(function(d) {
-        return 'Power: ' + simulationInfo.totalPower + 'uJ';
+        return 'Power: ' + simulationInfo.totalPower + 'μJ';
       });
   }
 
