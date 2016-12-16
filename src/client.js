@@ -5,6 +5,7 @@ var node = require('./node.js');
 var collision = require('./collision.js');
 var flow = require('./flow.js');
 var legend = require('./legend.js');
+var SimulationInfo = require('./simulation-info.js');
 
 $(function() {
   var $dataSelect = $('#datafile');
@@ -76,6 +77,7 @@ $(function() {
   var nodes = [];
   var collisions = [];
   var flows = [];
+  var simulationInfo = new SimulationInfo.SimulationInfo();
   var logReader = null;
 
   var chart_width = 700;
@@ -117,8 +119,25 @@ $(function() {
         'y2': svg_height
     });
 
-  // Left side of svg
-  legend.setup(svg, chart_width + legend_left_margin, 0, color);
+  var rightStart = chart_width + legend_left_margin;
+  // Right side of svg
+  legend.setup(svg, rightStart, 0, color);
+
+  var simulationInfoView = svg.append('g')
+    .attr('class', 'simulationInfo')
+    .attr('transform', 'translate(' + rightStart + ', ' + (svg_height - 100) + ')');
+
+  var totalCollisionView = simulationInfoView.append('text')
+    .attr('class', 'totalCollision')
+    .attr('transform', 'translate(0, 0)');
+
+  var timestampView = simulationInfoView.append('text')
+    .attr('class', 'timestamp')
+    .attr('transform', 'translate(0, 20)');
+
+  var totalPowerView = simulationInfoView.append('text')
+    .attr('class', 'totalPower')
+    .attr('transform', 'translate(0, 40)');
 
   var tip = d3.tip()
     .attr('class', 'd3-tip')
@@ -255,6 +274,23 @@ $(function() {
       .duration(500)
       .style('opacity', 0)
       .remove();
+    refreshSimulationInfo();
+  }
+
+  function refreshSimulationInfo() {
+    simulationInfoView.data(simulationInfo);
+    simulationInfoView.select('.totalCollision')
+      .text(function(d) {
+        return 'Collisions: ' + simulationInfo.collision;
+      });
+    simulationInfoView.select('.timestamp')
+      .text(function(d) {
+        return 'Timestamp: ' + simulationInfo.timestamp;
+      });
+    simulationInfoView.select('.totalPower')
+      .text(function(d) {
+        return 'Power: ' + simulationInfo.totalPower + 'uJ';
+      });
   }
 
   function onComplete(csc, log) {
@@ -266,6 +302,7 @@ $(function() {
     nodes = [];
     flows = [];
     collisions = [];
+    simulationInfo.initiate();
     var motes = csc.simconf.simulation[0].mote;
     for (var i = 0; i < motes.length; i++) {
       var mote = motes[i];
@@ -287,6 +324,7 @@ $(function() {
         }
         message = message.split('\t');
         var timestamp = message[0];
+        simulationInfo.timestamp = timestamp;
         var nodeIndex = parseInt(message[1].substring(3)) - 1;
         var message = message[2];
         var result = parseNodeMessage(nodeIndex, timestamp, message);
@@ -294,6 +332,8 @@ $(function() {
         if (result) {
           refresh();
           break;
+        } else {
+          refreshSimulationInfo();
         }
       }
     }, logReaderInterval);
@@ -328,6 +368,7 @@ $(function() {
       } else if (argv[0] === 6) {
         node.power = parseInt(argv[1]);
         node.dutyCycle = parseInt(argv[2]);
+        simulationInfo.updateTotalPower(nodes);
         return true;
       }
       return false;
@@ -335,6 +376,7 @@ $(function() {
       node.onCollision(timestamp);
       var newCollision = new collision.Collision(node);
       collisions.push(newCollision);
+      simulationInfo.collision += 1;
       refresh();
         setTimeout(function() {
           var index = collisions.indexOf(newCollision);
