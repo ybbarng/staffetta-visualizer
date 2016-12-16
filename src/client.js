@@ -200,7 +200,7 @@ $(function() {
       .transition('update')
       .duration(500)
       .text(function(d) {
-        return 'D: ' + d.dutyCycle + '% P: ' + d.power + 'uJ';
+        return 'D: ' + (d.dutyCycle / 10) + '% P: ' + d.power + 'uJ';
       });
 
     function printInAndOutMessage(d) {
