@@ -24,6 +24,9 @@ function loadDataList() {
   dataList = [];
   fs.readdir(dataFolder, function(error, files) {
     files.forEach(function(file) {
+      if (file.indexOf('txt') === -1) {
+        return;
+      }
       var dataName = file.split('.')[0];
       if (dataList.indexOf(dataName) === -1) {
         dataList.push(dataName);

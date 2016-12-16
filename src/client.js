@@ -84,7 +84,7 @@ $(function() {
   var chart_height = 700;
   var chart_padding = 50;
   var legend_left_margin = 10;
-  var logReaderInterval = 500;
+  var logReaderInterval = 200;
   var svg_width = chart_width + 350;
   var svg_height = chart_height;
 
@@ -349,12 +349,13 @@ $(function() {
     if (node.isSink) {
       return false;
     }
-    if (/^\d+ \d+ \d+$/.test(message)) {
+    if (/^\d+ \d+ \d+\s*$/.test(message)) {
       var argv = message.split(' ').map(Number);
       if (argv[0] === 2) {
         node.onAck(timestamp, argv[1], argv[2]);
         return true;
       } else if (argv[0] === 5) {
+        console.log('here');
         var fromNode = nodes[argv[1] - 1];
         var toNode = nodes[argv[2] - 1];
         var newFlow = new flow.Flow(fromNode, toNode);

@@ -10,7 +10,7 @@ exports.DataParser = function(onComplete, filename) {
 
   this.onComplete = onComplete;
   var that = this;
-  $.get('data/' + filename + '.csc', function(data) {
+  $.get('data/' + '9-grid-real' + '.csc', function(data) {
     that.cscData = data;
     that.parseCsc();
   });

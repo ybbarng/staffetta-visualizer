@@ -1,0 +1,5656 @@
+21:06.374	ID:4	send packet
+21:06.380	ID:4	HC GRADIENT mode strobe
+21:06.380	ID:4	result: 3
+21:06.381	ID:4	send packet
+21:06.386	ID:4	HC GRADIENT mode strobe
+21:06.387	ID:4	result: 3
+21:06.388	ID:4	send packet
+21:06.393	ID:4	HC GRADIENT mode strobe
+21:06.394	ID:4	result: 3
+21:06.395	ID:4	send packet
+21:06.400	ID:4	HC GRADIENT mode strobe
+21:06.401	ID:4	result: 3
+21:06.402	ID:4	send packet
+21:06.407	ID:4	HC GRADIENT mode strobe
+21:06.408	ID:4	result: 3
+21:06.408	ID:4	send packet
+21:06.413	ID:4	HC GRADIENT mode strobe
+21:06.414	ID:4	result: 3
+21:06.415	ID:4	go to sleep
+21:06.420	ID:4	wakeups: 25, dc: 3, Tw: 955
+21:07.172	ID:5	send packet
+21:07.177	ID:5	HC GRADIENT mode strobe
+21:07.178	ID:5	result: 3
+21:07.179	ID:5	send packet
+21:07.184	ID:5	HC GRADIENT mode strobe
+21:07.185	ID:5	result: 3
+21:07.185	ID:5	send packet
+21:07.191	ID:5	HC GRADIENT mode strobe
+21:07.191	ID:5	result: 3
+21:07.192	ID:5	send packet
+21:07.197	ID:5	HC GRADIENT mode strobe
+21:07.198	ID:5	result: 3
+21:07.199	ID:5	send packet
+21:07.204	ID:5	HC GRADIENT mode strobe
+21:07.205	ID:5	result: 3
+21:07.206	ID:5	send packet
+21:07.211	ID:5	HC GRADIENT mode strobe
+21:07.212	ID:5	result: 3
+21:07.213	ID:5	send packet
+21:07.218	ID:5	HC GRADIENT mode strobe
+21:07.219	ID:5	result: 3
+21:07.219	ID:5	go to sleep
+21:07.224	ID:5	wakeups: 1, dc: 43, Tw: 967
+21:07.275	ID:9	send packet
+21:07.280	ID:9	HC GRADIENT mode strobe
+21:07.283	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 23
+21:08.288	ID:9	current_state: 3, collisions: 0
+21:08.289	ID:9	2 9 2
+21:08.292	ID:9	power: 305226
+21:08.295	ID:9	6 305226 86
+21:08.296	ID:9	result: 1
+21:08.297	ID:9	go to sleep
+21:08.302	ID:9	wakeups: 2, dc: 86, Tw: 1100
+21:08.741	ID:7	send packet
+21:08.746	ID:7	HC GRADIENT mode strobe
+21:08.749	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 19
+21:09.753	ID:7	2 7 5
+21:09.756	ID:7	power: 303486
+21:09.759	ID:7	6 303486 45
+21:09.760	ID:7	result: 1
+21:09.761	ID:7	go to sleep
+21:09.766	ID:7	wakeups: 5, dc: 45, Tw: 1068
+21:09.834	ID:8	send packet
+21:09.839	ID:8	HC GRADIENT mode strobe
+21:09.840	ID:8	result: 3
+21:09.841	ID:8	send packet
+21:09.846	ID:8	HC GRADIENT mode strobe
+21:09.847	ID:8	result: 3
+21:09.848	ID:8	send packet
+21:09.853	ID:8	HC GRADIENT mode strobe
+21:09.854	ID:8	result: 3
+21:09.855	ID:8	send packet
+21:09.860	ID:8	HC GRADIENT mode strobe
+21:09.861	ID:8	result: 3
+21:09.861	ID:8	send packet
+21:09.866	ID:8	HC GRADIENT mode strobe
+21:09.867	ID:8	result: 3
+21:09.868	ID:8	send packet
+21:09.873	ID:8	HC GRADIENT mode strobe
+21:09.874	ID:8	result: 3
+21:09.875	ID:8	send packet
+21:09.880	ID:8	HC GRADIENT mode strobe
+21:09.881	ID:8	result: 3
+21:09.882	ID:8	go to sleep
+21:09.886	ID:8	wakeups: 1, dc: 48, Tw: 932
+21:10.926	ID:3	send packet
+21:10.932	ID:3	HC GRADIENT mode strobe
+21:10.932	ID:3	result: 3
+21:10.933	ID:3	send packet
+21:10.938	ID:3	HC GRADIENT mode strobe
+21:10.939	ID:3	result: 3
+21:10.940	ID:3	send packet
+21:10.945	ID:3	HC GRADIENT mode strobe
+21:10.946	ID:3	result: 3
+21:10.947	ID:3	send packet
+21:10.952	ID:3	HC GRADIENT mode strobe
+21:10.953	ID:3	result: 3
+21:10.954	ID:3	send packet
+21:10.959	ID:3	HC GRADIENT mode strobe
+21:10.960	ID:3	result: 3
+21:10.960	ID:3	send packet
+21:10.965	ID:3	HC GRADIENT mode strobe
+21:10.966	ID:3	result: 3
+21:10.967	ID:3	send packet
+21:10.972	ID:3	HC GRADIENT mode strobe
+21:10.973	ID:3	result: 3
+21:10.974	ID:3	go to sleep
+21:10.979	ID:3	wakeups: 1, dc: 38, Tw: 1141
+21:13.020	ID:6	send packet
+21:13.025	ID:6	HC GRADIENT mode strobe
+21:13.026	ID:6	result: 3
+21:13.027	ID:6	send packet
+21:13.032	ID:6	HC GRADIENT mode strobe
+21:13.033	ID:6	result: 3
+21:13.034	ID:6	send packet
+21:13.039	ID:6	HC GRADIENT mode strobe
+21:13.039	ID:6	result: 3
+21:13.040	ID:6	send packet
+21:13.045	ID:6	HC GRADIENT mode strobe
+21:13.046	ID:6	result: 3
+21:13.047	ID:6	send packet
+21:13.052	ID:6	HC GRADIENT mode strobe
+21:13.053	ID:6	result: 3
+21:13.054	ID:6	go to sleep
+21:13.058	ID:6	wakeups: 1, dc: 25, Tw: 975
+21:13.875	ID:4	send packet
+21:13.881	ID:4	HC GRADIENT mode strobe
+21:13.881	ID:4	result: 3
+21:13.882	ID:4	send packet
+21:13.887	ID:4	HC GRADIENT mode strobe
+21:13.888	ID:4	result: 3
+21:13.889	ID:4	send packet
+21:13.894	ID:4	HC GRADIENT mode strobe
+21:13.895	ID:4	result: 3
+21:13.896	ID:4	send packet
+21:13.901	ID:4	HC GRADIENT mode strobe
+21:13.902	ID:4	result: 3
+21:13.903	ID:4	send packet
+21:13.908	ID:4	HC GRADIENT mode strobe
+21:13.909	ID:4	result: 3
+21:13.909	ID:4	send packet
+21:13.914	ID:4	HC GRADIENT mode strobe
+21:13.915	ID:4	result: 3
+21:13.916	ID:4	go to sleep
+21:13.921	ID:4	wakeups: 25, dc: 3, Tw: 1239
+21:14.599	ID:2	send packet
+21:14.604	ID:2	HC GRADIENT mode strobe
+21:14.605	ID:2	result: 3
+21:14.606	ID:2	send packet
+21:14.611	ID:2	HC GRADIENT mode strobe
+21:14.612	ID:2	result: 3
+21:14.613	ID:2	send packet
+21:14.618	ID:2	HC GRADIENT mode strobe
+21:14.619	ID:2	result: 3
+21:14.620	ID:2	send packet
+21:14.625	ID:2	HC GRADIENT mode strobe
+21:14.625	ID:2	result: 3
+21:14.626	ID:2	send packet
+21:14.631	ID:2	HC GRADIENT mode strobe
+21:14.632	ID:2	result: 3
+21:14.633	ID:2	send packet
+21:14.638	ID:2	HC GRADIENT mode strobe
+21:14.639	ID:2	result: 3
+21:14.640	ID:2	go to sleep
+21:14.645	ID:2	wakeups: 25, dc: 3, Tw: 1463
+21:14.773	ID:5	send packet
+21:14.779	ID:5	HC GRADIENT mode strobe
+21:14.779	ID:5	result: 3
+21:14.780	ID:5	send packet
+21:14.785	ID:5	HC GRADIENT mode strobe
+21:14.786	ID:5	result: 3
+21:14.787	ID:5	send packet
+21:14.792	ID:5	HC GRADIENT mode strobe
+21:14.793	ID:5	result: 3
+21:14.794	ID:5	send packet
+21:14.799	ID:5	HC GRADIENT mode strobe
+21:14.800	ID:5	result: 3
+21:14.801	ID:5	send packet
+21:14.806	ID:5	HC GRADIENT mode strobe
+21:14.807	ID:5	result: 3
+21:14.807	ID:5	send packet
+21:14.812	ID:5	HC GRADIENT mode strobe
+21:14.813	ID:5	result: 3
+21:14.814	ID:5	send packet
+21:14.819	ID:5	HC GRADIENT mode strobe
+21:14.820	ID:5	result: 3
+21:14.821	ID:5	go to sleep
+21:14.825	ID:5	wakeups: 1, dc: 43, Tw: 972
+21:16.892	ID:9	send packet
+21:16.897	ID:9	HC GRADIENT mode strobe
+21:16.900	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 23
+21:17.162	ID:8	send packet
+21:17.166	ID:8	HC_GRADIENT mode rx
+21:17.169	ID:9	current_state: 5, collisions: 0
+21:17.171	ID:9	5 9 8
+21:17.171	ID:8	result: 5
+21:17.171	ID:8	send packet
+21:17.172	ID:9	2 8 2
+21:17.175	ID:9	power: 321966
+21:17.177	ID:8	HC GRADIENT mode strobe
+21:17.178	ID:9	6 321966 86
+21:17.179	ID:8	Beacon send DATA: 9, TTL: 1, SEQ: 23
+21:17.180	ID:9	result: 1
+21:17.180	ID:9	go to sleep
+21:17.185	ID:9	wakeups: 2, dc: 86, Tw: 1000
+21:18.109	ID:7	send packet
+21:18.112	ID:7	HC_GRADIENT mode rx
+21:18.114	ID:8	5 8 7
+21:18.116	ID:7	result: 2
+21:18.116	ID:8	2 7 1
+21:18.116	ID:7	send packet
+21:18.119	ID:8	power: 571926
+21:18.122	ID:7	HC GRADIENT mode strobe
+21:18.122	ID:8	6 571926 48
+21:18.123	ID:8	result: 1
+21:18.124	ID:8	go to sleep
+21:18.124	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 19
+21:18.128	ID:8	wakeups: 1, dc: 48, Tw: 958
+21:19.128	ID:7	2 7 5
+21:19.131	ID:7	power: 364488
+21:19.134	ID:7	6 364488 45
+21:19.136	ID:7	result: 1
+21:19.136	ID:7	go to sleep
+21:19.141	ID:7	wakeups: 5, dc: 45, Tw: 1477
+21:19.887	ID:3	send packet
+21:19.892	ID:3	HC GRADIENT mode strobe
+21:19.893	ID:3	result: 3
+21:19.894	ID:3	send packet
+21:19.899	ID:3	HC GRADIENT mode strobe
+21:19.900	ID:3	result: 3
+21:19.901	ID:3	send packet
+21:19.906	ID:3	HC GRADIENT mode strobe
+21:19.907	ID:3	result: 3
+21:19.908	ID:3	send packet
+21:19.913	ID:3	HC GRADIENT mode strobe
+21:19.914	ID:3	result: 3
+21:19.915	ID:3	send packet
+21:19.920	ID:3	HC GRADIENT mode strobe
+21:19.920	ID:3	result: 3
+21:19.921	ID:3	send packet
+21:19.926	ID:3	HC GRADIENT mode strobe
+21:19.927	ID:3	result: 3
+21:19.928	ID:3	send packet
+21:19.933	ID:3	HC GRADIENT mode strobe
+21:19.934	ID:3	result: 3
+21:19.935	ID:3	go to sleep
+21:19.939	ID:3	wakeups: 1, dc: 38, Tw: 967
+21:20.676	ID:6	send packet
+21:20.681	ID:6	HC GRADIENT mode strobe
+21:20.682	ID:6	result: 3
+21:20.683	ID:6	send packet
+21:20.688	ID:6	HC GRADIENT mode strobe
+21:20.689	ID:6	result: 3
+21:20.690	ID:6	send packet
+21:20.695	ID:6	HC GRADIENT mode strobe
+21:20.696	ID:6	result: 3
+21:20.697	ID:6	send packet
+21:20.702	ID:6	HC GRADIENT mode strobe
+21:20.703	ID:6	result: 3
+21:20.703	ID:6	send packet
+21:20.708	ID:6	HC GRADIENT mode strobe
+21:20.709	ID:6	result: 3
+21:20.710	ID:6	send packet
+21:20.715	ID:6	HC GRADIENT mode strobe
+21:20.716	ID:6	result: 3
+21:20.717	ID:6	send packet
+21:20.722	ID:6	HC GRADIENT mode strobe
+21:20.723	ID:6	result: 3
+21:20.724	ID:6	go to sleep
+21:20.728	ID:6	wakeups: 1, dc: 25, Tw: 1325
+21:22.414	ID:5	send packet
+21:22.419	ID:5	HC GRADIENT mode strobe
+21:22.420	ID:5	result: 3
+21:22.421	ID:5	send packet
+21:22.426	ID:5	HC GRADIENT mode strobe
+21:22.427	ID:5	result: 3
+21:22.428	ID:5	send packet
+21:22.433	ID:5	HC GRADIENT mode strobe
+21:22.434	ID:5	result: 3
+21:22.434	ID:5	send packet
+21:22.440	ID:5	HC GRADIENT mode strobe
+21:22.440	ID:5	result: 3
+21:22.441	ID:5	send packet
+21:22.446	ID:5	HC GRADIENT mode strobe
+21:22.447	ID:5	result: 3
+21:22.448	ID:5	send packet
+21:22.453	ID:5	HC GRADIENT mode strobe
+21:22.454	ID:5	result: 3
+21:22.455	ID:5	go to sleep
+21:22.460	ID:5	wakeups: 1, dc: 43, Tw: 1053
+21:23.594	ID:4	send packet
+21:23.599	ID:4	HC GRADIENT mode strobe
+21:23.600	ID:4	result: 3
+21:23.601	ID:4	send packet
+21:23.606	ID:4	HC GRADIENT mode strobe
+21:23.607	ID:4	result: 3
+21:23.608	ID:4	send packet
+21:23.613	ID:4	HC GRADIENT mode strobe
+21:23.614	ID:4	result: 3
+21:23.615	ID:4	send packet
+21:23.620	ID:4	HC GRADIENT mode strobe
+21:23.621	ID:4	result: 3
+21:23.621	ID:4	send packet
+21:23.626	ID:4	HC GRADIENT mode strobe
+21:23.627	ID:4	result: 3
+21:23.628	ID:4	send packet
+21:23.633	ID:4	HC GRADIENT mode strobe
+21:23.634	ID:4	result: 3
+21:23.635	ID:4	send packet
+21:23.640	ID:4	HC GRADIENT mode strobe
+21:23.641	ID:4	result: 3
+21:23.642	ID:4	go to sleep
+21:23.646	ID:4	wakeups: 25, dc: 3, Tw: 1159
+21:24.993	ID:9	send packet
+21:24.998	ID:9	HC GRADIENT mode strobe
+21:25.001	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 24
+21:25.608	ID:8	send packet
+21:25.612	ID:8	HC_GRADIENT mode rx
+21:25.615	ID:9	current_state: 5, collisions: 0
+21:25.616	ID:9	5 9 8
+21:25.616	ID:8	result: 5
+21:25.617	ID:8	send packet
+21:25.618	ID:9	2 8 1
+21:25.621	ID:9	power: 359352
+21:25.622	ID:8	HC GRADIENT mode strobe
+21:25.624	ID:9	6 359352 86
+21:25.625	ID:8	Beacon send DATA: 9, TTL: 1, SEQ: 24
+21:25.625	ID:9	result: 1
+21:25.626	ID:9	go to sleep
+21:25.631	ID:9	wakeups: 1, dc: 86, Tw: 1238
+21:26.068	ID:2	send packet
+21:26.073	ID:2	HC GRADIENT mode strobe
+21:26.074	ID:2	result: 3
+21:26.075	ID:2	send packet
+21:26.080	ID:2	HC GRADIENT mode strobe
+21:26.081	ID:2	result: 3
+21:26.082	ID:2	send packet
+21:26.087	ID:2	HC GRADIENT mode strobe
+21:26.087	ID:2	result: 3
+21:26.088	ID:2	send packet
+21:26.093	ID:2	HC GRADIENT mode strobe
+21:26.094	ID:2	result: 3
+21:26.095	ID:2	send packet
+21:26.100	ID:2	HC GRADIENT mode strobe
+21:26.101	ID:2	result: 3
+21:26.102	ID:2	go to sleep
+21:26.107	ID:2	wakeups: 25, dc: 3, Tw: 1287
+21:26.629	ID:8	2 8 1
+21:26.632	ID:8	power: 633018
+21:26.635	ID:8	6 633018 48
+21:26.636	ID:8	result: 1
+21:26.637	ID:8	go to sleep
+21:26.642	ID:8	wakeups: 1, dc: 48, Tw: 999
+21:27.489	ID:3	send packet
+21:27.494	ID:3	HC GRADIENT mode strobe
+21:27.495	ID:3	result: 3
+21:27.496	ID:3	send packet
+21:27.501	ID:3	HC GRADIENT mode strobe
+21:27.502	ID:3	result: 3
+21:27.503	ID:3	send packet
+21:27.508	ID:3	HC GRADIENT mode strobe
+21:27.508	ID:3	result: 3
+21:27.509	ID:3	send packet
+21:27.514	ID:3	HC GRADIENT mode strobe
+21:27.515	ID:3	result: 3
+21:27.516	ID:3	send packet
+21:27.521	ID:3	HC GRADIENT mode strobe
+21:27.522	ID:3	result: 3
+21:27.523	ID:3	send packet
+21:27.528	ID:3	HC GRADIENT mode strobe
+21:27.529	ID:3	result: 3
+21:27.530	ID:3	send packet
+21:27.535	ID:3	HC GRADIENT mode strobe
+21:27.536	ID:3	result: 3
+21:27.537	ID:3	go to sleep
+21:27.541	ID:3	wakeups: 1, dc: 38, Tw: 1214
+21:30.679	ID:7	send packet
+21:30.680	ID:5	send packet
+21:30.684	ID:7	HC GRADIENT mode strobe
+21:30.685	ID:5	HC GRADIENT mode strobe
+21:30.686	ID:5	result: 3
+21:30.687	ID:5	send packet
+21:30.687	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 19
+21:30.692	ID:5	HC GRADIENT mode strobe
+21:30.692	ID:5	result: 3
+21:30.693	ID:5	send packet
+21:30.698	ID:5	HC GRADIENT mode strobe
+21:30.699	ID:5	result: 3
+21:30.700	ID:5	send packet
+21:30.705	ID:5	HC GRADIENT mode strobe
+21:30.706	ID:5	result: 3
+21:30.707	ID:5	send packet
+21:30.712	ID:5	HC GRADIENT mode strobe
+21:30.713	ID:5	result: 3
+21:30.714	ID:5	send packet
+21:30.719	ID:5	HC GRADIENT mode strobe
+21:30.720	ID:5	result: 3
+21:30.720	ID:5	send packet
+21:30.726	ID:5	HC GRADIENT mode strobe
+21:30.726	ID:5	result: 3
+21:30.727	ID:5	go to sleep
+21:30.732	ID:5	wakeups: 1, dc: 43, Tw: 1405
+21:31.075	ID:6	send packet
+21:31.080	ID:6	HC GRADIENT mode strobe
+21:31.081	ID:6	result: 3
+21:31.081	ID:6	send packet
+21:31.087	ID:6	HC GRADIENT mode strobe
+21:31.087	ID:6	result: 3
+21:31.088	ID:6	send packet
+21:31.093	ID:6	HC GRADIENT mode strobe
+21:31.094	ID:6	result: 3
+21:31.095	ID:6	send packet
+21:31.100	ID:6	HC GRADIENT mode strobe
+21:31.101	ID:6	result: 3
+21:31.102	ID:6	send packet
+21:31.107	ID:6	HC GRADIENT mode strobe
+21:31.108	ID:6	result: 3
+21:31.109	ID:6	send packet
+21:31.114	ID:6	HC GRADIENT mode strobe
+21:31.115	ID:6	result: 3
+21:31.115	ID:6	send packet
+21:31.120	ID:6	HC GRADIENT mode strobe
+21:31.121	ID:6	result: 3
+21:31.122	ID:6	go to sleep
+21:31.127	ID:6	wakeups: 1, dc: 25, Tw: 1267
+21:31.690	ID:7	2 7 5
+21:31.693	ID:7	power: 425100
+21:31.697	ID:7	6 425100 46
+21:31.698	ID:7	result: 1
+21:31.699	ID:7	go to sleep
+21:31.703	ID:7	wakeups: 5, dc: 46, Tw: 1201
+21:32.696	ID:4	send packet
+21:32.701	ID:4	HC GRADIENT mode strobe
+21:32.702	ID:4	result: 3
+21:32.703	ID:4	send packet
+21:32.708	ID:4	HC GRADIENT mode strobe
+21:32.709	ID:4	result: 3
+21:32.709	ID:4	send packet
+21:32.714	ID:4	HC GRADIENT mode strobe
+21:32.715	ID:4	result: 3
+21:32.716	ID:4	send packet
+21:32.721	ID:4	HC GRADIENT mode strobe
+21:32.722	ID:4	result: 3
+21:32.723	ID:4	send packet
+21:32.728	ID:4	HC GRADIENT mode strobe
+21:32.729	ID:4	result: 3
+21:32.730	ID:4	send packet
+21:32.735	ID:4	HC GRADIENT mode strobe
+21:32.736	ID:4	result: 3
+21:32.737	ID:4	send packet
+21:32.742	ID:4	HC GRADIENT mode strobe
+21:32.743	ID:4	result: 3
+21:32.743	ID:4	go to sleep
+21:32.748	ID:4	wakeups: 25, dc: 3, Tw: 1389
+21:34.444	ID:8	send packet
+21:34.449	ID:8	HC GRADIENT mode strobe
+21:34.452	ID:8	Beacon send DATA: 9, TTL: 1, SEQ: 24
+21:35.298	ID:9	send packet
+21:35.301	ID:9	HC_GRADIENT mode rx
+21:35.303	ID:9	drop because 3 is smaller then 4
+21:35.305	ID:9	packet from 8 is dropped
+21:35.306	ID:9	result: 9
+21:35.307	ID:9	send packet
+21:35.309	ID:9	HC_GRADIENT mode rx
+21:35.312	ID:9	drop because 3 is smaller then 4
+21:35.314	ID:9	packet from 8 is dropped
+21:35.315	ID:9	result: 9
+21:35.316	ID:9	send packet
+21:35.317	ID:9	HC_GRADIENT mode rx
+21:35.320	ID:9	drop because 3 is smaller then 4
+21:35.322	ID:9	packet from 8 is dropped
+21:35.323	ID:9	result: 9
+21:35.324	ID:9	send packet
+21:35.326	ID:9	HC_GRADIENT mode rx
+21:35.328	ID:9	drop because 3 is smaller then 4
+21:35.330	ID:9	packet from 8 is dropped
+21:35.331	ID:9	result: 9
+21:35.332	ID:9	send packet
+21:35.334	ID:9	HC_GRADIENT mode rx
+21:35.337	ID:9	drop because 3 is smaller then 4
+21:35.339	ID:9	packet from 8 is dropped
+21:35.340	ID:9	result: 9
+21:35.340	ID:9	send packet
+21:35.342	ID:9	HC_GRADIENT mode rx
+21:35.345	ID:9	drop because 3 is smaller then 4
+21:35.347	ID:9	packet from 8 is dropped
+21:35.348	ID:9	result: 9
+21:35.349	ID:9	go to sleep
+21:35.354	ID:9	wakeups: 1, dc: 86, Tw: 1446
+21:35.456	ID:8	2 8 1
+21:35.458	ID:8	power: 693654
+21:35.462	ID:8	6 693654 49
+21:35.463	ID:8	result: 1
+21:35.464	ID:8	go to sleep
+21:35.468	ID:8	wakeups: 1, dc: 49, Tw: 1090
+21:36.162	ID:2	send packet
+21:36.167	ID:2	HC GRADIENT mode strobe
+21:36.168	ID:2	result: 3
+21:36.168	ID:2	send packet
+21:36.174	ID:2	HC GRADIENT mode strobe
+21:36.174	ID:2	result: 3
+21:36.175	ID:2	send packet
+21:36.180	ID:2	HC GRADIENT mode strobe
+21:36.181	ID:2	result: 3
+21:36.182	ID:2	send packet
+21:36.187	ID:2	HC GRADIENT mode strobe
+21:36.188	ID:2	result: 3
+21:36.189	ID:2	send packet
+21:36.194	ID:2	HC GRADIENT mode strobe
+21:36.195	ID:2	result: 3
+21:36.196	ID:2	go to sleep
+21:36.200	ID:2	wakeups: 25, dc: 3, Tw: 1056
+21:37.020	ID:3	send packet
+21:37.025	ID:3	HC GRADIENT mode strobe
+21:37.026	ID:3	result: 3
+21:37.027	ID:3	send packet
+21:37.032	ID:3	HC GRADIENT mode strobe
+21:37.033	ID:3	result: 3
+21:37.034	ID:3	send packet
+21:37.039	ID:3	HC GRADIENT mode strobe
+21:37.040	ID:3	result: 3
+21:37.041	ID:3	send packet
+21:37.046	ID:3	HC GRADIENT mode strobe
+21:37.047	ID:3	result: 3
+21:37.047	ID:3	send packet
+21:37.052	ID:3	HC GRADIENT mode strobe
+21:37.053	ID:3	result: 3
+21:37.054	ID:3	send packet
+21:37.059	ID:3	HC GRADIENT mode strobe
+21:37.060	ID:3	result: 3
+21:37.061	ID:3	go to sleep
+21:37.066	ID:3	wakeups: 1, dc: 38, Tw: 1428
+21:41.020	ID:6	send packet
+21:41.025	ID:6	HC GRADIENT mode strobe
+21:41.026	ID:6	result: 3
+21:41.027	ID:6	send packet
+21:41.032	ID:6	HC GRADIENT mode strobe
+21:41.033	ID:6	result: 3
+21:41.034	ID:6	send packet
+21:41.039	ID:6	HC GRADIENT mode strobe
+21:41.039	ID:6	result: 3
+21:41.040	ID:6	send packet
+21:41.045	ID:6	HC GRADIENT mode strobe
+21:41.046	ID:6	result: 3
+21:41.047	ID:6	send packet
+21:41.052	ID:6	HC GRADIENT mode strobe
+21:41.053	ID:6	result: 3
+21:41.054	ID:6	send packet
+21:41.059	ID:6	HC GRADIENT mode strobe
+21:41.060	ID:6	result: 3
+21:41.061	ID:6	send packet
+21:41.066	ID:6	HC GRADIENT mode strobe
+21:41.067	ID:6	result: 3
+21:41.068	ID:6	go to sleep
+21:41.072	ID:6	wakeups: 1, dc: 25, Tw: 1107
+21:41.085	ID:7	send packet
+21:41.090	ID:7	HC GRADIENT mode strobe
+21:41.093	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 19
+21:41.703	ID:5	send packet
+21:41.708	ID:5	HC GRADIENT mode strobe
+21:41.709	ID:5	result: 3
+21:41.710	ID:5	send packet
+21:41.715	ID:5	HC GRADIENT mode strobe
+21:41.716	ID:5	result: 3
+21:41.717	ID:5	send packet
+21:41.722	ID:5	HC GRADIENT mode strobe
+21:41.723	ID:5	result: 3
+21:41.724	ID:5	send packet
+21:41.729	ID:5	HC GRADIENT mode strobe
+21:41.729	ID:5	result: 3
+21:41.730	ID:5	send packet
+21:41.735	ID:5	HC GRADIENT mode strobe
+21:41.736	ID:5	result: 3
+21:41.737	ID:5	go to sleep
+21:41.741	ID:5	wakeups: 1, dc: 43, Tw: 928
+21:42.097	ID:7	2 7 5
+21:42.100	ID:7	power: 485724
+21:42.103	ID:7	6 485724 46
+21:42.104	ID:7	result: 1
+21:42.105	ID:7	go to sleep
+21:42.110	ID:7	wakeups: 5, dc: 46, Tw: 1221
+21:43.594	ID:4	send packet
+21:43.599	ID:4	HC GRADIENT mode strobe
+21:43.600	ID:4	result: 3
+21:43.601	ID:4	send packet
+21:43.606	ID:4	HC GRADIENT mode strobe
+21:43.607	ID:4	result: 3
+21:43.608	ID:4	send packet
+21:43.613	ID:4	HC GRADIENT mode strobe
+21:43.614	ID:4	result: 3
+21:43.615	ID:4	send packet
+21:43.620	ID:4	HC GRADIENT mode strobe
+21:43.621	ID:4	result: 3
+21:43.621	ID:4	send packet
+21:43.626	ID:4	HC GRADIENT mode strobe
+21:43.627	ID:4	result: 3
+21:43.628	ID:4	go to sleep
+21:43.633	ID:4	wakeups: 25, dc: 3, Tw: 1098
+21:43.983	ID:8	send packet
+21:43.988	ID:8	HC GRADIENT mode strobe
+21:43.991	ID:8	Beacon send DATA: 9, TTL: 1, SEQ: 24
+21:44.451	ID:2	send packet
+21:44.456	ID:2	HC GRADIENT mode strobe
+21:44.457	ID:2	result: 3
+21:44.458	ID:2	send packet
+21:44.463	ID:2	HC GRADIENT mode strobe
+21:44.463	ID:2	result: 3
+21:44.464	ID:2	send packet
+21:44.469	ID:2	HC GRADIENT mode strobe
+21:44.470	ID:2	result: 3
+21:44.471	ID:2	send packet
+21:44.476	ID:2	HC GRADIENT mode strobe
+21:44.477	ID:2	result: 3
+21:44.478	ID:2	send packet
+21:44.483	ID:2	HC GRADIENT mode strobe
+21:44.484	ID:2	result: 3
+21:44.485	ID:2	go to sleep
+21:44.489	ID:2	wakeups: 25, dc: 3, Tw: 1362
+21:44.994	ID:8	2 8 1
+21:44.997	ID:8	power: 754272
+21:45.001	ID:8	6 754272 49
+21:45.002	ID:8	result: 1
+21:45.003	ID:8	go to sleep
+21:45.007	ID:8	wakeups: 1, dc: 49, Tw: 1257
+21:46.650	ID:9	send packet
+21:46.655	ID:9	HC GRADIENT mode strobe
+21:46.658	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 25
+21:47.663	ID:9	current_state: 3, collisions: 0
+21:47.664	ID:9	2 9 1
+21:47.667	ID:9	power: 422562
+21:47.670	ID:9	6 422562 85
+21:47.671	ID:9	result: 1
+21:47.672	ID:9	go to sleep
+21:47.677	ID:9	wakeups: 1, dc: 85, Tw: 1218
+21:48.216	ID:3	send packet
+21:48.221	ID:3	HC GRADIENT mode strobe
+21:48.221	ID:3	result: 3
+21:48.222	ID:3	send packet
+21:48.227	ID:3	HC GRADIENT mode strobe
+21:48.228	ID:3	result: 3
+21:48.229	ID:3	send packet
+21:48.234	ID:3	HC GRADIENT mode strobe
+21:48.235	ID:3	result: 3
+21:48.236	ID:3	send packet
+21:48.241	ID:3	HC GRADIENT mode strobe
+21:48.242	ID:3	result: 3
+21:48.243	ID:3	send packet
+21:48.248	ID:3	HC GRADIENT mode strobe
+21:48.249	ID:3	result: 3
+21:48.249	ID:3	send packet
+21:48.255	ID:3	HC GRADIENT mode strobe
+21:48.255	ID:3	result: 3
+21:48.256	ID:3	send packet
+21:48.261	ID:3	HC GRADIENT mode strobe
+21:48.262	ID:3	result: 3
+21:48.263	ID:3	go to sleep
+21:48.267	ID:3	wakeups: 1, dc: 38, Tw: 994
+21:48.992	ID:5	send packet
+21:48.997	ID:5	HC GRADIENT mode strobe
+21:48.998	ID:5	result: 3
+21:48.999	ID:5	send packet
+21:49.004	ID:5	HC GRADIENT mode strobe
+21:49.005	ID:5	result: 3
+21:49.006	ID:5	send packet
+21:49.011	ID:5	HC GRADIENT mode strobe
+21:49.012	ID:5	result: 3
+21:49.013	ID:5	send packet
+21:49.018	ID:5	HC GRADIENT mode strobe
+21:49.019	ID:5	result: 3
+21:49.019	ID:5	send packet
+21:49.024	ID:5	HC GRADIENT mode strobe
+21:49.025	ID:5	result: 3
+21:49.026	ID:5	go to sleep
+21:49.031	ID:5	wakeups: 1, dc: 43, Tw: 996
+21:49.715	ID:6	send packet
+21:49.720	ID:6	HC GRADIENT mode strobe
+21:49.721	ID:6	result: 3
+21:49.722	ID:6	send packet
+21:49.727	ID:6	HC GRADIENT mode strobe
+21:49.728	ID:6	result: 3
+21:49.729	ID:6	send packet
+21:49.734	ID:6	HC GRADIENT mode strobe
+21:49.735	ID:6	result: 3
+21:49.736	ID:6	send packet
+21:49.741	ID:6	HC GRADIENT mode strobe
+21:49.742	ID:6	result: 3
+21:49.742	ID:6	send packet
+21:49.747	ID:6	HC GRADIENT mode strobe
+21:49.748	ID:6	result: 3
+21:49.749	ID:6	send packet
+21:49.754	ID:6	HC GRADIENT mode strobe
+21:49.755	ID:6	result: 3
+21:49.756	ID:6	go to sleep
+21:49.761	ID:6	wakeups: 1, dc: 25, Tw: 1376
+21:51.648	ID:7	send packet
+21:51.653	ID:7	HC GRADIENT mode strobe
+21:51.656	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 19
+21:52.211	ID:4	send packet
+21:52.216	ID:4	HC_GRADIENT mode rx
+21:52.218	ID:7	5 7 4
+21:52.220	ID:4	result: 2
+21:52.220	ID:7	2 4 3
+21:52.220	ID:4	send packet
+21:52.223	ID:7	power: 519966
+21:52.225	ID:4	HC GRADIENT mode strobe
+21:52.226	ID:7	6 519966 46
+21:52.227	ID:7	result: 1
+21:52.228	ID:7	go to sleep
+21:52.228	ID:4	Beacon send DATA: 9, TTL: 3, SEQ: 19
+21:52.232	ID:4	5 4 1
+21:52.233	ID:1	9 19 4 22
+21:52.233	ID:7	wakeups: 3, dc: 46, Tw: 1501
+21:52.234	ID:4	2 1 65
+21:52.237	ID:4	power: 266946
+21:52.240	ID:4	6 266946 3
+21:52.241	ID:4	result: 1
+21:52.242	ID:4	send packet
+21:52.247	ID:4	HC GRADIENT mode strobe
+21:52.248	ID:4	result: 3
+21:52.248	ID:4	go to sleep
+21:52.253	ID:4	wakeups: 25, dc: 3, Tw: 1227
+21:54.826	ID:8	send packet
+21:54.832	ID:8	HC GRADIENT mode strobe
+21:54.834	ID:8	Beacon send DATA: 9, TTL: 1, SEQ: 24
+21:55.130	ID:2	send packet
+21:55.136	ID:2	HC GRADIENT mode strobe
+21:55.136	ID:2	result: 3
+21:55.137	ID:2	send packet
+21:55.142	ID:2	HC GRADIENT mode strobe
+21:55.143	ID:2	result: 3
+21:55.144	ID:2	send packet
+21:55.149	ID:2	HC GRADIENT mode strobe
+21:55.150	ID:2	result: 3
+21:55.151	ID:2	send packet
+21:55.156	ID:2	HC GRADIENT mode strobe
+21:55.157	ID:2	result: 3
+21:55.158	ID:2	send packet
+21:55.163	ID:2	HC GRADIENT mode strobe
+21:55.163	ID:2	result: 3
+21:55.164	ID:2	send packet
+21:55.169	ID:2	HC GRADIENT mode strobe
+21:55.170	ID:2	result: 3
+21:55.171	ID:2	send packet
+21:55.176	ID:2	HC GRADIENT mode strobe
+21:55.177	ID:2	result: 3
+21:55.178	ID:2	go to sleep
+21:55.183	ID:2	wakeups: 25, dc: 3, Tw: 1217
+21:55.839	ID:8	2 8 1
+21:55.841	ID:8	power: 28488
+21:55.844	ID:8	6 28488 50
+21:55.845	ID:8	result: 1
+21:55.846	ID:8	go to sleep
+21:55.851	ID:8	wakeups: 1, dc: 50, Tw: 1001
+21:56.028	ID:3	send packet
+21:56.033	ID:3	HC GRADIENT mode strobe
+21:56.034	ID:3	result: 3
+21:56.035	ID:3	send packet
+21:56.040	ID:3	HC GRADIENT mode strobe
+21:56.041	ID:3	result: 3
+21:56.042	ID:3	send packet
+21:56.047	ID:3	HC GRADIENT mode strobe
+21:56.048	ID:3	result: 3
+21:56.048	ID:3	send packet
+21:56.053	ID:3	HC GRADIENT mode strobe
+21:56.054	ID:3	result: 3
+21:56.055	ID:3	send packet
+21:56.060	ID:3	HC GRADIENT mode strobe
+21:56.061	ID:3	result: 3
+21:56.062	ID:3	send packet
+21:56.067	ID:3	HC GRADIENT mode strobe
+21:56.068	ID:3	result: 3
+21:56.069	ID:3	go to sleep
+21:56.073	ID:3	wakeups: 1, dc: 38, Tw: 1456
+21:56.813	ID:5	send packet
+21:56.818	ID:5	HC GRADIENT mode strobe
+21:56.818	ID:5	result: 3
+21:56.819	ID:5	send packet
+21:56.824	ID:5	HC GRADIENT mode strobe
+21:56.825	ID:5	result: 3
+21:56.826	ID:5	send packet
+21:56.831	ID:5	HC GRADIENT mode strobe
+21:56.832	ID:5	result: 3
+21:56.833	ID:5	send packet
+21:56.838	ID:5	HC GRADIENT mode strobe
+21:56.839	ID:5	result: 3
+21:56.840	ID:5	send packet
+21:56.845	ID:5	HC GRADIENT mode strobe
+21:56.846	ID:5	result: 3
+21:56.846	ID:5	send packet
+21:56.852	ID:5	HC GRADIENT mode strobe
+21:56.852	ID:5	result: 3
+21:56.853	ID:5	send packet
+21:56.858	ID:5	HC GRADIENT mode strobe
+21:56.859	ID:5	result: 3
+21:56.860	ID:5	go to sleep
+21:56.865	ID:5	wakeups: 1, dc: 43, Tw: 1286
+21:57.189	ID:9	send packet
+21:57.194	ID:9	HC GRADIENT mode strobe
+21:57.197	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 25
+21:58.202	ID:9	current_state: 3, collisions: 0
+21:58.203	ID:9	2 9 1
+21:58.206	ID:9	power: 483342
+21:58.209	ID:9	6 483342 85
+21:58.210	ID:9	result: 1
+21:58.211	ID:9	go to sleep
+21:58.216	ID:9	wakeups: 1, dc: 85, Tw: 1289
+22:00.504	ID:6	send packet
+22:00.509	ID:6	HC GRADIENT mode strobe
+22:00.510	ID:6	result: 3
+22:00.511	ID:6	send packet
+22:00.516	ID:6	HC GRADIENT mode strobe
+22:00.517	ID:6	result: 3
+22:00.518	ID:6	send packet
+22:00.523	ID:6	HC GRADIENT mode strobe
+22:00.524	ID:6	result: 3
+22:00.525	ID:6	send packet
+22:00.530	ID:6	HC GRADIENT mode strobe
+22:00.531	ID:6	result: 3
+22:00.531	ID:6	send packet
+22:00.537	ID:6	HC GRADIENT mode strobe
+22:00.537	ID:6	result: 3
+22:00.538	ID:6	send packet
+22:00.543	ID:6	HC GRADIENT mode strobe
+22:00.544	ID:6	result: 3
+22:00.545	ID:6	go to sleep
+22:00.550	ID:6	wakeups: 1, dc: 25, Tw: 1343
+22:01.836	ID:4	send packet
+22:01.841	ID:4	HC GRADIENT mode strobe
+22:01.842	ID:4	result: 3
+22:01.843	ID:4	send packet
+22:01.848	ID:4	HC GRADIENT mode strobe
+22:01.849	ID:4	result: 3
+22:01.850	ID:4	send packet
+22:01.855	ID:4	HC GRADIENT mode strobe
+22:01.856	ID:4	result: 3
+22:01.857	ID:4	send packet
+22:01.862	ID:4	HC GRADIENT mode strobe
+22:01.863	ID:4	result: 3
+22:01.864	ID:4	send packet
+22:01.869	ID:4	HC GRADIENT mode strobe
+22:01.869	ID:4	result: 3
+22:01.870	ID:4	go to sleep
+22:01.875	ID:4	wakeups: 25, dc: 3, Tw: 1447
+22:03.670	ID:8	send packet
+22:03.675	ID:8	HC GRADIENT mode strobe
+22:03.678	ID:8	Beacon send DATA: 9, TTL: 1, SEQ: 24
+22:03.960	ID:7	send packet
+22:03.964	ID:7	HC_GRADIENT mode rx
+22:03.966	ID:8	5 8 7
+22:03.967	ID:7	result: 2
+22:03.967	ID:8	2 7 1
+22:03.968	ID:7	send packet
+22:03.970	ID:8	power: 46236
+22:03.973	ID:8	6 46236 50
+22:03.973	ID:7	HC GRADIENT mode strobe
+22:03.974	ID:8	result: 1
+22:03.975	ID:8	go to sleep
+22:03.976	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 22
+22:03.980	ID:8	wakeups: 1, dc: 50, Tw: 1085
+22:04.685	ID:2	send packet
+22:04.690	ID:2	HC GRADIENT mode strobe
+22:04.691	ID:2	result: 3
+22:04.692	ID:2	send packet
+22:04.697	ID:2	HC GRADIENT mode strobe
+22:04.698	ID:2	result: 3
+22:04.699	ID:2	send packet
+22:04.704	ID:2	HC GRADIENT mode strobe
+22:04.705	ID:2	result: 3
+22:04.705	ID:2	send packet
+22:04.711	ID:2	HC GRADIENT mode strobe
+22:04.711	ID:2	result: 3
+22:04.712	ID:2	send packet
+22:04.717	ID:2	HC GRADIENT mode strobe
+22:04.718	ID:2	result: 3
+22:04.719	ID:2	send packet
+22:04.724	ID:2	HC GRADIENT mode strobe
+22:04.725	ID:2	result: 3
+22:04.726	ID:2	go to sleep
+22:04.731	ID:2	wakeups: 25, dc: 3, Tw: 1090
+22:04.980	ID:7	2 7 3
+22:04.983	ID:7	power: 580962
+22:04.986	ID:7	6 580962 46
+22:04.987	ID:7	result: 1
+22:04.988	ID:7	go to sleep
+22:04.993	ID:7	wakeups: 3, dc: 46, Tw: 1515
+22:06.906	ID:5	send packet
+22:06.911	ID:5	HC GRADIENT mode strobe
+22:06.912	ID:5	result: 3
+22:06.913	ID:5	send packet
+22:06.918	ID:5	HC GRADIENT mode strobe
+22:06.919	ID:5	result: 3
+22:06.920	ID:5	send packet
+22:06.925	ID:5	HC GRADIENT mode strobe
+22:06.926	ID:5	result: 3
+22:06.927	ID:5	send packet
+22:06.932	ID:5	HC GRADIENT mode strobe
+22:06.933	ID:5	result: 3
+22:06.933	ID:5	send packet
+22:06.939	ID:5	HC GRADIENT mode strobe
+22:06.939	ID:5	result: 3
+22:06.940	ID:5	send packet
+22:06.945	ID:5	HC GRADIENT mode strobe
+22:06.946	ID:5	result: 3
+22:06.947	ID:5	send packet
+22:06.952	ID:5	HC GRADIENT mode strobe
+22:06.953	ID:5	result: 3
+22:06.954	ID:5	go to sleep
+22:06.959	ID:5	wakeups: 1, dc: 43, Tw: 1386
+22:07.442	ID:3	send packet
+22:07.447	ID:3	HC GRADIENT mode strobe
+22:07.448	ID:3	result: 3
+22:07.449	ID:3	send packet
+22:07.454	ID:3	HC GRADIENT mode strobe
+22:07.455	ID:3	result: 3
+22:07.456	ID:3	send packet
+22:07.461	ID:3	HC GRADIENT mode strobe
+22:07.462	ID:3	result: 3
+22:07.462	ID:3	send packet
+22:07.468	ID:3	HC GRADIENT mode strobe
+22:07.468	ID:3	result: 3
+22:07.469	ID:3	send packet
+22:07.474	ID:3	HC GRADIENT mode strobe
+22:07.475	ID:3	result: 3
+22:07.476	ID:3	send packet
+22:07.481	ID:3	HC GRADIENT mode strobe
+22:07.482	ID:3	result: 3
+22:07.483	ID:3	go to sleep
+22:07.487	ID:3	wakeups: 1, dc: 38, Tw: 1252
+22:08.282	ID:9	send packet
+22:08.288	ID:9	HC GRADIENT mode strobe
+22:08.291	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 25
+22:09.295	ID:9	current_state: 3, collisions: 0
+22:09.297	ID:9	2 9 1
+22:09.300	ID:9	power: 544128
+22:09.303	ID:9	6 544128 85
+22:09.304	ID:9	result: 1
+22:09.305	ID:9	go to sleep
+22:09.310	ID:9	wakeups: 1, dc: 85, Tw: 1102
+22:11.036	ID:6	send packet
+22:11.041	ID:6	HC GRADIENT mode strobe
+22:11.042	ID:6	result: 3
+22:11.042	ID:6	send packet
+22:11.047	ID:6	HC GRADIENT mode strobe
+22:11.048	ID:6	result: 3
+22:11.049	ID:6	send packet
+22:11.054	ID:6	HC GRADIENT mode strobe
+22:11.055	ID:6	result: 3
+22:11.056	ID:6	send packet
+22:11.061	ID:6	HC GRADIENT mode strobe
+22:11.062	ID:6	result: 3
+22:11.063	ID:6	send packet
+22:11.068	ID:6	HC GRADIENT mode strobe
+22:11.069	ID:6	result: 3
+22:11.069	ID:6	send packet
+22:11.075	ID:6	HC GRADIENT mode strobe
+22:11.075	ID:6	result: 3
+22:11.076	ID:6	send packet
+22:11.081	ID:6	HC GRADIENT mode strobe
+22:11.082	ID:6	result: 3
+22:11.083	ID:6	go to sleep
+22:11.088	ID:6	wakeups: 1, dc: 25, Tw: 1017
+22:12.451	ID:8	send packet
+22:12.457	ID:8	HC GRADIENT mode strobe
+22:12.457	ID:8	result: 3
+22:12.458	ID:8	send packet
+22:12.463	ID:8	HC GRADIENT mode strobe
+22:12.464	ID:8	result: 3
+22:12.465	ID:8	send packet
+22:12.470	ID:8	HC GRADIENT mode strobe
+22:12.471	ID:8	result: 3
+22:12.472	ID:8	send packet
+22:12.477	ID:8	HC GRADIENT mode strobe
+22:12.478	ID:8	result: 3
+22:12.479	ID:8	send packet
+22:12.484	ID:8	HC GRADIENT mode strobe
+22:12.485	ID:8	result: 3
+22:12.485	ID:8	send packet
+22:12.490	ID:8	HC GRADIENT mode strobe
+22:12.491	ID:8	result: 3
+22:12.492	ID:8	send packet
+22:12.497	ID:8	HC GRADIENT mode strobe
+22:12.498	ID:8	result: 3
+22:12.499	ID:8	go to sleep
+22:12.504	ID:8	wakeups: 1, dc: 50, Tw: 1369
+22:13.180	ID:4	send packet
+22:13.185	ID:4	HC GRADIENT mode strobe
+22:13.186	ID:4	result: 3
+22:13.187	ID:4	send packet
+22:13.192	ID:4	HC GRADIENT mode strobe
+22:13.193	ID:4	result: 3
+22:13.194	ID:4	send packet
+22:13.199	ID:4	HC GRADIENT mode strobe
+22:13.200	ID:4	result: 3
+22:13.201	ID:4	send packet
+22:13.206	ID:4	HC GRADIENT mode strobe
+22:13.206	ID:4	result: 3
+22:13.207	ID:4	send packet
+22:13.212	ID:4	HC GRADIENT mode strobe
+22:13.213	ID:4	result: 3
+22:13.214	ID:4	send packet
+22:13.219	ID:4	HC GRADIENT mode strobe
+22:13.220	ID:4	result: 3
+22:13.221	ID:4	send packet
+22:13.226	ID:4	HC GRADIENT mode strobe
+22:13.227	ID:4	result: 3
+22:13.228	ID:4	go to sleep
+22:13.232	ID:4	wakeups: 25, dc: 3, Tw: 1285
+22:13.240	ID:2	send packet
+22:13.245	ID:2	HC GRADIENT mode strobe
+22:13.246	ID:2	result: 3
+22:13.247	ID:2	send packet
+22:13.252	ID:2	HC GRADIENT mode strobe
+22:13.253	ID:2	result: 3
+22:13.253	ID:2	send packet
+22:13.258	ID:2	HC GRADIENT mode strobe
+22:13.259	ID:2	result: 3
+22:13.260	ID:2	send packet
+22:13.265	ID:2	HC GRADIENT mode strobe
+22:13.266	ID:2	result: 3
+22:13.267	ID:2	send packet
+22:13.272	ID:2	HC GRADIENT mode strobe
+22:13.273	ID:2	result: 3
+22:13.274	ID:2	send packet
+22:13.279	ID:2	HC GRADIENT mode strobe
+22:13.280	ID:2	result: 3
+22:13.281	ID:2	go to sleep
+22:13.285	ID:2	wakeups: 25, dc: 3, Tw: 1200
+22:16.827	ID:7	send packet
+22:16.832	ID:7	HC GRADIENT mode strobe
+22:16.835	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 22
+22:17.262	ID:3	send packet
+22:17.267	ID:3	HC GRADIENT mode strobe
+22:17.268	ID:3	result: 3
+22:17.269	ID:3	send packet
+22:17.274	ID:3	HC GRADIENT mode strobe
+22:17.275	ID:3	result: 3
+22:17.276	ID:3	send packet
+22:17.281	ID:3	HC GRADIENT mode strobe
+22:17.282	ID:3	result: 3
+22:17.283	ID:3	send packet
+22:17.288	ID:3	HC GRADIENT mode strobe
+22:17.289	ID:3	result: 3
+22:17.290	ID:3	send packet
+22:17.295	ID:3	HC GRADIENT mode strobe
+22:17.295	ID:3	result: 3
+22:17.296	ID:3	send packet
+22:17.301	ID:3	HC GRADIENT mode strobe
+22:17.302	ID:3	result: 3
+22:17.303	ID:3	send packet
+22:17.308	ID:3	HC GRADIENT mode strobe
+22:17.309	ID:3	result: 3
+22:17.310	ID:3	go to sleep
+22:17.315	ID:3	wakeups: 1, dc: 38, Tw: 1074
+22:17.781	ID:5	send packet
+22:17.786	ID:5	HC GRADIENT mode strobe
+22:17.787	ID:5	result: 3
+22:17.788	ID:5	send packet
+22:17.793	ID:5	HC GRADIENT mode strobe
+22:17.794	ID:5	result: 3
+22:17.795	ID:5	send packet
+22:17.800	ID:5	HC GRADIENT mode strobe
+22:17.801	ID:5	result: 3
+22:17.802	ID:5	send packet
+22:17.807	ID:5	HC GRADIENT mode strobe
+22:17.808	ID:5	result: 3
+22:17.808	ID:5	send packet
+22:17.814	ID:5	HC GRADIENT mode strobe
+22:17.814	ID:5	result: 3
+22:17.815	ID:5	send packet
+22:17.820	ID:5	HC GRADIENT mode strobe
+22:17.821	ID:5	result: 3
+22:17.822	ID:5	send packet
+22:17.827	ID:5	HC GRADIENT mode strobe
+22:17.828	ID:5	result: 3
+22:17.829	ID:5	go to sleep
+22:17.834	ID:5	wakeups: 1, dc: 43, Tw: 1078
+22:17.839	ID:7	2 7 3
+22:17.842	ID:7	power: 641586
+22:17.845	ID:7	6 641586 47
+22:17.846	ID:7	result: 1
+22:17.847	ID:7	go to sleep
+22:17.852	ID:7	wakeups: 3, dc: 47, Tw: 1303
+22:17.915	ID:9	send packet
+22:17.920	ID:9	HC GRADIENT mode strobe
+22:17.923	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 25
+22:18.928	ID:9	current_state: 3, collisions: 0
+22:18.930	ID:9	2 9 1
+22:18.933	ID:9	power: 604908
+22:18.936	ID:9	6 604908 85
+22:18.937	ID:9	result: 1
+22:18.938	ID:9	go to sleep
+22:18.942	ID:9	wakeups: 1, dc: 85, Tw: 894
+22:19.028	ID:6	send packet
+22:19.033	ID:6	HC GRADIENT mode strobe
+22:19.034	ID:6	result: 3
+22:19.035	ID:6	send packet
+22:19.040	ID:6	HC GRADIENT mode strobe
+22:19.041	ID:6	result: 3
+22:19.041	ID:6	send packet
+22:19.046	ID:6	HC GRADIENT mode strobe
+22:19.047	ID:6	result: 3
+22:19.048	ID:6	send packet
+22:19.053	ID:6	HC GRADIENT mode strobe
+22:19.054	ID:6	result: 3
+22:19.055	ID:6	send packet
+22:19.060	ID:6	HC GRADIENT mode strobe
+22:19.061	ID:6	result: 3
+22:19.062	ID:6	send packet
+22:19.067	ID:6	HC GRADIENT mode strobe
+22:19.068	ID:6	result: 3
+22:19.069	ID:6	send packet
+22:19.074	ID:6	HC GRADIENT mode strobe
+22:19.074	ID:6	result: 3
+22:19.075	ID:6	go to sleep
+22:19.080	ID:6	wakeups: 1, dc: 25, Tw: 1394
+22:22.654	ID:2	send packet
+22:22.659	ID:2	HC GRADIENT mode strobe
+22:22.660	ID:2	result: 3
+22:22.661	ID:2	send packet
+22:22.666	ID:2	HC GRADIENT mode strobe
+22:22.667	ID:2	result: 3
+22:22.667	ID:2	send packet
+22:22.673	ID:2	HC GRADIENT mode strobe
+22:22.673	ID:2	result: 3
+22:22.674	ID:2	send packet
+22:22.679	ID:2	HC GRADIENT mode strobe
+22:22.680	ID:2	result: 3
+22:22.681	ID:2	send packet
+22:22.686	ID:2	HC GRADIENT mode strobe
+22:22.687	ID:2	result: 3
+22:22.688	ID:2	send packet
+22:22.693	ID:2	HC GRADIENT mode strobe
+22:22.694	ID:2	result: 3
+22:22.695	ID:2	send packet
+22:22.700	ID:2	HC GRADIENT mode strobe
+22:22.701	ID:2	result: 3
+22:22.701	ID:2	go to sleep
+22:22.706	ID:2	wakeups: 25, dc: 3, Tw: 993
+22:23.194	ID:8	send packet
+22:23.199	ID:8	HC GRADIENT mode strobe
+22:23.200	ID:8	result: 3
+22:23.200	ID:8	send packet
+22:23.206	ID:8	HC GRADIENT mode strobe
+22:23.206	ID:8	result: 3
+22:23.207	ID:8	send packet
+22:23.212	ID:8	HC GRADIENT mode strobe
+22:23.213	ID:8	result: 3
+22:23.214	ID:8	send packet
+22:23.219	ID:8	HC GRADIENT mode strobe
+22:23.220	ID:8	result: 3
+22:23.221	ID:8	send packet
+22:23.226	ID:8	HC GRADIENT mode strobe
+22:23.227	ID:8	result: 3
+22:23.228	ID:8	send packet
+22:23.233	ID:8	HC GRADIENT mode strobe
+22:23.234	ID:8	result: 3
+22:23.234	ID:8	go to sleep
+22:23.239	ID:8	wakeups: 1, dc: 50, Tw: 1149
+22:23.266	ID:4	send packet
+22:23.271	ID:4	HC GRADIENT mode strobe
+22:23.272	ID:4	result: 3
+22:23.273	ID:4	send packet
+22:23.278	ID:4	HC GRADIENT mode strobe
+22:23.279	ID:4	result: 3
+22:23.280	ID:4	send packet
+22:23.285	ID:4	HC GRADIENT mode strobe
+22:23.286	ID:4	result: 3
+22:23.286	ID:4	send packet
+22:23.292	ID:4	HC GRADIENT mode strobe
+22:23.292	ID:4	result: 3
+22:23.293	ID:4	send packet
+22:23.298	ID:4	HC GRADIENT mode strobe
+22:23.299	ID:4	result: 3
+22:23.300	ID:4	go to sleep
+22:23.305	ID:4	wakeups: 25, dc: 3, Tw: 1355
+22:25.700	ID:3	send packet
+22:25.705	ID:3	HC GRADIENT mode strobe
+22:25.706	ID:3	result: 3
+22:25.707	ID:3	send packet
+22:25.712	ID:3	HC GRADIENT mode strobe
+22:25.713	ID:3	result: 3
+22:25.713	ID:3	send packet
+22:25.719	ID:3	HC GRADIENT mode strobe
+22:25.719	ID:3	result: 3
+22:25.720	ID:3	send packet
+22:25.725	ID:3	HC GRADIENT mode strobe
+22:25.726	ID:3	result: 3
+22:25.727	ID:3	send packet
+22:25.732	ID:3	HC GRADIENT mode strobe
+22:25.733	ID:3	result: 3
+22:25.734	ID:3	send packet
+22:25.739	ID:3	HC GRADIENT mode strobe
+22:25.740	ID:3	result: 3
+22:25.741	ID:3	go to sleep
+22:25.745	ID:3	wakeups: 1, dc: 38, Tw: 967
+22:25.923	ID:9	send packet
+22:25.928	ID:9	HC GRADIENT mode strobe
+22:25.931	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 25
+22:26.250	ID:5	send packet
+22:26.255	ID:5	HC GRADIENT mode strobe
+22:26.256	ID:5	result: 3
+22:26.257	ID:5	send packet
+22:26.262	ID:5	HC GRADIENT mode strobe
+22:26.263	ID:5	result: 3
+22:26.264	ID:5	send packet
+22:26.269	ID:5	HC GRADIENT mode strobe
+22:26.270	ID:5	result: 3
+22:26.270	ID:5	send packet
+22:26.275	ID:5	HC GRADIENT mode strobe
+22:26.276	ID:5	result: 3
+22:26.277	ID:5	send packet
+22:26.282	ID:5	HC GRADIENT mode strobe
+22:26.283	ID:5	result: 3
+22:26.284	ID:5	send packet
+22:26.289	ID:5	HC GRADIENT mode strobe
+22:26.290	ID:5	result: 3
+22:26.291	ID:5	go to sleep
+22:26.295	ID:5	wakeups: 1, dc: 43, Tw: 1257
+22:26.936	ID:9	current_state: 3, collisions: 0
+22:26.937	ID:9	2 9 1
+22:26.940	ID:9	power: 665688
+22:26.944	ID:9	6 665688 86
+22:26.945	ID:9	result: 1
+22:26.946	ID:9	go to sleep
+22:26.950	ID:9	wakeups: 1, dc: 86, Tw: 924
+22:28.030	ID:7	send packet
+22:28.036	ID:7	HC GRADIENT mode strobe
+22:28.038	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 22
+22:29.042	ID:7	2 7 3
+22:29.045	ID:7	power: 702216
+22:29.049	ID:7	6 702216 47
+22:29.050	ID:7	result: 1
+22:29.050	ID:7	go to sleep
+22:29.055	ID:7	wakeups: 3, dc: 47, Tw: 1238
+22:29.965	ID:6	send packet
+22:29.970	ID:6	HC GRADIENT mode strobe
+22:29.971	ID:6	result: 3
+22:29.972	ID:6	send packet
+22:29.977	ID:6	HC GRADIENT mode strobe
+22:29.978	ID:6	result: 3
+22:29.979	ID:6	send packet
+22:29.984	ID:6	HC GRADIENT mode strobe
+22:29.985	ID:6	result: 3
+22:29.986	ID:6	send packet
+22:29.991	ID:6	HC GRADIENT mode strobe
+22:29.992	ID:6	result: 3
+22:29.992	ID:6	send packet
+22:29.997	ID:6	HC GRADIENT mode strobe
+22:29.998	ID:6	result: 3
+22:29.999	ID:6	send packet
+22:30.004	ID:6	HC GRADIENT mode strobe
+22:30.005	ID:6	result: 3
+22:30.006	ID:6	go to sleep
+22:30.011	ID:6	wakeups: 1, dc: 25, Tw: 1089
+22:30.459	ID:2	send packet
+22:30.464	ID:2	HC GRADIENT mode strobe
+22:30.464	ID:2	result: 3
+22:30.465	ID:2	send packet
+22:30.470	ID:2	HC GRADIENT mode strobe
+22:30.471	ID:2	result: 3
+22:30.472	ID:2	send packet
+22:30.477	ID:2	HC GRADIENT mode strobe
+22:30.478	ID:2	result: 3
+22:30.479	ID:2	send packet
+22:30.484	ID:2	HC GRADIENT mode strobe
+22:30.485	ID:2	result: 3
+22:30.486	ID:2	send packet
+22:30.491	ID:2	HC GRADIENT mode strobe
+22:30.492	ID:2	result: 3
+22:30.492	ID:2	send packet
+22:30.498	ID:2	HC GRADIENT mode strobe
+22:30.498	ID:2	result: 3
+22:30.499	ID:2	go to sleep
+22:30.504	ID:2	wakeups: 25, dc: 3, Tw: 1028
+22:32.209	ID:8	send packet
+22:32.214	ID:8	HC GRADIENT mode strobe
+22:32.215	ID:8	result: 3
+22:32.216	ID:8	send packet
+22:32.221	ID:8	HC GRADIENT mode strobe
+22:32.222	ID:8	result: 3
+22:32.223	ID:8	send packet
+22:32.228	ID:8	HC GRADIENT mode strobe
+22:32.229	ID:8	result: 3
+22:32.230	ID:8	send packet
+22:32.235	ID:8	HC GRADIENT mode strobe
+22:32.236	ID:8	result: 3
+22:32.236	ID:8	send packet
+22:32.241	ID:8	HC GRADIENT mode strobe
+22:32.242	ID:8	result: 3
+22:32.243	ID:8	send packet
+22:32.248	ID:8	HC GRADIENT mode strobe
+22:32.249	ID:8	result: 3
+22:32.250	ID:8	go to sleep
+22:32.255	ID:8	wakeups: 1, dc: 50, Tw: 1222
+22:33.294	ID:3	send packet
+22:33.299	ID:3	HC GRADIENT mode strobe
+22:33.300	ID:3	result: 3
+22:33.300	ID:3	send packet
+22:33.306	ID:3	HC GRADIENT mode strobe
+22:33.306	ID:3	result: 3
+22:33.307	ID:3	send packet
+22:33.312	ID:3	HC GRADIENT mode strobe
+22:33.313	ID:3	result: 3
+22:33.314	ID:3	send packet
+22:33.319	ID:3	HC GRADIENT mode strobe
+22:33.320	ID:3	result: 3
+22:33.321	ID:3	send packet
+22:33.326	ID:3	HC GRADIENT mode strobe
+22:33.327	ID:3	result: 3
+22:33.328	ID:3	go to sleep
+22:33.332	ID:3	wakeups: 1, dc: 38, Tw: 1233
+22:33.891	ID:4	send packet
+22:33.896	ID:4	HC GRADIENT mode strobe
+22:33.897	ID:4	result: 3
+22:33.898	ID:4	send packet
+22:33.903	ID:4	HC GRADIENT mode strobe
+22:33.904	ID:4	result: 3
+22:33.905	ID:4	send packet
+22:33.910	ID:4	HC GRADIENT mode strobe
+22:33.911	ID:4	result: 3
+22:33.911	ID:4	send packet
+22:33.917	ID:4	HC GRADIENT mode strobe
+22:33.917	ID:4	result: 3
+22:33.918	ID:4	send packet
+22:33.923	ID:4	HC GRADIENT mode strobe
+22:33.924	ID:4	result: 3
+22:33.925	ID:4	send packet
+22:33.930	ID:4	HC GRADIENT mode strobe
+22:33.931	ID:4	result: 3
+22:33.932	ID:4	send packet
+22:33.937	ID:4	HC GRADIENT mode strobe
+22:33.938	ID:4	result: 3
+22:33.939	ID:4	go to sleep
+22:33.943	ID:4	wakeups: 25, dc: 3, Tw: 1338
+22:34.165	ID:9	send packet
+22:34.170	ID:9	HC GRADIENT mode strobe
+22:34.173	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 25
+22:35.178	ID:9	current_state: 3, collisions: 0
+22:35.180	ID:9	2 9 1
+22:35.183	ID:9	power: 726462
+22:35.186	ID:9	6 726462 86
+22:35.187	ID:9	result: 1
+22:35.188	ID:9	go to sleep
+22:35.192	ID:9	wakeups: 1, dc: 86, Tw: 922
+22:36.109	ID:5	send packet
+22:36.114	ID:5	HC GRADIENT mode strobe
+22:36.115	ID:5	result: 3
+22:36.116	ID:5	send packet
+22:36.121	ID:5	HC GRADIENT mode strobe
+22:36.122	ID:5	result: 3
+22:36.123	ID:5	send packet
+22:36.128	ID:5	HC GRADIENT mode strobe
+22:36.129	ID:5	result: 3
+22:36.130	ID:5	send packet
+22:36.135	ID:5	HC GRADIENT mode strobe
+22:36.136	ID:5	result: 3
+22:36.137	ID:5	send packet
+22:36.142	ID:5	HC GRADIENT mode strobe
+22:36.142	ID:5	result: 3
+22:36.143	ID:5	send packet
+22:36.148	ID:5	HC GRADIENT mode strobe
+22:36.149	ID:5	result: 3
+22:36.150	ID:5	go to sleep
+22:36.154	ID:5	wakeups: 1, dc: 43, Tw: 944
+22:38.512	ID:6	send packet
+22:38.517	ID:6	HC GRADIENT mode strobe
+22:38.518	ID:6	result: 3
+22:38.519	ID:6	send packet
+22:38.524	ID:6	HC GRADIENT mode strobe
+22:38.525	ID:6	result: 3
+22:38.526	ID:6	send packet
+22:38.529	ID:2	send packet
+22:38.531	ID:6	HC GRADIENT mode strobe
+22:38.532	ID:6	result: 3
+22:38.533	ID:6	send packet
+22:38.534	ID:2	HC GRADIENT mode strobe
+22:38.535	ID:2	result: 3
+22:38.536	ID:2	send packet
+22:38.538	ID:6	HC GRADIENT mode strobe
+22:38.539	ID:6	result: 3
+22:38.539	ID:6	send packet
+22:38.541	ID:2	HC GRADIENT mode strobe
+22:38.542	ID:2	result: 3
+22:38.542	ID:2	send packet
+22:38.544	ID:6	HC GRADIENT mode strobe
+22:38.545	ID:6	result: 3
+22:38.546	ID:6	go to sleep
+22:38.548	ID:2	HC GRADIENT mode strobe
+22:38.548	ID:2	result: 3
+22:38.549	ID:2	send packet
+22:38.551	ID:6	wakeups: 1, dc: 25, Tw: 1214
+22:38.554	ID:2	HC GRADIENT mode strobe
+22:38.555	ID:2	result: 3
+22:38.556	ID:2	send packet
+22:38.561	ID:2	HC GRADIENT mode strobe
+22:38.562	ID:2	result: 3
+22:38.563	ID:2	send packet
+22:38.568	ID:2	HC GRADIENT mode strobe
+22:38.569	ID:2	result: 3
+22:38.570	ID:2	send packet
+22:38.575	ID:2	HC GRADIENT mode strobe
+22:38.576	ID:2	result: 3
+22:38.576	ID:2	go to sleep
+22:38.581	ID:2	wakeups: 25, dc: 3, Tw: 1145
+22:38.726	ID:7	send packet
+22:38.731	ID:7	HC GRADIENT mode strobe
+22:38.734	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 22
+22:39.738	ID:7	2 7 3
+22:39.741	ID:7	power: 762846
+22:39.744	ID:7	6 762846 47
+22:39.745	ID:7	result: 1
+22:39.746	ID:7	go to sleep
+22:39.750	ID:7	wakeups: 3, dc: 47, Tw: 1291
+22:41.795	ID:8	send packet
+22:41.800	ID:8	HC GRADIENT mode strobe
+22:41.801	ID:8	result: 3
+22:41.802	ID:8	send packet
+22:41.807	ID:8	HC GRADIENT mode strobe
+22:41.808	ID:8	result: 3
+22:41.809	ID:8	send packet
+22:41.814	ID:8	HC GRADIENT mode strobe
+22:41.815	ID:8	result: 3
+22:41.816	ID:8	send packet
+22:41.821	ID:8	HC GRADIENT mode strobe
+22:41.821	ID:8	result: 3
+22:41.822	ID:8	send packet
+22:41.827	ID:8	HC GRADIENT mode strobe
+22:41.828	ID:8	result: 3
+22:41.829	ID:8	go to sleep
+22:41.834	ID:8	wakeups: 1, dc: 50, Tw: 1138
+22:42.392	ID:9	send packet
+22:42.397	ID:9	HC GRADIENT mode strobe
+22:42.400	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 25
+22:42.966	ID:3	send packet
+22:42.971	ID:3	HC GRADIENT mode strobe
+22:42.971	ID:3	result: 3
+22:42.972	ID:3	send packet
+22:42.977	ID:3	HC GRADIENT mode strobe
+22:42.978	ID:3	result: 3
+22:42.979	ID:3	send packet
+22:42.984	ID:3	HC GRADIENT mode strobe
+22:42.985	ID:3	result: 3
+22:42.986	ID:3	send packet
+22:42.991	ID:3	HC GRADIENT mode strobe
+22:42.992	ID:3	result: 3
+22:42.993	ID:3	send packet
+22:42.998	ID:3	HC GRADIENT mode strobe
+22:42.999	ID:3	result: 3
+22:42.999	ID:3	send packet
+22:43.005	ID:3	HC GRADIENT mode strobe
+22:43.005	ID:3	result: 3
+22:43.006	ID:3	send packet
+22:43.011	ID:3	HC GRADIENT mode strobe
+22:43.012	ID:3	result: 3
+22:43.013	ID:3	go to sleep
+22:43.018	ID:3	wakeups: 1, dc: 38, Tw: 1340
+22:43.405	ID:9	current_state: 3, collisions: 0
+22:43.406	ID:9	2 9 1
+22:43.408	ID:9	power: 822
+22:43.411	ID:9	6 822 86
+22:43.412	ID:9	result: 1
+22:43.412	ID:9	go to sleep
+22:43.417	ID:9	wakeups: 1, dc: 86, Tw: 1219
+22:43.523	ID:5	send packet
+22:43.529	ID:5	HC GRADIENT mode strobe
+22:43.529	ID:5	result: 3
+22:43.530	ID:5	send packet
+22:43.535	ID:5	HC GRADIENT mode strobe
+22:43.536	ID:5	result: 3
+22:43.537	ID:5	send packet
+22:43.542	ID:5	HC GRADIENT mode strobe
+22:43.543	ID:5	result: 3
+22:43.544	ID:5	send packet
+22:43.549	ID:5	HC GRADIENT mode strobe
+22:43.550	ID:5	result: 3
+22:43.551	ID:5	send packet
+22:43.556	ID:5	HC GRADIENT mode strobe
+22:43.557	ID:5	result: 3
+22:43.557	ID:5	send packet
+22:43.562	ID:5	HC GRADIENT mode strobe
+22:43.563	ID:5	result: 3
+22:43.564	ID:5	send packet
+22:43.569	ID:5	HC GRADIENT mode strobe
+22:43.570	ID:5	result: 3
+22:43.571	ID:5	go to sleep
+22:43.576	ID:5	wakeups: 1, dc: 43, Tw: 1457
+22:44.391	ID:4	send packet
+22:44.396	ID:4	HC GRADIENT mode strobe
+22:44.397	ID:4	result: 3
+22:44.398	ID:4	send packet
+22:44.403	ID:4	HC GRADIENT mode strobe
+22:44.404	ID:4	result: 3
+22:44.405	ID:4	send packet
+22:44.410	ID:4	HC GRADIENT mode strobe
+22:44.411	ID:4	result: 3
+22:44.411	ID:4	send packet
+22:44.417	ID:4	HC GRADIENT mode strobe
+22:44.417	ID:4	result: 3
+22:44.418	ID:4	send packet
+22:44.423	ID:4	HC GRADIENT mode strobe
+22:44.424	ID:4	result: 3
+22:44.425	ID:4	go to sleep
+22:44.430	ID:4	wakeups: 25, dc: 3, Tw: 1404
+22:47.521	ID:2	send packet
+22:47.526	ID:2	HC GRADIENT mode strobe
+22:47.527	ID:2	result: 3
+22:47.528	ID:2	send packet
+22:47.533	ID:2	HC GRADIENT mode strobe
+22:47.534	ID:2	result: 3
+22:47.535	ID:2	send packet
+22:47.540	ID:2	HC GRADIENT mode strobe
+22:47.541	ID:2	result: 3
+22:47.541	ID:2	send packet
+22:47.546	ID:2	HC GRADIENT mode strobe
+22:47.547	ID:2	result: 3
+22:47.548	ID:2	send packet
+22:47.553	ID:2	HC GRADIENT mode strobe
+22:47.554	ID:2	result: 3
+22:47.555	ID:2	go to sleep
+22:47.560	ID:2	wakeups: 25, dc: 3, Tw: 1052
+22:48.036	ID:6	send packet
+22:48.041	ID:6	HC GRADIENT mode strobe
+22:48.042	ID:6	result: 3
+22:48.042	ID:6	send packet
+22:48.047	ID:6	HC GRADIENT mode strobe
+22:48.048	ID:6	result: 3
+22:48.049	ID:6	send packet
+22:48.054	ID:6	HC GRADIENT mode strobe
+22:48.055	ID:6	result: 3
+22:48.056	ID:6	send packet
+22:48.061	ID:6	HC GRADIENT mode strobe
+22:48.062	ID:6	result: 3
+22:48.063	ID:6	send packet
+22:48.068	ID:6	HC GRADIENT mode strobe
+22:48.069	ID:6	result: 3
+22:48.069	ID:6	send packet
+22:48.075	ID:6	HC GRADIENT mode strobe
+22:48.075	ID:6	result: 3
+22:48.076	ID:6	go to sleep
+22:48.081	ID:6	wakeups: 1, dc: 25, Tw: 1372
+22:49.835	ID:7	send packet
+22:49.840	ID:7	HC GRADIENT mode strobe
+22:49.843	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 22
+22:50.725	ID:8	send packet
+22:50.728	ID:8	HC_GRADIENT mode rx
+22:50.731	ID:8	drop because 2 is smaller then 3
+22:50.733	ID:8	packet from 7 is dropped
+22:50.734	ID:8	result: 9
+22:50.735	ID:8	send packet
+22:50.737	ID:8	HC_GRADIENT mode rx
+22:50.739	ID:8	drop because 2 is smaller then 3
+22:50.741	ID:8	packet from 7 is dropped
+22:50.742	ID:8	result: 9
+22:50.743	ID:8	send packet
+22:50.745	ID:8	HC_GRADIENT mode rx
+22:50.748	ID:8	drop because 2 is smaller then 3
+22:50.750	ID:8	packet from 7 is dropped
+22:50.751	ID:8	result: 9
+22:50.751	ID:8	send packet
+22:50.753	ID:8	HC_GRADIENT mode rx
+22:50.756	ID:8	drop because 2 is smaller then 3
+22:50.758	ID:8	packet from 7 is dropped
+22:50.759	ID:8	result: 9
+22:50.760	ID:8	send packet
+22:50.762	ID:8	HC_GRADIENT mode rx
+22:50.764	ID:8	drop because 2 is smaller then 3
+22:50.766	ID:8	packet from 7 is dropped
+22:50.767	ID:8	result: 9
+22:50.768	ID:8	send packet
+22:50.770	ID:8	HC_GRADIENT mode rx
+22:50.773	ID:8	drop because 2 is smaller then 3
+22:50.775	ID:8	packet from 7 is dropped
+22:50.776	ID:8	result: 9
+22:50.776	ID:8	go to sleep
+22:50.781	ID:8	wakeups: 1, dc: 50, Tw: 948
+22:50.847	ID:7	2 7 3
+22:50.850	ID:7	power: 37050
+22:50.853	ID:7	6 37050 48
+22:50.854	ID:7	result: 1
+22:50.855	ID:7	go to sleep
+22:50.859	ID:7	wakeups: 3, dc: 48, Tw: 1509
+22:52.939	ID:9	send packet
+22:52.944	ID:9	HC GRADIENT mode strobe
+22:52.947	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 25
+22:53.481	ID:3	send packet
+22:53.486	ID:3	HC GRADIENT mode strobe
+22:53.487	ID:3	result: 3
+22:53.488	ID:3	send packet
+22:53.493	ID:3	HC GRADIENT mode strobe
+22:53.494	ID:3	result: 3
+22:53.495	ID:3	send packet
+22:53.500	ID:3	HC GRADIENT mode strobe
+22:53.501	ID:3	result: 3
+22:53.502	ID:3	send packet
+22:53.507	ID:3	HC GRADIENT mode strobe
+22:53.507	ID:3	result: 3
+22:53.508	ID:3	send packet
+22:53.513	ID:3	HC GRADIENT mode strobe
+22:53.514	ID:3	result: 3
+22:53.515	ID:3	send packet
+22:53.520	ID:3	HC GRADIENT mode strobe
+22:53.521	ID:3	result: 3
+22:53.522	ID:3	send packet
+22:53.527	ID:3	HC GRADIENT mode strobe
+22:53.528	ID:3	result: 3
+22:53.529	ID:3	go to sleep
+22:53.533	ID:3	wakeups: 1, dc: 38, Tw: 1227
+22:53.951	ID:9	current_state: 3, collisions: 0
+22:53.953	ID:9	2 9 1
+22:53.955	ID:9	power: 61590
+22:53.958	ID:9	6 61590 86
+22:53.960	ID:9	result: 1
+22:53.960	ID:9	go to sleep
+22:53.965	ID:9	wakeups: 1, dc: 86, Tw: 1398
+22:54.953	ID:5	send packet
+22:54.958	ID:5	HC GRADIENT mode strobe
+22:54.959	ID:5	result: 3
+22:54.960	ID:5	send packet
+22:54.965	ID:5	HC GRADIENT mode strobe
+22:54.966	ID:5	result: 3
+22:54.967	ID:5	send packet
+22:54.972	ID:5	HC GRADIENT mode strobe
+22:54.973	ID:5	result: 3
+22:54.974	ID:5	send packet
+22:54.979	ID:5	HC GRADIENT mode strobe
+22:54.979	ID:5	result: 3
+22:54.980	ID:5	send packet
+22:54.985	ID:5	HC GRADIENT mode strobe
+22:54.986	ID:5	result: 3
+22:54.987	ID:5	go to sleep
+22:54.991	ID:5	wakeups: 1, dc: 43, Tw: 949
+22:55.399	ID:4	send packet
+22:55.404	ID:4	HC GRADIENT mode strobe
+22:55.405	ID:4	result: 3
+22:55.406	ID:4	send packet
+22:55.411	ID:4	HC GRADIENT mode strobe
+22:55.412	ID:4	result: 3
+22:55.412	ID:4	send packet
+22:55.418	ID:4	HC GRADIENT mode strobe
+22:55.418	ID:4	result: 3
+22:55.419	ID:4	send packet
+22:55.424	ID:4	HC GRADIENT mode strobe
+22:55.425	ID:4	result: 3
+22:55.426	ID:4	send packet
+22:55.431	ID:4	HC GRADIENT mode strobe
+22:55.432	ID:4	result: 3
+22:55.433	ID:4	send packet
+22:55.438	ID:4	HC GRADIENT mode strobe
+22:55.439	ID:4	result: 3
+22:55.440	ID:4	send packet
+22:55.445	ID:4	HC GRADIENT mode strobe
+22:55.446	ID:4	result: 3
+22:55.446	ID:4	go to sleep
+22:55.451	ID:4	wakeups: 25, dc: 3, Tw: 1541
+22:55.779	ID:2	send packet
+22:55.784	ID:2	HC GRADIENT mode strobe
+22:55.785	ID:2	result: 3
+22:55.786	ID:2	send packet
+22:55.791	ID:2	HC GRADIENT mode strobe
+22:55.792	ID:2	result: 3
+22:55.792	ID:2	send packet
+22:55.798	ID:2	HC GRADIENT mode strobe
+22:55.798	ID:2	result: 3
+22:55.799	ID:2	send packet
+22:55.804	ID:2	HC GRADIENT mode strobe
+22:55.805	ID:2	result: 3
+22:55.806	ID:2	send packet
+22:55.811	ID:2	HC GRADIENT mode strobe
+22:55.812	ID:2	result: 3
+22:55.813	ID:2	go to sleep
+22:55.817	ID:2	wakeups: 25, dc: 3, Tw: 1121
+22:58.186	ID:8	send packet
+22:58.191	ID:8	HC GRADIENT mode strobe
+22:58.192	ID:8	result: 3
+22:58.193	ID:8	send packet
+22:58.198	ID:8	HC GRADIENT mode strobe
+22:58.199	ID:8	result: 3
+22:58.199	ID:8	send packet
+22:58.204	ID:8	HC GRADIENT mode strobe
+22:58.205	ID:8	result: 3
+22:58.206	ID:8	send packet
+22:58.211	ID:8	HC GRADIENT mode strobe
+22:58.212	ID:8	result: 3
+22:58.213	ID:8	send packet
+22:58.218	ID:8	HC GRADIENT mode strobe
+22:58.219	ID:8	result: 3
+22:58.220	ID:8	send packet
+22:58.225	ID:8	HC GRADIENT mode strobe
+22:58.226	ID:8	result: 3
+22:58.227	ID:8	go to sleep
+22:58.231	ID:8	wakeups: 1, dc: 50, Tw: 1178
+22:58.793	ID:6	send packet
+22:58.798	ID:6	HC GRADIENT mode strobe
+22:58.799	ID:6	result: 3
+22:58.800	ID:6	send packet
+22:58.805	ID:6	HC GRADIENT mode strobe
+22:58.806	ID:6	result: 3
+22:58.807	ID:6	send packet
+22:58.812	ID:6	HC GRADIENT mode strobe
+22:58.813	ID:6	result: 3
+22:58.814	ID:6	send packet
+22:58.819	ID:6	HC GRADIENT mode strobe
+22:58.820	ID:6	result: 3
+22:58.821	ID:6	send packet
+22:58.826	ID:6	HC GRADIENT mode strobe
+22:58.826	ID:6	result: 3
+22:58.827	ID:6	send packet
+22:58.832	ID:6	HC GRADIENT mode strobe
+22:58.833	ID:6	result: 3
+22:58.834	ID:6	go to sleep
+22:58.839	ID:6	wakeups: 1, dc: 25, Tw: 1454
+23:02.406	ID:5	send packet
+23:02.411	ID:5	HC GRADIENT mode strobe
+23:02.412	ID:5	result: 3
+23:02.413	ID:5	send packet
+23:02.418	ID:5	HC GRADIENT mode strobe
+23:02.419	ID:5	result: 3
+23:02.420	ID:5	send packet
+23:02.425	ID:5	HC GRADIENT mode strobe
+23:02.426	ID:5	result: 3
+23:02.427	ID:5	send packet
+23:02.432	ID:5	HC GRADIENT mode strobe
+23:02.433	ID:5	result: 3
+23:02.433	ID:5	send packet
+23:02.439	ID:5	HC GRADIENT mode strobe
+23:02.439	ID:5	result: 3
+23:02.440	ID:5	send packet
+23:02.445	ID:5	HC GRADIENT mode strobe
+23:02.446	ID:5	result: 3
+23:02.447	ID:5	send packet
+23:02.452	ID:5	HC GRADIENT mode strobe
+23:02.453	ID:5	result: 3
+23:02.454	ID:5	go to sleep
+23:02.459	ID:5	wakeups: 1, dc: 43, Tw: 1380
+23:02.648	ID:7	send packet
+23:02.653	ID:7	HC GRADIENT mode strobe
+23:02.656	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 22
+23:03.114	ID:3	send packet
+23:03.119	ID:3	HC GRADIENT mode strobe
+23:03.120	ID:3	result: 3
+23:03.121	ID:3	send packet
+23:03.126	ID:3	HC GRADIENT mode strobe
+23:03.127	ID:3	result: 3
+23:03.128	ID:3	send packet
+23:03.133	ID:3	HC GRADIENT mode strobe
+23:03.133	ID:3	result: 3
+23:03.134	ID:3	send packet
+23:03.139	ID:3	HC GRADIENT mode strobe
+23:03.140	ID:3	result: 3
+23:03.141	ID:3	send packet
+23:03.146	ID:3	HC GRADIENT mode strobe
+23:03.147	ID:3	result: 3
+23:03.148	ID:3	send packet
+23:03.153	ID:3	HC GRADIENT mode strobe
+23:03.154	ID:3	result: 3
+23:03.155	ID:3	go to sleep
+23:03.159	ID:3	wakeups: 1, dc: 38, Tw: 1438
+23:03.660	ID:7	2 7 3
+23:03.662	ID:7	power: 97686
+23:03.665	ID:7	6 97686 48
+23:03.666	ID:7	result: 1
+23:03.667	ID:7	go to sleep
+23:03.672	ID:7	wakeups: 3, dc: 48, Tw: 1078
+23:04.576	ID:2	send packet
+23:04.581	ID:2	HC GRADIENT mode strobe
+23:04.582	ID:2	result: 3
+23:04.583	ID:2	send packet
+23:04.588	ID:2	HC GRADIENT mode strobe
+23:04.588	ID:2	result: 3
+23:04.589	ID:2	send packet
+23:04.594	ID:2	HC GRADIENT mode strobe
+23:04.595	ID:2	result: 3
+23:04.596	ID:2	send packet
+23:04.601	ID:2	HC GRADIENT mode strobe
+23:04.602	ID:2	result: 3
+23:04.603	ID:2	send packet
+23:04.608	ID:2	HC GRADIENT mode strobe
+23:04.609	ID:2	result: 3
+23:04.610	ID:2	send packet
+23:04.615	ID:2	HC GRADIENT mode strobe
+23:04.616	ID:2	result: 3
+23:04.616	ID:2	go to sleep
+23:04.621	ID:2	wakeups: 25, dc: 3, Tw: 1392
+23:04.884	ID:9	send packet
+23:04.889	ID:9	HC GRADIENT mode strobe
+23:04.892	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 25
+23:05.897	ID:9	current_state: 3, collisions: 0
+23:05.898	ID:9	2 9 1
+23:05.901	ID:9	power: 122364
+23:05.904	ID:9	6 122364 86
+23:05.906	ID:9	result: 1
+23:05.906	ID:9	go to sleep
+23:05.911	ID:9	wakeups: 1, dc: 86, Tw: 1225
+23:07.428	ID:8	send packet
+23:07.433	ID:8	HC GRADIENT mode strobe
+23:07.434	ID:8	result: 3
+23:07.435	ID:8	send packet
+23:07.440	ID:8	HC GRADIENT mode strobe
+23:07.441	ID:8	result: 3
+23:07.442	ID:8	send packet
+23:07.447	ID:8	HC GRADIENT mode strobe
+23:07.448	ID:8	result: 3
+23:07.448	ID:8	send packet
+23:07.453	ID:8	HC GRADIENT mode strobe
+23:07.454	ID:8	result: 3
+23:07.455	ID:8	send packet
+23:07.460	ID:8	HC GRADIENT mode strobe
+23:07.461	ID:8	result: 3
+23:07.462	ID:8	go to sleep
+23:07.467	ID:8	wakeups: 1, dc: 50, Tw: 1230
+23:07.485	ID:4	send packet
+23:07.490	ID:4	HC GRADIENT mode strobe
+23:07.491	ID:4	result: 3
+23:07.492	ID:4	send packet
+23:07.497	ID:4	HC GRADIENT mode strobe
+23:07.498	ID:4	result: 3
+23:07.498	ID:4	send packet
+23:07.504	ID:4	HC GRADIENT mode strobe
+23:07.504	ID:4	result: 3
+23:07.505	ID:4	send packet
+23:07.510	ID:4	HC GRADIENT mode strobe
+23:07.511	ID:4	result: 3
+23:07.512	ID:4	send packet
+23:07.517	ID:4	HC GRADIENT mode strobe
+23:07.518	ID:4	result: 3
+23:07.519	ID:4	send packet
+23:07.524	ID:4	HC GRADIENT mode strobe
+23:07.525	ID:4	result: 3
+23:07.526	ID:4	send packet
+23:07.531	ID:4	HC GRADIENT mode strobe
+23:07.532	ID:4	result: 3
+23:07.532	ID:4	go to sleep
+23:07.537	ID:4	wakeups: 25, dc: 3, Tw: 1197
+23:10.192	ID:6	send packet
+23:10.197	ID:6	HC GRADIENT mode strobe
+23:10.198	ID:6	result: 3
+23:10.199	ID:6	send packet
+23:10.204	ID:6	HC GRADIENT mode strobe
+23:10.205	ID:6	result: 3
+23:10.205	ID:6	send packet
+23:10.210	ID:6	HC GRADIENT mode strobe
+23:10.211	ID:6	result: 3
+23:10.212	ID:6	send packet
+23:10.217	ID:6	HC GRADIENT mode strobe
+23:10.218	ID:6	result: 3
+23:10.219	ID:6	send packet
+23:10.224	ID:6	HC GRADIENT mode strobe
+23:10.225	ID:6	result: 3
+23:10.226	ID:6	send packet
+23:10.231	ID:6	HC GRADIENT mode strobe
+23:10.232	ID:6	result: 3
+23:10.233	ID:6	send packet
+23:10.238	ID:6	HC GRADIENT mode strobe
+23:10.239	ID:6	result: 3
+23:10.239	ID:6	send packet
+23:10.244	ID:6	HC GRADIENT mode strobe
+23:10.245	ID:6	result: 3
+23:10.246	ID:6	go to sleep
+23:10.251	ID:6	wakeups: 1, dc: 25, Tw: 1143
+23:12.093	ID:7	send packet
+23:12.098	ID:7	HC GRADIENT mode strobe
+23:12.101	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 22
+23:13.105	ID:7	2 7 3
+23:13.108	ID:7	power: 158310
+23:13.111	ID:7	6 158310 48
+23:13.112	ID:7	result: 1
+23:13.113	ID:7	go to sleep
+23:13.118	ID:7	wakeups: 3, dc: 48, Tw: 1391
+23:13.234	ID:5	send packet
+23:13.239	ID:5	HC GRADIENT mode strobe
+23:13.240	ID:5	result: 3
+23:13.241	ID:5	send packet
+23:13.246	ID:5	HC GRADIENT mode strobe
+23:13.247	ID:5	result: 3
+23:13.248	ID:5	send packet
+23:13.253	ID:5	HC GRADIENT mode strobe
+23:13.254	ID:5	result: 3
+23:13.255	ID:5	send packet
+23:13.260	ID:5	HC GRADIENT mode strobe
+23:13.261	ID:5	result: 3
+23:13.262	ID:5	send packet
+23:13.267	ID:5	HC GRADIENT mode strobe
+23:13.267	ID:5	result: 3
+23:13.268	ID:5	send packet
+23:13.273	ID:5	HC GRADIENT mode strobe
+23:13.274	ID:5	result: 3
+23:13.275	ID:5	send packet
+23:13.280	ID:5	HC GRADIENT mode strobe
+23:13.281	ID:5	result: 3
+23:13.282	ID:5	go to sleep
+23:13.287	ID:5	wakeups: 1, dc: 43, Tw: 1502
+23:14.387	ID:3	send packet
+23:14.392	ID:3	HC GRADIENT mode strobe
+23:14.393	ID:3	result: 3
+23:14.394	ID:3	send packet
+23:14.399	ID:3	HC GRADIENT mode strobe
+23:14.400	ID:3	result: 3
+23:14.401	ID:3	send packet
+23:14.406	ID:3	HC GRADIENT mode strobe
+23:14.407	ID:3	result: 3
+23:14.408	ID:3	send packet
+23:14.413	ID:3	HC GRADIENT mode strobe
+23:14.414	ID:3	result: 3
+23:14.415	ID:3	send packet
+23:14.420	ID:3	HC GRADIENT mode strobe
+23:14.420	ID:3	result: 3
+23:14.421	ID:3	go to sleep
+23:14.426	ID:3	wakeups: 1, dc: 38, Tw: 1401
+23:15.478	ID:9	send packet
+23:15.483	ID:9	HC GRADIENT mode strobe
+23:15.486	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 25
+23:15.490	ID:2	send packet
+23:15.495	ID:2	HC GRADIENT mode strobe
+23:15.496	ID:2	result: 3
+23:15.497	ID:2	send packet
+23:15.502	ID:2	HC GRADIENT mode strobe
+23:15.503	ID:2	result: 3
+23:15.503	ID:2	send packet
+23:15.508	ID:2	HC GRADIENT mode strobe
+23:15.509	ID:2	result: 3
+23:15.510	ID:2	send packet
+23:15.515	ID:2	HC GRADIENT mode strobe
+23:15.516	ID:2	result: 3
+23:15.517	ID:2	send packet
+23:15.522	ID:2	HC GRADIENT mode strobe
+23:15.523	ID:2	result: 3
+23:15.524	ID:2	send packet
+23:15.529	ID:2	HC GRADIENT mode strobe
+23:15.530	ID:2	result: 3
+23:15.531	ID:2	send packet
+23:15.536	ID:2	HC GRADIENT mode strobe
+23:15.537	ID:2	result: 3
+23:15.537	ID:2	go to sleep
+23:15.542	ID:2	wakeups: 25, dc: 3, Tw: 1191
+23:16.491	ID:9	current_state: 3, collisions: 0
+23:16.492	ID:9	2 9 1
+23:16.495	ID:9	power: 183138
+23:16.498	ID:9	6 183138 86
+23:16.499	ID:9	result: 1
+23:16.500	ID:9	go to sleep
+23:16.505	ID:9	wakeups: 1, dc: 86, Tw: 1201
+23:16.883	ID:4	send packet
+23:16.888	ID:4	HC GRADIENT mode strobe
+23:16.889	ID:4	result: 3
+23:16.890	ID:4	send packet
+23:16.895	ID:4	HC GRADIENT mode strobe
+23:16.896	ID:4	result: 3
+23:16.897	ID:4	send packet
+23:16.902	ID:4	HC GRADIENT mode strobe
+23:16.903	ID:4	result: 3
+23:16.904	ID:4	send packet
+23:16.909	ID:4	HC GRADIENT mode strobe
+23:16.910	ID:4	result: 3
+23:16.910	ID:4	send packet
+23:16.915	ID:4	HC GRADIENT mode strobe
+23:16.916	ID:4	result: 3
+23:16.917	ID:4	send packet
+23:16.922	ID:4	HC GRADIENT mode strobe
+23:16.923	ID:4	result: 3
+23:16.924	ID:4	send packet
+23:16.929	ID:4	HC GRADIENT mode strobe
+23:16.930	ID:4	result: 3
+23:16.931	ID:4	go to sleep
+23:16.936	ID:4	wakeups: 25, dc: 3, Tw: 1047
+23:17.076	ID:8	send packet
+23:17.082	ID:8	HC GRADIENT mode strobe
+23:17.082	ID:8	result: 3
+23:17.083	ID:8	send packet
+23:17.088	ID:8	HC GRADIENT mode strobe
+23:17.089	ID:8	result: 3
+23:17.090	ID:8	send packet
+23:17.095	ID:8	HC GRADIENT mode strobe
+23:17.096	ID:8	result: 3
+23:17.097	ID:8	send packet
+23:17.102	ID:8	HC GRADIENT mode strobe
+23:17.103	ID:8	result: 3
+23:17.104	ID:8	send packet
+23:17.109	ID:8	HC GRADIENT mode strobe
+23:17.110	ID:8	result: 3
+23:17.110	ID:8	go to sleep
+23:17.115	ID:8	wakeups: 1, dc: 50, Tw: 1388
+23:19.176	ID:6	send packet
+23:19.181	ID:6	HC GRADIENT mode strobe
+23:19.182	ID:6	result: 3
+23:19.183	ID:6	send packet
+23:19.188	ID:6	HC GRADIENT mode strobe
+23:19.189	ID:6	result: 3
+23:19.190	ID:6	send packet
+23:19.195	ID:6	HC GRADIENT mode strobe
+23:19.196	ID:6	result: 3
+23:19.197	ID:6	send packet
+23:19.202	ID:6	HC GRADIENT mode strobe
+23:19.203	ID:6	result: 3
+23:19.203	ID:6	send packet
+23:19.208	ID:6	HC GRADIENT mode strobe
+23:19.209	ID:6	result: 3
+23:19.210	ID:6	send packet
+23:19.215	ID:6	HC GRADIENT mode strobe
+23:19.216	ID:6	result: 3
+23:19.217	ID:6	send packet
+23:19.222	ID:6	HC GRADIENT mode strobe
+23:19.223	ID:6	result: 3
+23:19.224	ID:6	go to sleep
+23:19.228	ID:6	wakeups: 1, dc: 25, Tw: 1494
+23:23.984	ID:7	send packet
+23:23.989	ID:7	HC GRADIENT mode strobe
+23:23.992	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 22
+23:24.841	ID:2	send packet
+23:24.846	ID:2	HC GRADIENT mode strobe
+23:24.847	ID:2	result: 3
+23:24.848	ID:2	send packet
+23:24.853	ID:2	HC GRADIENT mode strobe
+23:24.854	ID:2	result: 3
+23:24.855	ID:2	send packet
+23:24.860	ID:2	HC GRADIENT mode strobe
+23:24.861	ID:2	result: 3
+23:24.862	ID:2	send packet
+23:24.867	ID:2	HC GRADIENT mode strobe
+23:24.868	ID:2	result: 3
+23:24.868	ID:2	send packet
+23:24.874	ID:2	HC GRADIENT mode strobe
+23:24.874	ID:2	result: 3
+23:24.875	ID:2	send packet
+23:24.880	ID:2	HC GRADIENT mode strobe
+23:24.881	ID:2	result: 3
+23:24.882	ID:2	go to sleep
+23:24.887	ID:2	wakeups: 25, dc: 3, Tw: 1535
+23:24.995	ID:7	2 7 3
+23:24.998	ID:7	power: 218934
+23:25.002	ID:7	6 218934 49
+23:25.003	ID:7	result: 1
+23:25.003	ID:7	go to sleep
+23:25.008	ID:7	wakeups: 3, dc: 49, Tw: 1336
+23:25.016	ID:5	send packet
+23:25.021	ID:5	HC GRADIENT mode strobe
+23:25.022	ID:5	result: 3
+23:25.022	ID:5	send packet
+23:25.028	ID:5	HC GRADIENT mode strobe
+23:25.028	ID:5	result: 3
+23:25.029	ID:5	send packet
+23:25.034	ID:5	HC GRADIENT mode strobe
+23:25.035	ID:5	result: 3
+23:25.036	ID:5	send packet
+23:25.041	ID:5	HC GRADIENT mode strobe
+23:25.042	ID:5	result: 3
+23:25.043	ID:5	send packet
+23:25.048	ID:5	HC GRADIENT mode strobe
+23:25.049	ID:5	result: 3
+23:25.050	ID:5	send packet
+23:25.055	ID:5	HC GRADIENT mode strobe
+23:25.056	ID:5	result: 3
+23:25.056	ID:5	send packet
+23:25.061	ID:5	HC GRADIENT mode strobe
+23:25.062	ID:5	result: 3
+23:25.063	ID:5	go to sleep
+23:25.068	ID:5	wakeups: 1, dc: 43, Tw: 1170
+23:25.110	ID:4	send packet
+23:25.115	ID:4	HC GRADIENT mode strobe
+23:25.116	ID:4	result: 3
+23:25.117	ID:4	send packet
+23:25.122	ID:4	HC GRADIENT mode strobe
+23:25.123	ID:4	result: 3
+23:25.123	ID:4	send packet
+23:25.129	ID:4	HC GRADIENT mode strobe
+23:25.129	ID:4	result: 3
+23:25.130	ID:4	send packet
+23:25.135	ID:4	HC GRADIENT mode strobe
+23:25.136	ID:4	result: 3
+23:25.137	ID:4	send packet
+23:25.142	ID:4	HC GRADIENT mode strobe
+23:25.143	ID:4	result: 3
+23:25.144	ID:4	send packet
+23:25.149	ID:4	HC GRADIENT mode strobe
+23:25.150	ID:4	result: 3
+23:25.151	ID:4	send packet
+23:25.156	ID:4	HC GRADIENT mode strobe
+23:25.157	ID:4	result: 3
+23:25.157	ID:4	go to sleep
+23:25.162	ID:4	wakeups: 25, dc: 3, Tw: 1099
+23:25.372	ID:3	send packet
+23:25.377	ID:3	HC GRADIENT mode strobe
+23:25.378	ID:3	result: 3
+23:25.379	ID:3	send packet
+23:25.384	ID:3	HC GRADIENT mode strobe
+23:25.385	ID:3	result: 3
+23:25.385	ID:3	send packet
+23:25.390	ID:3	HC GRADIENT mode strobe
+23:25.391	ID:3	result: 3
+23:25.392	ID:3	send packet
+23:25.397	ID:3	HC GRADIENT mode strobe
+23:25.398	ID:3	result: 3
+23:25.399	ID:3	send packet
+23:25.404	ID:3	HC GRADIENT mode strobe
+23:25.405	ID:3	result: 3
+23:25.406	ID:3	send packet
+23:25.411	ID:3	HC GRADIENT mode strobe
+23:25.412	ID:3	result: 3
+23:25.413	ID:3	go to sleep
+23:25.417	ID:3	wakeups: 1, dc: 38, Tw: 1060
+23:25.884	ID:9	send packet
+23:25.889	ID:9	HC GRADIENT mode strobe
+23:25.892	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 25
+23:26.897	ID:9	current_state: 3, collisions: 0
+23:26.898	ID:9	2 9 1
+23:26.901	ID:9	power: 243918
+23:26.905	ID:9	6 243918 86
+23:26.906	ID:9	result: 1
+23:26.906	ID:9	go to sleep
+23:26.911	ID:9	wakeups: 1, dc: 86, Tw: 1270
+23:27.959	ID:8	send packet
+23:27.964	ID:8	HC GRADIENT mode strobe
+23:27.965	ID:8	result: 3
+23:27.966	ID:8	send packet
+23:27.971	ID:8	HC GRADIENT mode strobe
+23:27.972	ID:8	result: 3
+23:27.973	ID:8	send packet
+23:27.978	ID:8	HC GRADIENT mode strobe
+23:27.979	ID:8	result: 3
+23:27.980	ID:8	send packet
+23:27.985	ID:8	HC GRADIENT mode strobe
+23:27.986	ID:8	result: 3
+23:27.986	ID:8	send packet
+23:27.991	ID:8	HC GRADIENT mode strobe
+23:27.992	ID:8	result: 3
+23:27.993	ID:8	send packet
+23:27.998	ID:8	HC GRADIENT mode strobe
+23:27.999	ID:8	result: 3
+23:28.000	ID:8	send packet
+23:28.005	ID:8	HC GRADIENT mode strobe
+23:28.006	ID:8	result: 3
+23:28.007	ID:8	go to sleep
+23:28.011	ID:8	wakeups: 1, dc: 50, Tw: 1272
+23:30.895	ID:6	send packet
+23:30.900	ID:6	HC GRADIENT mode strobe
+23:30.901	ID:6	result: 3
+23:30.902	ID:6	send packet
+23:30.907	ID:6	HC GRADIENT mode strobe
+23:30.908	ID:6	result: 3
+23:30.909	ID:6	send packet
+23:30.914	ID:6	HC GRADIENT mode strobe
+23:30.914	ID:6	result: 3
+23:30.915	ID:6	send packet
+23:30.920	ID:6	HC GRADIENT mode strobe
+23:30.921	ID:6	result: 3
+23:30.922	ID:6	send packet
+23:30.927	ID:6	HC GRADIENT mode strobe
+23:30.928	ID:6	result: 3
+23:30.929	ID:6	send packet
+23:30.934	ID:6	HC GRADIENT mode strobe
+23:30.935	ID:6	result: 3
+23:30.936	ID:6	send packet
+23:30.941	ID:6	HC GRADIENT mode strobe
+23:30.942	ID:6	result: 3
+23:30.943	ID:6	go to sleep
+23:30.947	ID:6	wakeups: 1, dc: 25, Tw: 940
+23:33.692	ID:3	send packet
+23:33.697	ID:3	HC GRADIENT mode strobe
+23:33.698	ID:3	result: 3
+23:33.699	ID:3	send packet
+23:33.704	ID:3	HC GRADIENT mode strobe
+23:33.705	ID:3	result: 3
+23:33.706	ID:3	send packet
+23:33.711	ID:3	HC GRADIENT mode strobe
+23:33.712	ID:3	result: 3
+23:33.712	ID:3	send packet
+23:33.718	ID:3	HC GRADIENT mode strobe
+23:33.718	ID:3	result: 3
+23:33.719	ID:3	send packet
+23:33.724	ID:3	HC GRADIENT mode strobe
+23:33.725	ID:3	result: 3
+23:33.726	ID:3	send packet
+23:33.731	ID:3	HC GRADIENT mode strobe
+23:33.732	ID:3	result: 3
+23:33.733	ID:3	send packet
+23:33.738	ID:3	HC GRADIENT mode strobe
+23:33.739	ID:3	result: 3
+23:33.740	ID:3	go to sleep
+23:33.743	ID:4	send packet
+23:33.744	ID:3	wakeups: 1, dc: 38, Tw: 996
+23:33.748	ID:4	HC GRADIENT mode strobe
+23:33.749	ID:4	result: 3
+23:33.749	ID:4	send packet
+23:33.755	ID:4	HC GRADIENT mode strobe
+23:33.755	ID:4	result: 3
+23:33.756	ID:4	send packet
+23:33.761	ID:4	HC GRADIENT mode strobe
+23:33.762	ID:4	result: 3
+23:33.763	ID:4	send packet
+23:33.768	ID:4	HC GRADIENT mode strobe
+23:33.769	ID:4	result: 3
+23:33.770	ID:4	send packet
+23:33.775	ID:4	HC GRADIENT mode strobe
+23:33.776	ID:4	result: 3
+23:33.777	ID:4	go to sleep
+23:33.781	ID:4	wakeups: 25, dc: 3, Tw: 1453
+23:34.203	ID:5	send packet
+23:34.208	ID:5	HC GRADIENT mode strobe
+23:34.209	ID:5	result: 3
+23:34.210	ID:5	send packet
+23:34.215	ID:5	HC GRADIENT mode strobe
+23:34.216	ID:5	result: 3
+23:34.217	ID:5	send packet
+23:34.222	ID:5	HC GRADIENT mode strobe
+23:34.223	ID:5	result: 3
+23:34.224	ID:5	send packet
+23:34.229	ID:5	HC GRADIENT mode strobe
+23:34.229	ID:5	result: 3
+23:34.230	ID:5	send packet
+23:34.235	ID:5	HC GRADIENT mode strobe
+23:34.236	ID:5	result: 3
+23:34.237	ID:5	send packet
+23:34.242	ID:5	HC GRADIENT mode strobe
+23:34.243	ID:5	result: 3
+23:34.244	ID:5	send packet
+23:34.249	ID:5	HC GRADIENT mode strobe
+23:34.250	ID:5	result: 3
+23:34.251	ID:5	go to sleep
+23:34.255	ID:5	wakeups: 1, dc: 43, Tw: 1438
+23:35.445	ID:7	send packet
+23:35.450	ID:7	HC GRADIENT mode strobe
+23:35.453	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 22
+23:36.456	ID:7	2 7 3
+23:36.459	ID:7	power: 279558
+23:36.462	ID:7	6 279558 49
+23:36.464	ID:7	result: 1
+23:36.464	ID:7	go to sleep
+23:36.469	ID:7	wakeups: 3, dc: 49, Tw: 1173
+23:36.829	ID:9	send packet
+23:36.834	ID:9	HC GRADIENT mode strobe
+23:36.837	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 25
+23:36.873	ID:2	send packet
+23:36.878	ID:2	HC GRADIENT mode strobe
+23:36.879	ID:2	result: 3
+23:36.879	ID:2	send packet
+23:36.884	ID:2	HC GRADIENT mode strobe
+23:36.885	ID:2	result: 3
+23:36.886	ID:2	send packet
+23:36.891	ID:2	HC GRADIENT mode strobe
+23:36.892	ID:2	result: 3
+23:36.893	ID:2	send packet
+23:36.898	ID:2	HC GRADIENT mode strobe
+23:36.899	ID:2	result: 3
+23:36.900	ID:2	send packet
+23:36.905	ID:2	HC GRADIENT mode strobe
+23:36.906	ID:2	result: 3
+23:36.907	ID:2	go to sleep
+23:36.911	ID:2	wakeups: 25, dc: 3, Tw: 1077
+23:37.842	ID:9	current_state: 3, collisions: 0
+23:37.843	ID:9	2 9 1
+23:37.846	ID:9	power: 304686
+23:37.850	ID:9	6 304686 86
+23:37.851	ID:9	result: 1
+23:37.852	ID:9	go to sleep
+23:37.856	ID:9	wakeups: 1, dc: 86, Tw: 1204
+23:37.944	ID:8	send packet
+23:37.949	ID:8	HC GRADIENT mode strobe
+23:37.950	ID:8	result: 3
+23:37.950	ID:8	send packet
+23:37.956	ID:8	HC GRADIENT mode strobe
+23:37.956	ID:8	result: 3
+23:37.957	ID:8	send packet
+23:37.962	ID:8	HC GRADIENT mode strobe
+23:37.963	ID:8	result: 3
+23:37.964	ID:8	send packet
+23:37.969	ID:8	HC GRADIENT mode strobe
+23:37.970	ID:8	result: 3
+23:37.971	ID:8	send packet
+23:37.976	ID:8	HC GRADIENT mode strobe
+23:37.977	ID:8	result: 3
+23:37.978	ID:8	send packet
+23:37.983	ID:8	HC GRADIENT mode strobe
+23:37.984	ID:8	result: 3
+23:37.984	ID:8	send packet
+23:37.989	ID:8	HC GRADIENT mode strobe
+23:37.990	ID:8	result: 3
+23:37.991	ID:8	go to sleep
+23:37.996	ID:8	wakeups: 1, dc: 50, Tw: 1451
+23:38.286	ID:6	send packet
+23:38.291	ID:6	HC GRADIENT mode strobe
+23:38.292	ID:6	result: 3
+23:38.292	ID:6	send packet
+23:38.297	ID:6	HC GRADIENT mode strobe
+23:38.298	ID:6	result: 3
+23:38.299	ID:6	send packet
+23:38.304	ID:6	HC GRADIENT mode strobe
+23:38.305	ID:6	result: 3
+23:38.306	ID:6	send packet
+23:38.311	ID:6	HC GRADIENT mode strobe
+23:38.312	ID:6	result: 3
+23:38.313	ID:6	send packet
+23:38.318	ID:6	HC GRADIENT mode strobe
+23:38.319	ID:6	result: 3
+23:38.319	ID:6	send packet
+23:38.325	ID:6	HC GRADIENT mode strobe
+23:38.325	ID:6	result: 3
+23:38.326	ID:6	go to sleep
+23:38.331	ID:6	wakeups: 1, dc: 25, Tw: 1380
+23:41.520	ID:3	send packet
+23:41.525	ID:3	HC GRADIENT mode strobe
+23:41.526	ID:3	result: 3
+23:41.527	ID:3	send packet
+23:41.532	ID:3	HC GRADIENT mode strobe
+23:41.533	ID:3	result: 3
+23:41.534	ID:3	send packet
+23:41.539	ID:3	HC GRADIENT mode strobe
+23:41.540	ID:3	result: 3
+23:41.541	ID:3	send packet
+23:41.546	ID:3	HC GRADIENT mode strobe
+23:41.546	ID:3	result: 3
+23:41.547	ID:3	send packet
+23:41.552	ID:3	HC GRADIENT mode strobe
+23:41.553	ID:3	result: 3
+23:41.554	ID:3	send packet
+23:41.559	ID:3	HC GRADIENT mode strobe
+23:41.560	ID:3	result: 3
+23:41.561	ID:3	send packet
+23:41.566	ID:3	HC GRADIENT mode strobe
+23:41.567	ID:3	result: 3
+23:41.568	ID:3	go to sleep
+23:41.572	ID:3	wakeups: 1, dc: 38, Tw: 1495
+23:45.133	ID:4	send packet
+23:45.138	ID:4	HC GRADIENT mode strobe
+23:45.139	ID:4	result: 3
+23:45.140	ID:4	send packet
+23:45.145	ID:4	HC GRADIENT mode strobe
+23:45.146	ID:4	result: 3
+23:45.147	ID:4	send packet
+23:45.152	ID:4	HC GRADIENT mode strobe
+23:45.153	ID:4	result: 3
+23:45.154	ID:4	send packet
+23:45.159	ID:4	HC GRADIENT mode strobe
+23:45.160	ID:4	result: 3
+23:45.160	ID:4	send packet
+23:45.165	ID:4	HC GRADIENT mode strobe
+23:45.166	ID:4	result: 3
+23:45.167	ID:4	send packet
+23:45.172	ID:4	HC GRADIENT mode strobe
+23:45.173	ID:4	result: 3
+23:45.174	ID:4	go to sleep
+23:45.179	ID:4	wakeups: 25, dc: 3, Tw: 1344
+23:45.326	ID:2	send packet
+23:45.331	ID:2	HC GRADIENT mode strobe
+23:45.332	ID:2	result: 3
+23:45.333	ID:2	send packet
+23:45.338	ID:2	HC GRADIENT mode strobe
+23:45.338	ID:2	result: 3
+23:45.339	ID:2	send packet
+23:45.344	ID:2	HC GRADIENT mode strobe
+23:45.345	ID:2	result: 3
+23:45.346	ID:2	send packet
+23:45.351	ID:2	HC GRADIENT mode strobe
+23:45.352	ID:2	result: 3
+23:45.353	ID:2	send packet
+23:45.358	ID:2	HC GRADIENT mode strobe
+23:45.359	ID:2	result: 3
+23:45.360	ID:2	send packet
+23:45.365	ID:2	HC GRADIENT mode strobe
+23:45.366	ID:2	result: 3
+23:45.366	ID:2	send packet
+23:45.372	ID:2	HC GRADIENT mode strobe
+23:45.372	ID:2	result: 3
+23:45.373	ID:2	go to sleep
+23:45.378	ID:2	wakeups: 25, dc: 3, Tw: 1148
+23:45.484	ID:5	send packet
+23:45.489	ID:5	HC GRADIENT mode strobe
+23:45.490	ID:5	result: 3
+23:45.491	ID:5	send packet
+23:45.496	ID:5	HC GRADIENT mode strobe
+23:45.497	ID:5	result: 3
+23:45.498	ID:5	send packet
+23:45.503	ID:5	HC GRADIENT mode strobe
+23:45.504	ID:5	result: 3
+23:45.505	ID:5	send packet
+23:45.510	ID:5	HC GRADIENT mode strobe
+23:45.511	ID:5	result: 3
+23:45.512	ID:5	send packet
+23:45.517	ID:5	HC GRADIENT mode strobe
+23:45.517	ID:5	result: 3
+23:45.518	ID:5	send packet
+23:45.523	ID:5	HC GRADIENT mode strobe
+23:45.524	ID:5	result: 3
+23:45.525	ID:5	go to sleep
+23:45.530	ID:5	wakeups: 1, dc: 43, Tw: 1266
+23:45.632	ID:7	send packet
+23:45.637	ID:7	HC GRADIENT mode strobe
+23:45.640	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 22
+23:46.644	ID:7	2 7 3
+23:46.647	ID:7	power: 340176
+23:46.650	ID:7	6 340176 49
+23:46.651	ID:7	result: 1
+23:46.652	ID:7	go to sleep
+23:46.657	ID:7	wakeups: 3, dc: 49, Tw: 1376
+23:47.259	ID:9	send packet
+23:47.264	ID:9	HC GRADIENT mode strobe
+23:47.267	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 25
+23:48.272	ID:9	current_state: 3, collisions: 0
+23:48.273	ID:9	2 9 1
+23:48.276	ID:9	power: 365460
+23:48.280	ID:9	6 365460 86
+23:48.281	ID:9	result: 1
+23:48.281	ID:9	go to sleep
+23:48.286	ID:9	wakeups: 1, dc: 86, Tw: 1360
+23:49.106	ID:6	send packet
+23:49.111	ID:6	HC GRADIENT mode strobe
+23:49.112	ID:6	result: 3
+23:49.113	ID:6	send packet
+23:49.118	ID:6	HC GRADIENT mode strobe
+23:49.119	ID:6	result: 3
+23:49.119	ID:6	send packet
+23:49.125	ID:6	HC GRADIENT mode strobe
+23:49.125	ID:6	result: 3
+23:49.126	ID:6	send packet
+23:49.131	ID:6	HC GRADIENT mode strobe
+23:49.132	ID:6	result: 3
+23:49.133	ID:6	send packet
+23:49.138	ID:6	HC GRADIENT mode strobe
+23:49.139	ID:6	result: 3
+23:49.140	ID:6	send packet
+23:49.145	ID:6	HC GRADIENT mode strobe
+23:49.146	ID:6	result: 3
+23:49.147	ID:6	send packet
+23:49.152	ID:6	HC GRADIENT mode strobe
+23:49.153	ID:6	result: 3
+23:49.153	ID:6	go to sleep
+23:49.158	ID:6	wakeups: 1, dc: 25, Tw: 1151
+23:49.326	ID:8	send packet
+23:49.332	ID:8	HC GRADIENT mode strobe
+23:49.332	ID:8	result: 3
+23:49.333	ID:8	send packet
+23:49.338	ID:8	HC GRADIENT mode strobe
+23:49.339	ID:8	result: 3
+23:49.340	ID:8	send packet
+23:49.345	ID:8	HC GRADIENT mode strobe
+23:49.346	ID:8	result: 3
+23:49.347	ID:8	send packet
+23:49.352	ID:8	HC GRADIENT mode strobe
+23:49.353	ID:8	result: 3
+23:49.354	ID:8	send packet
+23:49.359	ID:8	HC GRADIENT mode strobe
+23:49.360	ID:8	result: 3
+23:49.360	ID:8	send packet
+23:49.365	ID:8	HC GRADIENT mode strobe
+23:49.366	ID:8	result: 3
+23:49.367	ID:8	send packet
+23:49.372	ID:8	HC GRADIENT mode strobe
+23:49.373	ID:8	result: 3
+23:49.374	ID:8	go to sleep
+23:49.379	ID:8	wakeups: 1, dc: 50, Tw: 1291
+23:53.247	ID:3	send packet
+23:53.252	ID:3	HC GRADIENT mode strobe
+23:53.253	ID:3	result: 3
+23:53.254	ID:3	send packet
+23:53.259	ID:3	HC GRADIENT mode strobe
+23:53.260	ID:3	result: 3
+23:53.260	ID:3	send packet
+23:53.265	ID:3	HC GRADIENT mode strobe
+23:53.266	ID:3	result: 3
+23:53.267	ID:3	send packet
+23:53.272	ID:3	HC GRADIENT mode strobe
+23:53.273	ID:3	result: 3
+23:53.274	ID:3	send packet
+23:53.279	ID:3	HC GRADIENT mode strobe
+23:53.280	ID:3	result: 3
+23:53.281	ID:3	send packet
+23:53.286	ID:3	HC GRADIENT mode strobe
+23:53.287	ID:3	result: 3
+23:53.288	ID:3	send packet
+23:53.293	ID:3	HC GRADIENT mode strobe
+23:53.293	ID:3	result: 3
+23:53.294	ID:3	go to sleep
+23:53.299	ID:3	wakeups: 1, dc: 38, Tw: 1504
+23:54.341	ID:2	send packet
+23:54.346	ID:2	HC GRADIENT mode strobe
+23:54.347	ID:2	result: 3
+23:54.348	ID:2	send packet
+23:54.353	ID:2	HC GRADIENT mode strobe
+23:54.354	ID:2	result: 3
+23:54.355	ID:2	send packet
+23:54.360	ID:2	HC GRADIENT mode strobe
+23:54.361	ID:2	result: 3
+23:54.362	ID:2	send packet
+23:54.367	ID:2	HC GRADIENT mode strobe
+23:54.368	ID:2	result: 3
+23:54.368	ID:2	send packet
+23:54.374	ID:2	HC GRADIENT mode strobe
+23:54.374	ID:2	result: 3
+23:54.375	ID:2	send packet
+23:54.380	ID:2	HC GRADIENT mode strobe
+23:54.381	ID:2	result: 3
+23:54.382	ID:2	send packet
+23:54.387	ID:2	HC GRADIENT mode strobe
+23:54.388	ID:2	result: 3
+23:54.389	ID:2	go to sleep
+23:54.394	ID:2	wakeups: 25, dc: 3, Tw: 1313
+23:55.414	ID:5	send packet
+23:55.419	ID:5	HC GRADIENT mode strobe
+23:55.420	ID:5	result: 3
+23:55.421	ID:5	send packet
+23:55.426	ID:5	HC GRADIENT mode strobe
+23:55.427	ID:5	result: 3
+23:55.428	ID:5	send packet
+23:55.433	ID:5	HC GRADIENT mode strobe
+23:55.434	ID:5	result: 3
+23:55.434	ID:5	send packet
+23:55.440	ID:5	HC GRADIENT mode strobe
+23:55.440	ID:5	result: 3
+23:55.441	ID:5	send packet
+23:55.446	ID:5	HC GRADIENT mode strobe
+23:55.447	ID:5	result: 3
+23:55.448	ID:5	send packet
+23:55.453	ID:5	HC GRADIENT mode strobe
+23:55.454	ID:5	result: 3
+23:55.455	ID:5	go to sleep
+23:55.459	ID:5	wakeups: 1, dc: 43, Tw: 1372
+23:55.672	ID:4	send packet
+23:55.677	ID:4	HC GRADIENT mode strobe
+23:55.678	ID:4	result: 3
+23:55.679	ID:4	send packet
+23:55.684	ID:4	HC GRADIENT mode strobe
+23:55.685	ID:4	result: 3
+23:55.686	ID:4	send packet
+23:55.691	ID:4	HC GRADIENT mode strobe
+23:55.692	ID:4	result: 3
+23:55.693	ID:4	send packet
+23:55.698	ID:4	HC GRADIENT mode strobe
+23:55.699	ID:4	result: 3
+23:55.699	ID:4	send packet
+23:55.705	ID:4	HC GRADIENT mode strobe
+23:55.705	ID:4	result: 3
+23:55.706	ID:4	send packet
+23:55.711	ID:4	HC GRADIENT mode strobe
+23:55.712	ID:4	result: 3
+23:55.713	ID:4	send packet
+23:55.718	ID:4	HC GRADIENT mode strobe
+23:55.719	ID:4	result: 3
+23:55.720	ID:4	send packet
+23:55.725	ID:4	HC GRADIENT mode strobe
+23:55.726	ID:4	result: 3
+23:55.727	ID:4	go to sleep
+23:55.731	ID:4	wakeups: 25, dc: 3, Tw: 1291
+23:57.405	ID:7	send packet
+23:57.411	ID:7	HC GRADIENT mode strobe
+23:57.413	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 22
+23:58.145	ID:6	send packet
+23:58.150	ID:6	HC GRADIENT mode strobe
+23:58.151	ID:6	result: 3
+23:58.152	ID:6	send packet
+23:58.157	ID:6	HC GRADIENT mode strobe
+23:58.158	ID:6	result: 3
+23:58.159	ID:6	send packet
+23:58.164	ID:6	HC GRADIENT mode strobe
+23:58.164	ID:6	result: 3
+23:58.165	ID:6	send packet
+23:58.170	ID:6	HC GRADIENT mode strobe
+23:58.171	ID:6	result: 3
+23:58.172	ID:6	send packet
+23:58.177	ID:6	HC GRADIENT mode strobe
+23:58.178	ID:6	result: 3
+23:58.179	ID:6	send packet
+23:58.184	ID:6	HC GRADIENT mode strobe
+23:58.185	ID:6	result: 3
+23:58.186	ID:6	send packet
+23:58.191	ID:6	HC GRADIENT mode strobe
+23:58.192	ID:6	result: 3
+23:58.193	ID:6	go to sleep
+23:58.197	ID:6	wakeups: 1, dc: 25, Tw: 1167
+23:58.417	ID:7	2 7 3
+23:58.420	ID:7	power: 400806
+23:58.424	ID:7	6 400806 50
+23:58.425	ID:7	result: 1
+23:58.425	ID:7	go to sleep
+23:58.430	ID:7	wakeups: 3, dc: 50, Tw: 1236
+23:58.907	ID:9	send packet
+23:58.913	ID:9	HC GRADIENT mode strobe
+23:58.916	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 25
+23:59.459	ID:8	send packet
+23:59.462	ID:8	HC_GRADIENT mode rx
+23:59.465	ID:9	current_state: 5, collisions: 0
+23:59.467	ID:9	5 9 8
+23:59.467	ID:8	result: 5
+23:59.467	ID:8	send packet
+23:59.468	ID:9	2 8 1
+23:59.471	ID:9	power: 399018
+23:59.473	ID:8	HC GRADIENT mode strobe
+23:59.474	ID:9	6 399018 86
+23:59.475	ID:8	Beacon send DATA: 9, TTL: 1, SEQ: 25
+23:59.476	ID:9	result: 1
+23:59.476	ID:9	go to sleep
+23:59.481	ID:9	wakeups: 1, dc: 86, Tw: 883
+24:00.479	ID:8	2 8 1
+24:00.482	ID:8	power: 127848
+24:00.485	ID:8	6 127848 46
+24:00.486	ID:8	result: 1
+24:00.487	ID:8	go to sleep
+24:00.492	ID:8	wakeups: 1, dc: 46, Tw: 1359
+24:04.646	ID:2	send packet
+24:04.651	ID:2	HC GRADIENT mode strobe
+24:04.652	ID:2	result: 3
+24:04.653	ID:2	send packet
+24:04.658	ID:2	HC GRADIENT mode strobe
+24:04.659	ID:2	result: 3
+24:04.660	ID:2	send packet
+24:04.665	ID:2	HC GRADIENT mode strobe
+24:04.666	ID:2	result: 3
+24:04.666	ID:2	send packet
+24:04.671	ID:2	HC GRADIENT mode strobe
+24:04.672	ID:2	result: 3
+24:04.673	ID:2	send packet
+24:04.678	ID:2	HC GRADIENT mode strobe
+24:04.679	ID:2	result: 3
+24:04.680	ID:2	go to sleep
+24:04.685	ID:2	wakeups: 25, dc: 3, Tw: 1145
+24:05.044	ID:3	send packet
+24:05.049	ID:3	HC GRADIENT mode strobe
+24:05.050	ID:3	result: 3
+24:05.050	ID:3	send packet
+24:05.056	ID:3	HC GRADIENT mode strobe
+24:05.056	ID:3	result: 3
+24:05.057	ID:3	send packet
+24:05.062	ID:3	HC GRADIENT mode strobe
+24:05.063	ID:3	result: 3
+24:05.064	ID:3	send packet
+24:05.069	ID:3	HC GRADIENT mode strobe
+24:05.070	ID:3	result: 3
+24:05.071	ID:3	send packet
+24:05.076	ID:3	HC GRADIENT mode strobe
+24:05.077	ID:3	result: 3
+24:05.078	ID:3	go to sleep
+24:05.082	ID:3	wakeups: 1, dc: 38, Tw: 1107
+24:05.813	ID:4	send packet
+24:05.818	ID:4	HC GRADIENT mode strobe
+24:05.819	ID:4	result: 3
+24:05.820	ID:4	send packet
+24:05.825	ID:4	HC GRADIENT mode strobe
+24:05.826	ID:4	result: 3
+24:05.827	ID:4	send packet
+24:05.832	ID:4	HC GRADIENT mode strobe
+24:05.832	ID:4	result: 3
+24:05.833	ID:4	send packet
+24:05.838	ID:4	HC GRADIENT mode strobe
+24:05.839	ID:4	result: 3
+24:05.840	ID:4	send packet
+24:05.845	ID:4	HC GRADIENT mode strobe
+24:05.846	ID:4	result: 3
+24:05.847	ID:4	go to sleep
+24:05.851	ID:4	wakeups: 25, dc: 3, Tw: 955
+24:06.172	ID:5	send packet
+24:06.177	ID:5	HC GRADIENT mode strobe
+24:06.178	ID:5	result: 3
+24:06.179	ID:5	send packet
+24:06.184	ID:5	HC GRADIENT mode strobe
+24:06.185	ID:5	result: 3
+24:06.185	ID:5	send packet
+24:06.191	ID:5	HC GRADIENT mode strobe
+24:06.191	ID:5	result: 3
+24:06.192	ID:5	send packet
+24:06.197	ID:5	HC GRADIENT mode strobe
+24:06.198	ID:5	result: 3
+24:06.199	ID:5	send packet
+24:06.204	ID:5	HC GRADIENT mode strobe
+24:06.205	ID:5	result: 3
+24:06.206	ID:5	send packet
+24:06.211	ID:5	HC GRADIENT mode strobe
+24:06.212	ID:5	result: 3
+24:06.213	ID:5	send packet
+24:06.218	ID:5	HC GRADIENT mode strobe
+24:06.219	ID:5	result: 3
+24:06.219	ID:5	go to sleep
+24:06.224	ID:5	wakeups: 1, dc: 43, Tw: 1286
+24:06.376	ID:9	send packet
+24:06.381	ID:9	HC GRADIENT mode strobe
+24:06.384	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 26
+24:07.309	ID:6	send packet
+24:07.311	ID:6	HC_GRADIENT mode rx
+24:07.314	ID:9	current_state: 5, collisions: 0
+24:07.316	ID:6	result: 5
+24:07.316	ID:9	5 9 6
+24:07.317	ID:6	send packet
+24:07.317	ID:9	2 6 1
+24:07.320	ID:9	power: 455412
+24:07.322	ID:6	HC GRADIENT mode strobe
+24:07.324	ID:9	6 455412 86
+24:07.325	ID:6	Beacon send DATA: 9, TTL: 1, SEQ: 26
+24:07.325	ID:9	result: 1
+24:07.326	ID:9	go to sleep
+24:07.330	ID:9	wakeups: 1, dc: 86, Tw: 1230
+24:08.085	ID:7	send packet
+24:08.090	ID:7	HC GRADIENT mode strobe
+24:08.093	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 22
+24:08.328	ID:6	2 6 1
+24:08.331	ID:6	power: 151476
+24:08.335	ID:6	6 151476 19
+24:08.336	ID:6	result: 1
+24:08.336	ID:6	go to sleep
+24:08.341	ID:6	wakeups: 1, dc: 19, Tw: 1391
+24:09.097	ID:7	2 7 3
+24:09.100	ID:7	power: 461430
+24:09.103	ID:7	6 461430 50
+24:09.104	ID:7	result: 1
+24:09.105	ID:7	go to sleep
+24:09.110	ID:7	wakeups: 3, dc: 50, Tw: 1399
+24:11.108	ID:8	send packet
+24:11.113	ID:8	HC GRADIENT mode strobe
+24:11.116	ID:8	Beacon send DATA: 9, TTL: 1, SEQ: 25
+24:12.120	ID:8	2 8 1
+24:12.122	ID:8	power: 188478
+24:12.126	ID:8	6 188478 47
+24:12.127	ID:8	result: 1
+24:12.128	ID:8	go to sleep
+24:12.132	ID:8	wakeups: 1, dc: 47, Tw: 1031
+24:13.313	ID:4	send packet
+24:13.318	ID:4	HC GRADIENT mode strobe
+24:13.319	ID:4	result: 3
+24:13.320	ID:4	send packet
+24:13.325	ID:4	HC GRADIENT mode strobe
+24:13.326	ID:4	result: 3
+24:13.327	ID:4	send packet
+24:13.332	ID:4	HC GRADIENT mode strobe
+24:13.332	ID:4	result: 3
+24:13.333	ID:4	send packet
+24:13.338	ID:4	HC GRADIENT mode strobe
+24:13.339	ID:4	result: 3
+24:13.340	ID:4	send packet
+24:13.345	ID:4	HC GRADIENT mode strobe
+24:13.346	ID:4	result: 3
+24:13.347	ID:4	send packet
+24:13.352	ID:4	HC GRADIENT mode strobe
+24:13.353	ID:4	result: 3
+24:13.354	ID:4	send packet
+24:13.359	ID:4	HC GRADIENT mode strobe
+24:13.360	ID:4	result: 3
+24:13.361	ID:4	send packet
+24:13.366	ID:4	HC GRADIENT mode strobe
+24:13.367	ID:4	result: 3
+24:13.367	ID:4	go to sleep
+24:13.372	ID:4	wakeups: 25, dc: 3, Tw: 1056
+24:13.630	ID:2	send packet
+24:13.636	ID:2	HC GRADIENT mode strobe
+24:13.636	ID:2	result: 3
+24:13.637	ID:2	send packet
+24:13.642	ID:2	HC GRADIENT mode strobe
+24:13.643	ID:2	result: 3
+24:13.644	ID:2	send packet
+24:13.649	ID:2	HC GRADIENT mode strobe
+24:13.650	ID:2	result: 3
+24:13.651	ID:2	send packet
+24:13.656	ID:2	HC GRADIENT mode strobe
+24:13.657	ID:2	result: 3
+24:13.658	ID:2	send packet
+24:13.663	ID:2	HC GRADIENT mode strobe
+24:13.663	ID:2	result: 3
+24:13.664	ID:2	send packet
+24:13.669	ID:2	HC GRADIENT mode strobe
+24:13.670	ID:2	result: 3
+24:13.671	ID:2	go to sleep
+24:13.676	ID:2	wakeups: 25, dc: 3, Tw: 1004
+24:13.731	ID:3	send packet
+24:13.736	ID:3	HC GRADIENT mode strobe
+24:13.737	ID:3	result: 3
+24:13.738	ID:3	send packet
+24:13.743	ID:3	HC GRADIENT mode strobe
+24:13.744	ID:3	result: 3
+24:13.745	ID:3	send packet
+24:13.750	ID:3	HC GRADIENT mode strobe
+24:13.751	ID:3	result: 3
+24:13.752	ID:3	send packet
+24:13.757	ID:3	HC GRADIENT mode strobe
+24:13.757	ID:3	result: 3
+24:13.758	ID:3	send packet
+24:13.763	ID:3	HC GRADIENT mode strobe
+24:13.764	ID:3	result: 3
+24:13.765	ID:3	send packet
+24:13.770	ID:3	HC GRADIENT mode strobe
+24:13.771	ID:3	result: 3
+24:13.772	ID:3	go to sleep
+24:13.777	ID:3	wakeups: 1, dc: 38, Tw: 1409
+24:16.266	ID:5	send packet
+24:16.271	ID:5	HC GRADIENT mode strobe
+24:16.272	ID:5	result: 3
+24:16.272	ID:5	send packet
+24:16.278	ID:5	HC GRADIENT mode strobe
+24:16.278	ID:5	result: 3
+24:16.279	ID:5	send packet
+24:16.284	ID:5	HC GRADIENT mode strobe
+24:16.285	ID:5	result: 3
+24:16.286	ID:5	send packet
+24:16.291	ID:5	HC GRADIENT mode strobe
+24:16.292	ID:5	result: 3
+24:16.293	ID:5	send packet
+24:16.298	ID:5	HC GRADIENT mode strobe
+24:16.299	ID:5	result: 3
+24:16.300	ID:5	go to sleep
+24:16.304	ID:5	wakeups: 1, dc: 43, Tw: 1244
+24:16.939	ID:9	send packet
+24:16.944	ID:9	HC GRADIENT mode strobe
+24:16.947	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 27
+24:17.951	ID:9	current_state: 3, collisions: 0
+24:17.953	ID:9	2 9 1
+24:17.956	ID:9	power: 516186
+24:17.959	ID:9	6 516186 86
+24:17.960	ID:9	result: 1
+24:17.961	ID:9	go to sleep
+24:17.966	ID:9	wakeups: 1, dc: 86, Tw: 1071
+24:19.207	ID:6	send packet
+24:19.213	ID:6	HC GRADIENT mode strobe
+24:19.216	ID:6	Beacon send DATA: 9, TTL: 1, SEQ: 26
+24:20.038	ID:7	send packet
+24:20.043	ID:7	HC GRADIENT mode strobe
+24:20.046	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 22
+24:20.186	ID:8	send packet
+24:20.190	ID:8	HC_GRADIENT mode rx
+24:20.193	ID:8	drop because 2 is smaller then 3
+24:20.195	ID:8	packet from 7 is dropped
+24:20.196	ID:8	result: 9
+24:20.196	ID:8	send packet
+24:20.198	ID:8	HC_GRADIENT mode rx
+24:20.201	ID:8	drop because 2 is smaller then 3
+24:20.203	ID:8	packet from 7 is dropped
+24:20.204	ID:8	result: 9
+24:20.205	ID:8	send packet
+24:20.207	ID:8	HC_GRADIENT mode rx
+24:20.209	ID:8	drop because 2 is smaller then 3
+24:20.211	ID:8	packet from 7 is dropped
+24:20.212	ID:8	result: 9
+24:20.213	ID:8	send packet
+24:20.215	ID:8	HC_GRADIENT mode rx
+24:20.218	ID:8	drop because 2 is smaller then 3
+24:20.219	ID:6	2 6 1
+24:20.219	ID:8	packet from 7 is dropped
+24:20.221	ID:8	result: 9
+24:20.221	ID:8	go to sleep
+24:20.222	ID:6	power: 212094
+24:20.225	ID:6	6 212094 20
+24:20.226	ID:8	wakeups: 1, dc: 47, Tw: 1118
+24:20.226	ID:6	result: 1
+24:20.227	ID:6	go to sleep
+24:20.232	ID:6	wakeups: 1, dc: 20, Tw: 1552
+24:21.050	ID:7	2 7 3
+24:21.053	ID:7	power: 522054
+24:21.056	ID:7	6 522054 50
+24:21.057	ID:7	result: 1
+24:21.058	ID:7	go to sleep
+24:21.063	ID:7	wakeups: 3, dc: 50, Tw: 1235
+24:21.513	ID:2	send packet
+24:21.518	ID:2	HC GRADIENT mode strobe
+24:21.519	ID:2	result: 3
+24:21.520	ID:2	send packet
+24:21.525	ID:2	HC GRADIENT mode strobe
+24:21.526	ID:2	result: 3
+24:21.527	ID:2	send packet
+24:21.532	ID:2	HC GRADIENT mode strobe
+24:21.533	ID:2	result: 3
+24:21.534	ID:2	send packet
+24:21.539	ID:2	HC GRADIENT mode strobe
+24:21.540	ID:2	result: 3
+24:21.540	ID:2	send packet
+24:21.545	ID:2	HC GRADIENT mode strobe
+24:21.546	ID:2	result: 3
+24:21.547	ID:2	send packet
+24:21.552	ID:2	HC GRADIENT mode strobe
+24:21.553	ID:2	result: 3
+24:21.554	ID:2	go to sleep
+24:21.559	ID:2	wakeups: 25, dc: 3, Tw: 1583
+24:21.618	ID:4	send packet
+24:21.623	ID:4	HC GRADIENT mode strobe
+24:21.624	ID:4	result: 3
+24:21.625	ID:4	send packet
+24:21.630	ID:4	HC GRADIENT mode strobe
+24:21.630	ID:4	result: 3
+24:21.631	ID:4	send packet
+24:21.636	ID:4	HC GRADIENT mode strobe
+24:21.637	ID:4	result: 3
+24:21.638	ID:4	send packet
+24:21.643	ID:4	HC GRADIENT mode strobe
+24:21.644	ID:4	result: 3
+24:21.645	ID:4	send packet
+24:21.650	ID:4	HC GRADIENT mode strobe
+24:21.651	ID:4	result: 3
+24:21.652	ID:4	send packet
+24:21.657	ID:4	HC GRADIENT mode strobe
+24:21.658	ID:4	result: 3
+24:21.658	ID:4	send packet
+24:21.664	ID:4	HC GRADIENT mode strobe
+24:21.664	ID:4	result: 3
+24:21.665	ID:4	go to sleep
+24:21.670	ID:4	wakeups: 25, dc: 3, Tw: 1578
+24:24.778	ID:3	send packet
+24:24.783	ID:3	HC GRADIENT mode strobe
+24:24.784	ID:3	result: 3
+24:24.785	ID:3	send packet
+24:24.790	ID:3	HC GRADIENT mode strobe
+24:24.791	ID:3	result: 3
+24:24.792	ID:3	send packet
+24:24.797	ID:3	HC GRADIENT mode strobe
+24:24.798	ID:3	result: 3
+24:24.798	ID:3	send packet
+24:24.803	ID:3	HC GRADIENT mode strobe
+24:24.804	ID:3	result: 3
+24:24.805	ID:3	send packet
+24:24.810	ID:3	HC GRADIENT mode strobe
+24:24.811	ID:3	result: 3
+24:24.812	ID:3	send packet
+24:24.817	ID:3	HC GRADIENT mode strobe
+24:24.818	ID:3	result: 3
+24:24.819	ID:3	go to sleep
+24:24.823	ID:3	wakeups: 1, dc: 38, Tw: 1025
+24:26.023	ID:5	send packet
+24:26.029	ID:5	HC GRADIENT mode strobe
+24:26.029	ID:5	result: 3
+24:26.030	ID:5	send packet
+24:26.035	ID:5	HC GRADIENT mode strobe
+24:26.036	ID:5	result: 3
+24:26.037	ID:5	send packet
+24:26.042	ID:5	HC GRADIENT mode strobe
+24:26.043	ID:5	result: 3
+24:26.044	ID:5	send packet
+24:26.049	ID:5	HC GRADIENT mode strobe
+24:26.050	ID:5	result: 3
+24:26.051	ID:5	send packet
+24:26.056	ID:5	HC GRADIENT mode strobe
+24:26.057	ID:5	result: 3
+24:26.057	ID:5	go to sleep
+24:26.062	ID:5	wakeups: 1, dc: 43, Tw: 1455
+24:26.329	ID:9	send packet
+24:26.334	ID:9	HC GRADIENT mode strobe
+24:26.337	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 27
+24:27.342	ID:9	current_state: 3, collisions: 0
+24:27.344	ID:9	2 9 1
+24:27.346	ID:9	power: 576960
+24:27.350	ID:9	6 576960 87
+24:27.351	ID:9	result: 1
+24:27.352	ID:9	go to sleep
+24:27.356	ID:9	wakeups: 1, dc: 87, Tw: 1191
+24:28.959	ID:8	send packet
+24:28.964	ID:8	HC GRADIENT mode strobe
+24:28.967	ID:8	Beacon send DATA: 9, TTL: 1, SEQ: 25
+24:29.971	ID:8	2 8 1
+24:29.974	ID:8	power: 250824
+24:29.977	ID:8	6 250824 47
+24:29.978	ID:8	result: 1
+24:29.979	ID:8	go to sleep
+24:29.984	ID:8	wakeups: 1, dc: 47, Tw: 1173
+24:30.710	ID:7	send packet
+24:30.715	ID:7	HC GRADIENT mode strobe
+24:30.718	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 22
+24:31.722	ID:7	2 7 3
+24:31.725	ID:7	power: 582678
+24:31.728	ID:7	6 582678 51
+24:31.729	ID:7	result: 1
+24:31.730	ID:7	go to sleep
+24:31.735	ID:7	wakeups: 3, dc: 51, Tw: 1421
+24:32.356	ID:6	send packet
+24:32.361	ID:6	HC GRADIENT mode strobe
+24:32.364	ID:6	Beacon send DATA: 9, TTL: 1, SEQ: 26
+24:32.825	ID:3	send packet
+24:32.827	ID:3	HC_GRADIENT mode rx
+24:32.829	ID:6	5 6 3
+24:32.831	ID:3	result: 2
+24:32.831	ID:6	2 3 1
+24:32.832	ID:3	send packet
+24:32.834	ID:6	power: 240510
+24:32.837	ID:3	HC GRADIENT mode strobe
+24:32.837	ID:6	6 240510 20
+24:32.838	ID:6	result: 1
+24:32.839	ID:6	go to sleep
+24:32.840	ID:3	Beacon send DATA: 9, TTL: 2, SEQ: 26
+24:32.844	ID:6	wakeups: 1, dc: 20, Tw: 1538
+24:33.843	ID:3	2 3 1
+24:33.846	ID:3	power: 498858
+24:33.850	ID:3	6 498858 32
+24:33.851	ID:3	result: 1
+24:33.851	ID:3	go to sleep
+24:33.856	ID:3	wakeups: 1, dc: 32, Tw: 1327
+24:33.919	ID:2	send packet
+24:33.925	ID:2	HC GRADIENT mode strobe
+24:33.925	ID:2	result: 3
+24:33.926	ID:2	send packet
+24:33.931	ID:2	HC GRADIENT mode strobe
+24:33.932	ID:2	result: 3
+24:33.933	ID:2	send packet
+24:33.938	ID:2	HC GRADIENT mode strobe
+24:33.939	ID:2	result: 3
+24:33.940	ID:2	send packet
+24:33.945	ID:2	HC GRADIENT mode strobe
+24:33.946	ID:2	result: 3
+24:33.947	ID:2	send packet
+24:33.952	ID:2	HC GRADIENT mode strobe
+24:33.953	ID:2	result: 3
+24:33.953	ID:2	send packet
+24:33.958	ID:2	HC GRADIENT mode strobe
+24:33.959	ID:2	result: 3
+24:33.960	ID:2	send packet
+24:33.965	ID:2	HC GRADIENT mode strobe
+24:33.966	ID:2	result: 3
+24:33.967	ID:2	go to sleep
+24:33.972	ID:2	wakeups: 25, dc: 3, Tw: 1408
+24:33.993	ID:4	send packet
+24:33.998	ID:4	HC GRADIENT mode strobe
+24:33.999	ID:4	result: 3
+24:33.999	ID:4	send packet
+24:34.005	ID:4	HC GRADIENT mode strobe
+24:34.005	ID:4	result: 3
+24:34.006	ID:4	send packet
+24:34.011	ID:4	HC GRADIENT mode strobe
+24:34.012	ID:4	result: 3
+24:34.013	ID:4	send packet
+24:34.018	ID:4	HC GRADIENT mode strobe
+24:34.019	ID:4	result: 3
+24:34.020	ID:4	send packet
+24:34.025	ID:4	HC GRADIENT mode strobe
+24:34.026	ID:4	result: 3
+24:34.027	ID:4	send packet
+24:34.032	ID:4	HC GRADIENT mode strobe
+24:34.033	ID:4	result: 3
+24:34.033	ID:4	go to sleep
+24:34.038	ID:4	wakeups: 25, dc: 3, Tw: 1480
+24:36.657	ID:9	send packet
+24:36.663	ID:9	HC GRADIENT mode strobe
+24:36.666	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 27
+24:37.430	ID:5	send packet
+24:37.435	ID:5	HC GRADIENT mode strobe
+24:37.436	ID:5	result: 3
+24:37.437	ID:5	send packet
+24:37.442	ID:5	HC GRADIENT mode strobe
+24:37.442	ID:5	result: 3
+24:37.443	ID:5	send packet
+24:37.448	ID:5	HC GRADIENT mode strobe
+24:37.449	ID:5	result: 3
+24:37.450	ID:5	send packet
+24:37.455	ID:5	HC GRADIENT mode strobe
+24:37.456	ID:5	result: 3
+24:37.457	ID:5	send packet
+24:37.462	ID:5	HC GRADIENT mode strobe
+24:37.463	ID:5	result: 3
+24:37.464	ID:5	send packet
+24:37.469	ID:5	HC GRADIENT mode strobe
+24:37.470	ID:5	result: 3
+24:37.470	ID:5	send packet
+24:37.476	ID:5	HC GRADIENT mode strobe
+24:37.476	ID:5	result: 3
+24:37.477	ID:5	go to sleep
+24:37.482	ID:5	wakeups: 1, dc: 43, Tw: 978
+24:37.670	ID:9	current_state: 3, collisions: 0
+24:37.672	ID:9	2 9 1
+24:37.675	ID:9	power: 637740
+24:37.678	ID:9	6 637740 87
+24:37.679	ID:9	result: 1
+24:37.680	ID:9	go to sleep
+24:37.685	ID:9	wakeups: 1, dc: 87, Tw: 1014
+24:39.147	ID:8	send packet
+24:39.152	ID:8	HC GRADIENT mode strobe
+24:39.155	ID:8	Beacon send DATA: 9, TTL: 1, SEQ: 25
+24:40.159	ID:8	2 8 1
+24:40.162	ID:8	power: 311460
+24:40.165	ID:8	6 311460 47
+24:40.166	ID:8	result: 1
+24:40.167	ID:8	go to sleep
+24:40.171	ID:8	wakeups: 1, dc: 47, Tw: 960
+24:42.835	ID:7	send packet
+24:42.840	ID:7	HC GRADIENT mode strobe
+24:42.843	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 22
+24:43.847	ID:7	2 7 3
+24:43.850	ID:7	power: 643302
+24:43.853	ID:7	6 643302 51
+24:43.854	ID:7	result: 1
+24:43.855	ID:7	go to sleep
+24:43.860	ID:7	wakeups: 3, dc: 51, Tw: 1305
+24:44.223	ID:3	send packet
+24:44.228	ID:3	HC GRADIENT mode strobe
+24:44.231	ID:3	Beacon send DATA: 9, TTL: 2, SEQ: 26
+24:44.856	ID:6	send packet
+24:44.858	ID:6	HC_GRADIENT mode rx
+24:44.861	ID:6	drop because 2 is smaller then 3
+24:44.863	ID:6	packet from 3 is dropped
+24:44.864	ID:6	result: 9
+24:44.865	ID:6	send packet
+24:44.867	ID:6	HC_GRADIENT mode rx
+24:44.869	ID:6	drop because 2 is smaller then 3
+24:44.871	ID:6	packet from 3 is dropped
+24:44.872	ID:6	result: 9
+24:44.873	ID:6	send packet
+24:44.875	ID:6	HC_GRADIENT mode rx
+24:44.877	ID:6	drop because 2 is smaller then 3
+24:44.879	ID:6	packet from 3 is dropped
+24:44.881	ID:6	result: 9
+24:44.881	ID:6	send packet
+24:44.883	ID:6	HC_GRADIENT mode rx
+24:44.886	ID:6	drop because 2 is smaller then 3
+24:44.888	ID:6	packet from 3 is dropped
+24:44.889	ID:6	result: 9
+24:44.890	ID:6	go to sleep
+24:44.894	ID:6	wakeups: 1, dc: 20, Tw: 1367
+24:44.966	ID:2	send packet
+24:44.969	ID:2	HC_GRADIENT mode rx
+24:44.972	ID:3	5 3 2
+24:44.973	ID:2	result: 2
+24:44.973	ID:3	2 2 1
+24:44.974	ID:2	send packet
+24:44.976	ID:3	power: 543768
+24:44.979	ID:2	HC GRADIENT mode strobe
+24:44.979	ID:3	6 543768 32
+24:44.981	ID:3	result: 1
+24:44.981	ID:3	go to sleep
+24:44.982	ID:2	Beacon send DATA: 9, TTL: 3, SEQ: 26
+24:44.985	ID:2	5 2 1
+24:44.986	ID:3	wakeups: 1, dc: 32, Tw: 1243
+24:44.986	ID:1	9 26 4 23
+24:44.987	ID:2	2 1 65
+24:44.990	ID:2	power: 270582
+24:44.993	ID:2	6 270582 3
+24:44.994	ID:2	result: 1
+24:44.995	ID:2	send packet
+24:45.000	ID:2	HC GRADIENT mode strobe
+24:45.001	ID:2	result: 3
+24:45.002	ID:2	send packet
+24:45.007	ID:2	HC GRADIENT mode strobe
+24:45.008	ID:2	result: 3
+24:45.009	ID:2	go to sleep
+24:45.013	ID:2	wakeups: 25, dc: 3, Tw: 1402
+24:45.117	ID:5	send packet
+24:45.122	ID:5	HC GRADIENT mode strobe
+24:45.123	ID:5	result: 3
+24:45.124	ID:5	send packet
+24:45.129	ID:5	HC GRADIENT mode strobe
+24:45.130	ID:5	result: 3
+24:45.131	ID:5	send packet
+24:45.136	ID:5	HC GRADIENT mode strobe
+24:45.137	ID:5	result: 3
+24:45.138	ID:5	send packet
+24:45.143	ID:5	HC GRADIENT mode strobe
+24:45.144	ID:5	result: 3
+24:45.144	ID:5	send packet
+24:45.149	ID:5	HC GRADIENT mode strobe
+24:45.150	ID:5	result: 3
+24:45.151	ID:5	send packet
+24:45.156	ID:5	HC GRADIENT mode strobe
+24:45.157	ID:5	result: 3
+24:45.158	ID:5	send packet
+24:45.163	ID:5	HC GRADIENT mode strobe
+24:45.164	ID:5	result: 3
+24:45.165	ID:5	go to sleep
+24:45.169	ID:5	wakeups: 1, dc: 43, Tw: 1293
+24:45.594	ID:4	send packet
+24:45.599	ID:4	HC GRADIENT mode strobe
+24:45.600	ID:4	result: 3
+24:45.601	ID:4	send packet
+24:45.603	ID:9	send packet
+24:45.606	ID:4	HC GRADIENT mode strobe
+24:45.607	ID:4	result: 3
+24:45.608	ID:4	send packet
+24:45.608	ID:9	HC GRADIENT mode strobe
+24:45.611	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 27
+24:45.613	ID:4	HC GRADIENT mode strobe
+24:45.614	ID:4	result: 3
+24:45.615	ID:4	send packet
+24:45.620	ID:4	HC GRADIENT mode strobe
+24:45.621	ID:4	result: 3
+24:45.621	ID:4	send packet
+24:45.626	ID:4	HC GRADIENT mode strobe
+24:45.627	ID:4	result: 3
+24:45.628	ID:4	send packet
+24:45.633	ID:4	HC GRADIENT mode strobe
+24:45.634	ID:4	result: 3
+24:45.635	ID:4	go to sleep
+24:45.640	ID:4	wakeups: 25, dc: 3, Tw: 1217
+24:46.616	ID:9	current_state: 3, collisions: 0
+24:46.617	ID:9	2 9 1
+24:46.620	ID:9	power: 698520
+24:46.623	ID:9	6 698520 87
+24:46.624	ID:9	result: 1
+24:46.625	ID:9	go to sleep
+24:46.630	ID:9	wakeups: 1, dc: 87, Tw: 1064
+24:47.670	ID:8	send packet
+24:47.675	ID:8	HC GRADIENT mode strobe
+24:47.678	ID:8	Beacon send DATA: 9, TTL: 1, SEQ: 25
+24:48.682	ID:8	2 8 1
+24:48.685	ID:8	power: 372078
+24:48.688	ID:8	6 372078 48
+24:48.689	ID:8	result: 1
+24:48.690	ID:8	go to sleep
+24:48.695	ID:8	wakeups: 1, dc: 48, Tw: 1022
+24:54.054	ID:7	send packet
+24:54.059	ID:7	HC GRADIENT mode strobe
+24:54.062	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 22
+24:54.692	ID:3	send packet
+24:54.697	ID:3	HC GRADIENT mode strobe
+24:54.698	ID:3	result: 3
+24:54.699	ID:3	send packet
+24:54.704	ID:3	HC GRADIENT mode strobe
+24:54.705	ID:3	result: 3
+24:54.706	ID:3	send packet
+24:54.711	ID:3	HC GRADIENT mode strobe
+24:54.712	ID:3	result: 3
+24:54.712	ID:3	send packet
+24:54.718	ID:3	HC GRADIENT mode strobe
+24:54.718	ID:3	result: 3
+24:54.719	ID:3	send packet
+24:54.724	ID:3	HC GRADIENT mode strobe
+24:54.725	ID:3	result: 3
+24:54.726	ID:3	send packet
+24:54.731	ID:3	HC GRADIENT mode strobe
+24:54.732	ID:3	result: 3
+24:54.733	ID:3	send packet
+24:54.738	ID:3	HC GRADIENT mode strobe
+24:54.739	ID:3	result: 3
+24:54.740	ID:3	go to sleep
+24:54.744	ID:3	wakeups: 1, dc: 32, Tw: 1212
+24:54.939	ID:9	send packet
+24:54.944	ID:9	HC GRADIENT mode strobe
+24:54.947	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 27
+24:55.066	ID:7	2 7 3
+24:55.069	ID:7	power: 703932
+24:55.072	ID:7	6 703932 51
+24:55.073	ID:7	result: 1
+24:55.074	ID:7	go to sleep
+24:55.079	ID:7	wakeups: 3, dc: 51, Tw: 1119
+24:55.141	ID:4	send packet
+24:55.146	ID:4	HC GRADIENT mode strobe
+24:55.147	ID:4	result: 3
+24:55.148	ID:4	send packet
+24:55.153	ID:4	HC GRADIENT mode strobe
+24:55.154	ID:4	result: 3
+24:55.155	ID:4	send packet
+24:55.160	ID:4	HC GRADIENT mode strobe
+24:55.161	ID:4	result: 3
+24:55.161	ID:4	send packet
+24:55.167	ID:4	HC GRADIENT mode strobe
+24:55.167	ID:4	result: 3
+24:55.168	ID:4	send packet
+24:55.173	ID:4	HC GRADIENT mode strobe
+24:55.174	ID:4	result: 3
+24:55.175	ID:4	send packet
+24:55.180	ID:4	HC GRADIENT mode strobe
+24:55.181	ID:4	result: 3
+24:55.182	ID:4	send packet
+24:55.187	ID:4	HC GRADIENT mode strobe
+24:55.188	ID:4	result: 3
+24:55.189	ID:4	go to sleep
+24:55.193	ID:4	wakeups: 25, dc: 3, Tw: 1104
+24:55.266	ID:5	send packet
+24:55.271	ID:5	HC GRADIENT mode strobe
+24:55.272	ID:5	result: 3
+24:55.272	ID:5	send packet
+24:55.278	ID:5	HC GRADIENT mode strobe
+24:55.278	ID:5	result: 3
+24:55.279	ID:5	send packet
+24:55.284	ID:5	HC GRADIENT mode strobe
+24:55.285	ID:5	result: 3
+24:55.286	ID:5	send packet
+24:55.291	ID:5	HC GRADIENT mode strobe
+24:55.292	ID:5	result: 3
+24:55.293	ID:5	send packet
+24:55.298	ID:5	HC GRADIENT mode strobe
+24:55.299	ID:5	result: 3
+24:55.300	ID:5	go to sleep
+24:55.304	ID:5	wakeups: 1, dc: 43, Tw: 1173
+24:55.575	ID:6	send packet
+24:55.579	ID:6	HC_GRADIENT mode rx
+24:55.582	ID:9	current_state: 5, collisions: 0
+24:55.584	ID:6	result: 5
+24:55.584	ID:9	5 9 6
+24:55.585	ID:6	send packet
+24:55.585	ID:9	2 6 1
+24:55.588	ID:9	power: 737238
+24:55.590	ID:6	HC GRADIENT mode strobe
+24:55.592	ID:9	6 737238 87
+24:55.593	ID:6	Beacon send DATA: 9, TTL: 1, SEQ: 27
+24:55.593	ID:9	result: 1
+24:55.594	ID:9	go to sleep
+24:55.598	ID:9	wakeups: 1, dc: 87, Tw: 1327
+24:55.966	ID:2	send packet
+24:55.971	ID:2	HC GRADIENT mode strobe
+24:55.972	ID:2	result: 3
+24:55.973	ID:2	send packet
+24:55.978	ID:2	HC GRADIENT mode strobe
+24:55.979	ID:2	result: 3
+24:55.980	ID:2	send packet
+24:55.985	ID:2	HC GRADIENT mode strobe
+24:55.986	ID:2	result: 3
+24:55.987	ID:2	send packet
+24:55.992	ID:2	HC GRADIENT mode strobe
+24:55.993	ID:2	result: 3
+24:55.993	ID:2	send packet
+24:55.999	ID:2	HC GRADIENT mode strobe
+24:55.999	ID:2	result: 3
+24:56.000	ID:2	go to sleep
+24:56.005	ID:2	wakeups: 25, dc: 3, Tw: 1537
+24:56.596	ID:6	2 6 1
+24:56.599	ID:6	power: 303246
+24:56.602	ID:6	6 303246 20
+24:56.604	ID:6	result: 1
+24:56.604	ID:6	go to sleep
+24:56.609	ID:6	wakeups: 1, dc: 20, Tw: 1473
+24:56.678	ID:8	send packet
+24:56.683	ID:8	HC GRADIENT mode strobe
+24:56.686	ID:8	Beacon send DATA: 9, TTL: 1, SEQ: 25
+24:57.690	ID:8	2 8 1
+24:57.693	ID:8	power: 432702
+24:57.696	ID:8	6 432702 48
+24:57.697	ID:8	result: 1
+24:57.698	ID:8	go to sleep
+24:57.703	ID:8	wakeups: 1, dc: 48, Tw: 1024
+25:03.813	ID:4	send packet
+25:03.818	ID:4	HC GRADIENT mode strobe
+25:03.819	ID:4	result: 3
+25:03.820	ID:7	send packet
+25:03.820	ID:4	send packet
+25:03.825	ID:7	HC GRADIENT mode strobe
+25:03.825	ID:4	HC GRADIENT mode strobe
+25:03.826	ID:4	result: 3
+25:03.827	ID:4	send packet
+25:03.828	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 22
+25:03.830	ID:4	HC_GRADIENT mode rx
+25:03.832	ID:7	5 7 4
+25:03.833	ID:4	result: 2
+25:03.834	ID:7	2 4 3
+25:03.834	ID:4	send packet
+25:03.837	ID:7	power: 704694
+25:03.839	ID:4	HC GRADIENT mode strobe
+25:03.840	ID:7	6 704694 51
+25:03.841	ID:7	result: 1
+25:03.842	ID:7	send packet
+25:03.842	ID:4	Beacon send DATA: 9, TTL: 3, SEQ: 22
+25:03.844	ID:7	HC_GRADIENT mode rx
+25:03.846	ID:4	5 4 1
+25:03.846	ID:1	9 22 4 24
+25:03.847	ID:7	drop because 1 is smaller then 2
+25:03.848	ID:4	2 1 65
+25:03.849	ID:7	packet from 4 is dropped
+25:03.850	ID:7	result: 9
+25:03.850	ID:4	power: 303048
+25:03.851	ID:7	send packet
+25:03.853	ID:4	6 303048 3
+25:03.855	ID:4	result: 1
+25:03.855	ID:4	go to sleep
+25:03.856	ID:7	HC GRADIENT mode strobe
+25:03.859	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 23
+25:03.860	ID:4	wakeups: 25, dc: 3, Tw: 967
+25:04.208	ID:3	send packet
+25:04.213	ID:3	HC GRADIENT mode strobe
+25:04.214	ID:3	result: 3
+25:04.214	ID:3	send packet
+25:04.220	ID:3	HC GRADIENT mode strobe
+25:04.220	ID:3	result: 3
+25:04.221	ID:3	send packet
+25:04.226	ID:3	HC GRADIENT mode strobe
+25:04.227	ID:3	result: 3
+25:04.228	ID:3	send packet
+25:04.233	ID:3	HC GRADIENT mode strobe
+25:04.234	ID:3	result: 3
+25:04.235	ID:3	send packet
+25:04.240	ID:3	HC GRADIENT mode strobe
+25:04.241	ID:3	result: 3
+25:04.242	ID:3	go to sleep
+25:04.246	ID:3	wakeups: 1, dc: 32, Tw: 958
+25:04.469	ID:5	send packet
+25:04.474	ID:5	HC GRADIENT mode strobe
+25:04.475	ID:5	result: 3
+25:04.476	ID:5	send packet
+25:04.481	ID:5	HC GRADIENT mode strobe
+25:04.482	ID:5	result: 3
+25:04.482	ID:5	send packet
+25:04.487	ID:5	HC GRADIENT mode strobe
+25:04.488	ID:5	result: 3
+25:04.489	ID:5	send packet
+25:04.494	ID:5	HC GRADIENT mode strobe
+25:04.495	ID:5	result: 3
+25:04.496	ID:5	send packet
+25:04.501	ID:5	HC GRADIENT mode strobe
+25:04.502	ID:5	result: 3
+25:04.503	ID:5	send packet
+25:04.508	ID:5	HC GRADIENT mode strobe
+25:04.509	ID:5	result: 3
+25:04.510	ID:5	send packet
+25:04.515	ID:5	HC GRADIENT mode strobe
+25:04.516	ID:5	result: 3
+25:04.516	ID:5	go to sleep
+25:04.521	ID:5	wakeups: 1, dc: 43, Tw: 1201
+25:04.862	ID:7	2 7 3
+25:04.865	ID:7	power: 765750
+25:04.869	ID:7	6 765750 52
+25:04.870	ID:7	result: 1
+25:04.871	ID:7	send packet
+25:04.876	ID:7	HC GRADIENT mode strobe
+25:04.879	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 23
+25:05.701	ID:8	send packet
+25:05.705	ID:8	HC_GRADIENT mode rx
+25:05.708	ID:8	drop because 2 is smaller then 3
+25:05.710	ID:8	packet from 7 is dropped
+25:05.711	ID:8	result: 9
+25:05.712	ID:8	send packet
+25:05.714	ID:8	HC_GRADIENT mode rx
+25:05.716	ID:8	drop because 2 is smaller then 3
+25:05.718	ID:8	packet from 7 is dropped
+25:05.719	ID:8	result: 9
+25:05.720	ID:8	send packet
+25:05.722	ID:8	HC_GRADIENT mode rx
+25:05.725	ID:8	drop because 2 is smaller then 3
+25:05.726	ID:8	packet from 7 is dropped
+25:05.728	ID:8	result: 9
+25:05.728	ID:8	send packet
+25:05.730	ID:8	HC_GRADIENT mode rx
+25:05.733	ID:8	drop because 2 is smaller then 3
+25:05.735	ID:8	packet from 7 is dropped
+25:05.736	ID:8	result: 9
+25:05.737	ID:8	send packet
+25:05.739	ID:8	HC_GRADIENT mode rx
+25:05.741	ID:8	drop because 2 is smaller then 3
+25:05.743	ID:8	packet from 7 is dropped
+25:05.744	ID:8	result: 9
+25:05.745	ID:8	go to sleep
+25:05.750	ID:8	wakeups: 1, dc: 48, Tw: 1482
+25:05.882	ID:7	2 7 3
+25:05.885	ID:7	power: 39936
+25:05.888	ID:7	6 39936 52
+25:05.889	ID:7	result: 1
+25:05.890	ID:7	go to sleep
+25:05.894	ID:7	wakeups: 3, dc: 52, Tw: 1471
+25:05.962	ID:9	send packet
+25:05.967	ID:9	HC GRADIENT mode strobe
+25:05.970	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 28
+25:06.975	ID:9	current_state: 3, collisions: 0
+25:06.976	ID:9	2 9 1
+25:06.979	ID:9	power: 11580
+25:06.982	ID:9	6 11580 0
+25:06.983	ID:9	result: 1
+25:06.984	ID:9	go to sleep
+25:06.988	ID:9	wakeups: 1, dc: 0, Tw: 1249
+25:08.013	ID:2	send packet
+25:08.018	ID:2	HC GRADIENT mode strobe
+25:08.019	ID:2	result: 3
+25:08.020	ID:2	send packet
+25:08.025	ID:2	HC GRADIENT mode strobe
+25:08.026	ID:2	result: 3
+25:08.027	ID:2	send packet
+25:08.032	ID:2	HC GRADIENT mode strobe
+25:08.033	ID:2	result: 3
+25:08.034	ID:2	send packet
+25:08.039	ID:2	HC GRADIENT mode strobe
+25:08.040	ID:2	result: 3
+25:08.040	ID:2	send packet
+25:08.045	ID:2	HC GRADIENT mode strobe
+25:08.046	ID:2	result: 3
+25:08.047	ID:2	send packet
+25:08.052	ID:2	HC GRADIENT mode strobe
+25:08.053	ID:2	result: 3
+25:08.054	ID:2	go to sleep
+25:08.059	ID:2	wakeups: 25, dc: 3, Tw: 1277
+25:08.114	ID:6	send packet
+25:08.119	ID:6	HC GRADIENT mode strobe
+25:08.122	ID:6	Beacon send DATA: 9, TTL: 1, SEQ: 27
+25:09.125	ID:6	2 6 1
+25:09.128	ID:6	power: 363870
+25:09.132	ID:6	6 363870 21
+25:09.133	ID:6	result: 1
+25:09.134	ID:6	go to sleep
+25:09.138	ID:6	wakeups: 1, dc: 21, Tw: 1537
+25:11.415	ID:4	send packet
+25:11.420	ID:4	HC GRADIENT mode strobe
+25:11.420	ID:4	result: 3
+25:11.421	ID:4	send packet
+25:11.426	ID:4	HC GRADIENT mode strobe
+25:11.427	ID:4	result: 3
+25:11.428	ID:4	send packet
+25:11.433	ID:4	HC GRADIENT mode strobe
+25:11.434	ID:4	result: 3
+25:11.435	ID:4	send packet
+25:11.440	ID:4	HC GRADIENT mode strobe
+25:11.441	ID:4	result: 3
+25:11.442	ID:4	send packet
+25:11.447	ID:4	HC GRADIENT mode strobe
+25:11.448	ID:4	result: 3
+25:11.448	ID:4	send packet
+25:11.454	ID:4	HC GRADIENT mode strobe
+25:11.454	ID:4	result: 3
+25:11.455	ID:4	go to sleep
+25:11.460	ID:4	wakeups: 25, dc: 3, Tw: 1512
+25:11.731	ID:3	send packet
+25:11.736	ID:3	HC GRADIENT mode strobe
+25:11.737	ID:3	result: 3
+25:11.738	ID:3	send packet
+25:11.743	ID:3	HC GRADIENT mode strobe
+25:11.744	ID:3	result: 3
+25:11.745	ID:3	send packet
+25:11.750	ID:3	HC GRADIENT mode strobe
+25:11.751	ID:3	result: 3
+25:11.752	ID:3	send packet
+25:11.757	ID:3	HC GRADIENT mode strobe
+25:11.757	ID:3	result: 3
+25:11.758	ID:3	send packet
+25:11.763	ID:3	HC GRADIENT mode strobe
+25:11.764	ID:3	result: 3
+25:11.765	ID:3	send packet
+25:11.770	ID:3	HC GRADIENT mode strobe
+25:11.771	ID:3	result: 3
+25:11.772	ID:3	send packet
+25:11.777	ID:3	HC GRADIENT mode strobe
+25:11.778	ID:3	result: 3
+25:11.779	ID:3	go to sleep
+25:11.783	ID:3	wakeups: 1, dc: 32, Tw: 1243
+25:13.898	ID:5	send packet
+25:13.904	ID:5	HC GRADIENT mode strobe
+25:13.904	ID:5	result: 3
+25:13.905	ID:5	send packet
+25:13.910	ID:5	HC GRADIENT mode strobe
+25:13.911	ID:5	result: 3
+25:13.912	ID:5	send packet
+25:13.917	ID:5	HC GRADIENT mode strobe
+25:13.918	ID:5	result: 3
+25:13.919	ID:5	send packet
+25:13.924	ID:5	HC GRADIENT mode strobe
+25:13.925	ID:5	result: 3
+25:13.926	ID:5	send packet
+25:13.931	ID:5	HC GRADIENT mode strobe
+25:13.932	ID:5	result: 3
+25:13.932	ID:5	send packet
+25:13.937	ID:5	HC GRADIENT mode strobe
+25:13.938	ID:5	result: 3
+25:13.939	ID:5	go to sleep
+25:13.944	ID:5	wakeups: 1, dc: 43, Tw: 1029
+25:16.743	ID:9	send packet
+25:16.748	ID:9	HC GRADIENT mode strobe
+25:16.751	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 28
+25:17.326	ID:8	send packet
+25:17.328	ID:8	HC_GRADIENT mode rx
+25:17.332	ID:9	current_state: 5, collisions: 0
+25:17.333	ID:9	5 9 8
+25:17.333	ID:8	result: 5
+25:17.334	ID:8	send packet
+25:17.335	ID:9	2 8 1
+25:17.337	ID:9	power: 46980
+25:17.339	ID:8	HC GRADIENT mode strobe
+25:17.340	ID:9	6 46980 0
+25:17.341	ID:9	result: 1
+25:17.342	ID:9	go to sleep
+25:17.342	ID:8	Beacon send DATA: 9, TTL: 1, SEQ: 25
+25:17.346	ID:9	wakeups: 1, dc: 0, Tw: 1125
+25:17.382	ID:7	send packet
+25:17.386	ID:7	HC_GRADIENT mode rx
+25:17.388	ID:8	5 8 7
+25:17.390	ID:7	result: 2
+25:17.390	ID:8	2 7 1
+25:17.391	ID:7	send packet
+25:17.393	ID:8	power: 438426
+25:17.396	ID:7	HC GRADIENT mode strobe
+25:17.396	ID:8	6 438426 48
+25:17.397	ID:8	result: 1
+25:17.398	ID:8	go to sleep
+25:17.399	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 23
+25:17.403	ID:8	wakeups: 1, dc: 48, Tw: 1263
+25:18.029	ID:2	send packet
+25:18.034	ID:2	HC GRADIENT mode strobe
+25:18.035	ID:2	result: 3
+25:18.036	ID:2	send packet
+25:18.041	ID:2	HC GRADIENT mode strobe
+25:18.042	ID:2	result: 3
+25:18.042	ID:2	send packet
+25:18.048	ID:2	HC GRADIENT mode strobe
+25:18.048	ID:2	result: 3
+25:18.049	ID:2	send packet
+25:18.054	ID:2	HC GRADIENT mode strobe
+25:18.055	ID:2	result: 3
+25:18.056	ID:2	send packet
+25:18.061	ID:2	HC GRADIENT mode strobe
+25:18.062	ID:2	result: 3
+25:18.063	ID:2	send packet
+25:18.068	ID:2	HC GRADIENT mode strobe
+25:18.069	ID:2	result: 3
+25:18.070	ID:2	send packet
+25:18.075	ID:2	HC GRADIENT mode strobe
+25:18.076	ID:2	result: 3
+25:18.076	ID:2	go to sleep
+25:18.081	ID:2	wakeups: 25, dc: 3, Tw: 1106
+25:18.402	ID:7	2 7 3
+25:18.405	ID:7	power: 100962
+25:18.408	ID:7	6 100962 52
+25:18.410	ID:7	result: 1
+25:18.410	ID:7	go to sleep
+25:18.415	ID:7	wakeups: 3, dc: 52, Tw: 1228
+25:21.145	ID:6	send packet
+25:21.150	ID:6	HC GRADIENT mode strobe
+25:21.153	ID:6	Beacon send DATA: 9, TTL: 1, SEQ: 27
+25:21.489	ID:3	send packet
+25:21.491	ID:3	HC_GRADIENT mode rx
+25:21.493	ID:6	5 6 3
+25:21.495	ID:3	result: 2
+25:21.495	ID:6	2 3 1
+25:21.496	ID:3	send packet
+25:21.498	ID:6	power: 384786
+25:21.501	ID:3	HC GRADIENT mode strobe
+25:21.501	ID:6	6 384786 21
+25:21.502	ID:6	result: 1
+25:21.503	ID:6	go to sleep
+25:21.504	ID:3	Beacon send DATA: 9, TTL: 2, SEQ: 27
+25:21.508	ID:6	wakeups: 1, dc: 21, Tw: 1511
+25:21.977	ID:5	send packet
+25:21.982	ID:5	HC GRADIENT mode strobe
+25:21.983	ID:5	result: 3
+25:21.983	ID:5	send packet
+25:21.989	ID:5	HC GRADIENT mode strobe
+25:21.989	ID:5	result: 3
+25:21.990	ID:5	send packet
+25:21.995	ID:5	HC GRADIENT mode strobe
+25:21.996	ID:5	result: 3
+25:21.997	ID:5	send packet
+25:22.002	ID:5	HC GRADIENT mode strobe
+25:22.003	ID:5	result: 3
+25:22.004	ID:5	send packet
+25:22.009	ID:5	HC GRADIENT mode strobe
+25:22.010	ID:5	result: 3
+25:22.011	ID:5	send packet
+25:22.016	ID:5	HC GRADIENT mode strobe
+25:22.017	ID:5	result: 3
+25:22.017	ID:5	go to sleep
+25:22.022	ID:5	wakeups: 1, dc: 43, Tw: 1415
+25:22.507	ID:3	2 3 1
+25:22.510	ID:3	power: 610326
+25:22.514	ID:3	6 610326 32
+25:22.515	ID:3	result: 1
+25:22.516	ID:3	go to sleep
+25:22.520	ID:3	wakeups: 1, dc: 32, Tw: 1214
+25:23.266	ID:4	send packet
+25:23.271	ID:4	HC GRADIENT mode strobe
+25:23.272	ID:4	result: 3
+25:23.273	ID:4	send packet
+25:23.278	ID:4	HC GRADIENT mode strobe
+25:23.279	ID:4	result: 3
+25:23.280	ID:4	send packet
+25:23.285	ID:4	HC GRADIENT mode strobe
+25:23.286	ID:4	result: 3
+25:23.286	ID:4	send packet
+25:23.292	ID:4	HC GRADIENT mode strobe
+25:23.292	ID:4	result: 3
+25:23.293	ID:4	send packet
+25:23.298	ID:4	HC GRADIENT mode strobe
+25:23.299	ID:4	result: 3
+25:23.300	ID:4	go to sleep
+25:23.305	ID:4	wakeups: 25, dc: 3, Tw: 1573
+25:26.134	ID:9	send packet
+25:26.139	ID:9	HC GRADIENT mode strobe
+25:26.142	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 29
+25:26.716	ID:2	send packet
+25:26.721	ID:2	HC GRADIENT mode strobe
+25:26.722	ID:2	result: 3
+25:26.723	ID:2	send packet
+25:26.728	ID:2	HC GRADIENT mode strobe
+25:26.729	ID:2	result: 3
+25:26.730	ID:2	send packet
+25:26.735	ID:2	HC GRADIENT mode strobe
+25:26.736	ID:2	result: 3
+25:26.737	ID:2	send packet
+25:26.742	ID:2	HC GRADIENT mode strobe
+25:26.743	ID:2	result: 3
+25:26.743	ID:2	send packet
+25:26.749	ID:2	HC GRADIENT mode strobe
+25:26.749	ID:2	result: 3
+25:26.750	ID:2	go to sleep
+25:26.755	ID:2	wakeups: 25, dc: 3, Tw: 1263
+25:27.147	ID:9	current_state: 3, collisions: 0
+25:27.149	ID:9	2 9 1
+25:27.151	ID:9	power: 107772
+25:27.154	ID:9	6 107772 1
+25:27.156	ID:9	result: 1
+25:27.156	ID:9	go to sleep
+25:27.161	ID:9	wakeups: 1, dc: 1, Tw: 1079
+25:27.264	ID:8	send packet
+25:27.269	ID:8	HC GRADIENT mode strobe
+25:27.272	ID:8	Beacon send DATA: 9, TTL: 1, SEQ: 28
+25:28.007	ID:7	send packet
+25:28.010	ID:7	HC_GRADIENT mode rx
+25:28.012	ID:8	5 8 7
+25:28.013	ID:7	result: 2
+25:28.014	ID:8	2 7 1
+25:28.014	ID:7	send packet
+25:28.017	ID:8	power: 483324
+25:28.019	ID:7	HC GRADIENT mode strobe
+25:28.020	ID:8	6 483324 48
+25:28.021	ID:8	result: 1
+25:28.022	ID:8	go to sleep
+25:28.022	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 23
+25:28.026	ID:8	wakeups: 1, dc: 48, Tw: 931
+25:29.026	ID:7	2 7 3
+25:29.029	ID:7	power: 161922
+25:29.032	ID:7	6 161922 53
+25:29.033	ID:7	result: 1
+25:29.034	ID:7	go to sleep
+25:29.039	ID:7	wakeups: 3, dc: 53, Tw: 940
+25:32.005	ID:3	send packet
+25:32.010	ID:3	HC GRADIENT mode strobe
+25:32.013	ID:3	Beacon send DATA: 9, TTL: 2, SEQ: 27
+25:33.017	ID:3	2 3 1
+25:33.020	ID:3	power: 670974
+25:33.023	ID:3	6 670974 32
+25:33.024	ID:3	result: 1
+25:33.025	ID:3	go to sleep
+25:33.030	ID:3	wakeups: 1, dc: 32, Tw: 1494
+25:33.078	ID:5	send packet
+25:33.083	ID:5	HC GRADIENT mode strobe
+25:33.084	ID:5	result: 3
+25:33.085	ID:5	send packet
+25:33.090	ID:5	HC GRADIENT mode strobe
+25:33.091	ID:5	result: 3
+25:33.092	ID:5	send packet
+25:33.097	ID:5	HC GRADIENT mode strobe
+25:33.098	ID:5	result: 3
+25:33.099	ID:5	send packet
+25:33.104	ID:5	HC GRADIENT mode strobe
+25:33.104	ID:5	result: 3
+25:33.105	ID:5	send packet
+25:33.110	ID:5	HC GRADIENT mode strobe
+25:33.111	ID:5	result: 3
+25:33.112	ID:5	send packet
+25:33.117	ID:5	HC GRADIENT mode strobe
+25:33.118	ID:5	result: 3
+25:33.119	ID:5	send packet
+25:33.124	ID:5	HC GRADIENT mode strobe
+25:33.125	ID:5	result: 3
+25:33.126	ID:5	go to sleep
+25:33.130	ID:5	wakeups: 1, dc: 43, Tw: 981
+25:33.309	ID:6	send packet
+25:33.314	ID:6	HC GRADIENT mode strobe
+25:33.315	ID:6	result: 3
+25:33.316	ID:6	send packet
+25:33.321	ID:6	HC GRADIENT mode strobe
+25:33.322	ID:6	result: 3
+25:33.323	ID:6	send packet
+25:33.328	ID:6	HC GRADIENT mode strobe
+25:33.329	ID:6	result: 3
+25:33.329	ID:6	send packet
+25:33.334	ID:6	HC GRADIENT mode strobe
+25:33.335	ID:6	result: 3
+25:33.336	ID:6	send packet
+25:33.341	ID:6	HC GRADIENT mode strobe
+25:33.342	ID:6	result: 3
+25:33.343	ID:6	send packet
+25:33.348	ID:6	HC GRADIENT mode strobe
+25:33.349	ID:6	result: 3
+25:33.350	ID:6	go to sleep
+25:33.354	ID:6	wakeups: 1, dc: 21, Tw: 1512
+25:35.295	ID:8	send packet
+25:35.300	ID:8	HC GRADIENT mode strobe
+25:35.301	ID:8	result: 3
+25:35.302	ID:8	send packet
+25:35.307	ID:8	HC GRADIENT mode strobe
+25:35.308	ID:8	result: 3
+25:35.309	ID:8	send packet
+25:35.314	ID:8	HC GRADIENT mode strobe
+25:35.315	ID:8	result: 3
+25:35.316	ID:8	send packet
+25:35.321	ID:8	HC GRADIENT mode strobe
+25:35.321	ID:8	result: 3
+25:35.322	ID:8	send packet
+25:35.327	ID:8	HC GRADIENT mode strobe
+25:35.328	ID:8	result: 3
+25:35.329	ID:8	send packet
+25:35.334	ID:8	HC GRADIENT mode strobe
+25:35.335	ID:8	result: 3
+25:35.336	ID:8	send packet
+25:35.341	ID:8	HC GRADIENT mode strobe
+25:35.342	ID:8	result: 3
+25:35.343	ID:8	go to sleep
+25:35.347	ID:8	wakeups: 1, dc: 48, Tw: 1421
+25:35.587	ID:9	send packet
+25:35.592	ID:9	HC GRADIENT mode strobe
+25:35.594	ID:4	send packet
+25:35.595	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 29
+25:35.599	ID:4	HC GRADIENT mode strobe
+25:35.600	ID:4	result: 3
+25:35.601	ID:4	send packet
+25:35.606	ID:4	HC GRADIENT mode strobe
+25:35.607	ID:4	result: 3
+25:35.608	ID:4	send packet
+25:35.613	ID:4	HC GRADIENT mode strobe
+25:35.614	ID:4	result: 3
+25:35.615	ID:4	send packet
+25:35.620	ID:4	HC GRADIENT mode strobe
+25:35.621	ID:4	result: 3
+25:35.621	ID:4	send packet
+25:35.626	ID:4	HC GRADIENT mode strobe
+25:35.627	ID:4	result: 3
+25:35.628	ID:4	send packet
+25:35.633	ID:4	HC GRADIENT mode strobe
+25:35.634	ID:4	result: 3
+25:35.635	ID:4	send packet
+25:35.640	ID:4	HC GRADIENT mode strobe
+25:35.641	ID:4	result: 3
+25:35.642	ID:4	go to sleep
+25:35.646	ID:4	wakeups: 25, dc: 3, Tw: 1237
+25:36.382	ID:7	send packet
+25:36.387	ID:7	HC GRADIENT mode strobe
+25:36.390	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 23
+25:36.600	ID:9	current_state: 3, collisions: 0
+25:36.602	ID:9	2 9 1
+25:36.605	ID:9	power: 168558
+25:36.608	ID:9	6 168558 1
+25:36.609	ID:9	result: 1
+25:36.609	ID:9	go to sleep
+25:36.614	ID:9	wakeups: 1, dc: 1, Tw: 1018
+25:36.623	ID:2	send packet
+25:36.628	ID:2	HC GRADIENT mode strobe
+25:36.629	ID:2	result: 3
+25:36.629	ID:2	send packet
+25:36.634	ID:2	HC GRADIENT mode strobe
+25:36.635	ID:2	result: 3
+25:36.636	ID:2	send packet
+25:36.641	ID:2	HC GRADIENT mode strobe
+25:36.642	ID:2	result: 3
+25:36.643	ID:2	send packet
+25:36.648	ID:2	HC GRADIENT mode strobe
+25:36.649	ID:2	result: 3
+25:36.650	ID:2	send packet
+25:36.655	ID:2	HC GRADIENT mode strobe
+25:36.656	ID:2	result: 3
+25:36.657	ID:2	send packet
+25:36.662	ID:2	HC GRADIENT mode strobe
+25:36.663	ID:2	result: 3
+25:36.663	ID:2	go to sleep
+25:36.668	ID:2	wakeups: 25, dc: 3, Tw: 969
+25:37.394	ID:7	2 7 3
+25:37.397	ID:7	power: 222546
+25:37.400	ID:7	6 222546 53
+25:37.401	ID:7	result: 1
+25:37.402	ID:7	go to sleep
+25:37.407	ID:7	wakeups: 3, dc: 53, Tw: 1391
+25:40.789	ID:5	send packet
+25:40.794	ID:5	HC GRADIENT mode strobe
+25:40.795	ID:5	result: 3
+25:40.796	ID:5	send packet
+25:40.801	ID:5	HC GRADIENT mode strobe
+25:40.802	ID:5	result: 3
+25:40.803	ID:5	send packet
+25:40.808	ID:5	HC GRADIENT mode strobe
+25:40.809	ID:5	result: 3
+25:40.809	ID:5	send packet
+25:40.815	ID:5	HC GRADIENT mode strobe
+25:40.815	ID:5	result: 3
+25:40.816	ID:5	send packet
+25:40.821	ID:5	HC GRADIENT mode strobe
+25:40.822	ID:5	result: 3
+25:40.823	ID:5	send packet
+25:40.828	ID:5	HC GRADIENT mode strobe
+25:40.829	ID:5	result: 3
+25:40.830	ID:5	go to sleep
+25:40.834	ID:5	wakeups: 1, dc: 43, Tw: 929
+25:44.232	ID:2	send packet
+25:44.237	ID:2	HC GRADIENT mode strobe
+25:44.238	ID:2	result: 3
+25:44.239	ID:2	send packet
+25:44.244	ID:2	HC GRADIENT mode strobe
+25:44.245	ID:2	result: 3
+25:44.246	ID:2	send packet
+25:44.251	ID:2	HC GRADIENT mode strobe
+25:44.252	ID:2	result: 3
+25:44.252	ID:2	send packet
+25:44.257	ID:2	HC GRADIENT mode strobe
+25:44.258	ID:2	result: 3
+25:44.259	ID:2	send packet
+25:44.264	ID:2	HC GRADIENT mode strobe
+25:44.265	ID:2	result: 3
+25:44.266	ID:2	send packet
+25:44.271	ID:2	HC GRADIENT mode strobe
+25:44.272	ID:2	result: 3
+25:44.273	ID:2	go to sleep
+25:44.277	ID:2	wakeups: 25, dc: 3, Tw: 998
+25:44.564	ID:9	send packet
+25:44.569	ID:9	HC GRADIENT mode strobe
+25:44.572	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 29
+25:44.700	ID:3	send packet
+25:44.705	ID:3	HC GRADIENT mode strobe
+25:44.708	ID:3	Beacon send DATA: 9, TTL: 2, SEQ: 27
+25:45.161	ID:6	send packet
+25:45.166	ID:6	HC GRADIENT mode strobe
+25:45.167	ID:6	result: 3
+25:45.167	ID:6	send packet
+25:45.172	ID:6	HC GRADIENT mode strobe
+25:45.173	ID:6	result: 3
+25:45.174	ID:6	send packet
+25:45.179	ID:6	HC GRADIENT mode strobe
+25:45.180	ID:6	result: 3
+25:45.181	ID:6	send packet
+25:45.186	ID:6	HC GRADIENT mode strobe
+25:45.187	ID:6	result: 3
+25:45.188	ID:6	send packet
+25:45.193	ID:6	HC GRADIENT mode strobe
+25:45.194	ID:6	result: 3
+25:45.194	ID:6	go to sleep
+25:45.199	ID:6	wakeups: 1, dc: 21, Tw: 1346
+25:45.305	ID:4	send packet
+25:45.310	ID:4	HC GRADIENT mode strobe
+25:45.311	ID:4	result: 3
+25:45.312	ID:4	send packet
+25:45.317	ID:4	HC GRADIENT mode strobe
+25:45.318	ID:4	result: 3
+25:45.319	ID:4	send packet
+25:45.324	ID:4	HC GRADIENT mode strobe
+25:45.325	ID:4	result: 3
+25:45.326	ID:4	send packet
+25:45.331	ID:4	HC GRADIENT mode strobe
+25:45.331	ID:4	result: 3
+25:45.332	ID:4	send packet
+25:45.337	ID:4	HC GRADIENT mode strobe
+25:45.338	ID:4	result: 3
+25:45.339	ID:4	send packet
+25:45.344	ID:4	HC GRADIENT mode strobe
+25:45.345	ID:4	result: 3
+25:45.346	ID:4	go to sleep
+25:45.351	ID:4	wakeups: 25, dc: 3, Tw: 1043
+25:45.577	ID:9	current_state: 3, collisions: 0
+25:45.578	ID:9	2 9 1
+25:45.581	ID:9	power: 229344
+25:45.584	ID:9	6 229344 2
+25:45.585	ID:9	result: 1
+25:45.586	ID:9	go to sleep
+25:45.590	ID:9	wakeups: 1, dc: 2, Tw: 1186
+25:45.712	ID:3	2 3 1
+25:45.715	ID:3	power: 731592
+25:45.718	ID:3	6 731592 33
+25:45.719	ID:3	result: 1
+25:45.720	ID:3	go to sleep
+25:45.724	ID:3	wakeups: 1, dc: 33, Tw: 964
+25:46.444	ID:8	send packet
+25:46.449	ID:8	HC GRADIENT mode strobe
+25:46.450	ID:8	result: 3
+25:46.450	ID:8	send packet
+25:46.456	ID:8	HC GRADIENT mode strobe
+25:46.456	ID:8	result: 3
+25:46.457	ID:8	send packet
+25:46.462	ID:8	HC GRADIENT mode strobe
+25:46.463	ID:8	result: 3
+25:46.464	ID:8	send packet
+25:46.469	ID:8	HC GRADIENT mode strobe
+25:46.470	ID:8	result: 3
+25:46.471	ID:8	send packet
+25:46.476	ID:8	HC GRADIENT mode strobe
+25:46.477	ID:8	result: 3
+25:46.478	ID:8	send packet
+25:46.483	ID:8	HC GRADIENT mode strobe
+25:46.484	ID:8	result: 3
+25:46.484	ID:8	send packet
+25:46.489	ID:8	HC GRADIENT mode strobe
+25:46.490	ID:8	result: 3
+25:46.491	ID:8	go to sleep
+25:46.496	ID:8	wakeups: 1, dc: 48, Tw: 975
+25:48.086	ID:5	send packet
+25:48.091	ID:5	HC GRADIENT mode strobe
+25:48.092	ID:5	result: 3
+25:48.093	ID:5	send packet
+25:48.098	ID:5	HC GRADIENT mode strobe
+25:48.099	ID:5	result: 3
+25:48.100	ID:5	send packet
+25:48.105	ID:5	HC GRADIENT mode strobe
+25:48.105	ID:5	result: 3
+25:48.106	ID:5	send packet
+25:48.111	ID:5	HC GRADIENT mode strobe
+25:48.112	ID:5	result: 3
+25:48.113	ID:5	send packet
+25:48.118	ID:5	HC GRADIENT mode strobe
+25:48.119	ID:5	result: 3
+25:48.120	ID:5	send packet
+25:48.125	ID:5	HC GRADIENT mode strobe
+25:48.126	ID:5	result: 3
+25:48.127	ID:5	go to sleep
+25:48.131	ID:5	wakeups: 1, dc: 43, Tw: 1259
+25:48.273	ID:7	send packet
+25:48.278	ID:7	HC GRADIENT mode strobe
+25:48.281	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 23
+25:49.284	ID:7	2 7 3
+25:49.287	ID:7	power: 283170
+25:49.291	ID:7	6 283170 53
+25:49.292	ID:7	result: 1
+25:49.293	ID:7	go to sleep
+25:49.297	ID:7	wakeups: 3, dc: 53, Tw: 954
+25:52.068	ID:2	send packet
+25:52.073	ID:2	HC GRADIENT mode strobe
+25:52.074	ID:2	result: 3
+25:52.075	ID:2	send packet
+25:52.080	ID:2	HC GRADIENT mode strobe
+25:52.081	ID:2	result: 3
+25:52.082	ID:2	send packet
+25:52.087	ID:2	HC GRADIENT mode strobe
+25:52.087	ID:2	result: 3
+25:52.088	ID:2	send packet
+25:52.093	ID:2	HC GRADIENT mode strobe
+25:52.094	ID:2	result: 3
+25:52.095	ID:2	send packet
+25:52.100	ID:2	HC GRADIENT mode strobe
+25:52.101	ID:2	result: 3
+25:52.102	ID:2	go to sleep
+25:52.107	ID:2	wakeups: 25, dc: 3, Tw: 1054
+25:53.255	ID:3	send packet
+25:53.260	ID:3	HC GRADIENT mode strobe
+25:53.263	ID:3	Beacon send DATA: 9, TTL: 2, SEQ: 27
+25:53.493	ID:4	send packet
+25:53.498	ID:4	HC GRADIENT mode strobe
+25:53.499	ID:4	result: 3
+25:53.499	ID:4	send packet
+25:53.505	ID:4	HC GRADIENT mode strobe
+25:53.505	ID:4	result: 3
+25:53.506	ID:4	send packet
+25:53.511	ID:4	HC GRADIENT mode strobe
+25:53.512	ID:4	result: 3
+25:53.513	ID:4	send packet
+25:53.518	ID:4	HC GRADIENT mode strobe
+25:53.519	ID:4	result: 3
+25:53.520	ID:4	send packet
+25:53.525	ID:4	HC GRADIENT mode strobe
+25:53.526	ID:4	result: 3
+25:53.527	ID:4	send packet
+25:53.532	ID:4	HC GRADIENT mode strobe
+25:53.533	ID:4	result: 3
+25:53.533	ID:4	go to sleep
+25:53.538	ID:4	wakeups: 25, dc: 3, Tw: 1155
+25:54.108	ID:8	send packet
+25:54.113	ID:8	HC GRADIENT mode strobe
+25:54.114	ID:8	result: 3
+25:54.114	ID:8	send packet
+25:54.120	ID:8	HC GRADIENT mode strobe
+25:54.120	ID:8	result: 3
+25:54.121	ID:8	send packet
+25:54.126	ID:8	HC GRADIENT mode strobe
+25:54.127	ID:8	result: 3
+25:54.128	ID:8	send packet
+25:54.133	ID:8	HC GRADIENT mode strobe
+25:54.134	ID:8	result: 3
+25:54.135	ID:8	send packet
+25:54.140	ID:8	HC GRADIENT mode strobe
+25:54.141	ID:8	result: 3
+25:54.142	ID:8	go to sleep
+25:54.146	ID:8	wakeups: 1, dc: 48, Tw: 1180
+25:54.266	ID:3	2 3 1
+25:54.268	ID:3	power: 5784
+25:54.271	ID:3	6 5784 33
+25:54.272	ID:3	result: 1
+25:54.273	ID:3	go to sleep
+25:54.278	ID:3	wakeups: 1, dc: 33, Tw: 1309
+25:54.853	ID:9	send packet
+25:54.858	ID:9	HC GRADIENT mode strobe
+25:54.861	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 29
+25:55.715	ID:6	send packet
+25:55.718	ID:6	HC_GRADIENT mode rx
+25:55.721	ID:9	current_state: 5, collisions: 0
+25:55.723	ID:6	result: 5
+25:55.723	ID:9	5 9 6
+25:55.724	ID:6	send packet
+25:55.724	ID:9	2 6 1
+25:55.727	ID:9	power: 281562
+25:55.729	ID:6	HC GRADIENT mode strobe
+25:55.730	ID:9	6 281562 3
+25:55.731	ID:9	result: 1
+25:55.732	ID:6	Beacon send DATA: 9, TTL: 1, SEQ: 29
+25:55.732	ID:9	go to sleep
+25:55.737	ID:9	wakeups: 1, dc: 3, Tw: 1061
+25:56.735	ID:6	2 6 1
+25:56.738	ID:6	power: 449070
+25:56.742	ID:6	6 449070 21
+25:56.743	ID:6	result: 1
+25:56.744	ID:6	go to sleep
+25:56.748	ID:6	wakeups: 1, dc: 21, Tw: 1265
+25:56.749	ID:7	send packet
+25:56.754	ID:7	HC GRADIENT mode strobe
+25:56.757	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 23
+25:57.761	ID:7	2 7 3
+25:57.764	ID:7	power: 343794
+25:57.767	ID:7	6 343794 54
+25:57.768	ID:7	result: 1
+25:57.769	ID:7	go to sleep
+25:57.774	ID:7	wakeups: 3, dc: 54, Tw: 1495
+25:57.961	ID:5	send packet
+25:57.966	ID:5	HC GRADIENT mode strobe
+25:57.967	ID:5	result: 3
+25:57.968	ID:5	send packet
+25:57.973	ID:5	HC GRADIENT mode strobe
+25:57.974	ID:5	result: 3
+25:57.975	ID:5	send packet
+25:57.980	ID:5	HC GRADIENT mode strobe
+25:57.980	ID:5	result: 3
+25:57.981	ID:5	send packet
+25:57.986	ID:5	HC GRADIENT mode strobe
+25:57.987	ID:5	result: 3
+25:57.988	ID:5	send packet
+25:57.993	ID:5	HC GRADIENT mode strobe
+25:57.994	ID:5	result: 3
+25:57.995	ID:5	send packet
+25:58.000	ID:5	HC GRADIENT mode strobe
+25:58.001	ID:5	result: 3
+25:58.002	ID:5	go to sleep
+25:58.006	ID:5	wakeups: 1, dc: 43, Tw: 1317
+26:00.341	ID:2	send packet
+26:00.346	ID:2	HC GRADIENT mode strobe
+26:00.347	ID:2	result: 3
+26:00.348	ID:2	send packet
+26:00.353	ID:2	HC GRADIENT mode strobe
+26:00.354	ID:2	result: 3
+26:00.355	ID:2	send packet
+26:00.360	ID:2	HC GRADIENT mode strobe
+26:00.361	ID:2	result: 3
+26:00.362	ID:2	send packet
+26:00.367	ID:2	HC GRADIENT mode strobe
+26:00.368	ID:2	result: 3
+26:00.368	ID:2	send packet
+26:00.374	ID:2	HC GRADIENT mode strobe
+26:00.374	ID:2	result: 3
+26:00.375	ID:2	send packet
+26:00.380	ID:2	HC GRADIENT mode strobe
+26:00.381	ID:2	result: 3
+26:00.382	ID:2	go to sleep
+26:00.387	ID:2	wakeups: 25, dc: 3, Tw: 1194
+26:02.555	ID:4	send packet
+26:02.560	ID:4	HC GRADIENT mode strobe
+26:02.561	ID:4	result: 3
+26:02.562	ID:4	send packet
+26:02.567	ID:4	HC GRADIENT mode strobe
+26:02.568	ID:4	result: 3
+26:02.569	ID:4	send packet
+26:02.574	ID:4	HC GRADIENT mode strobe
+26:02.575	ID:4	result: 3
+26:02.576	ID:4	send packet
+26:02.581	ID:4	HC GRADIENT mode strobe
+26:02.581	ID:4	result: 3
+26:02.582	ID:4	send packet
+26:02.587	ID:4	HC GRADIENT mode strobe
+26:02.588	ID:4	result: 3
+26:02.589	ID:4	send packet
+26:02.594	ID:4	HC GRADIENT mode strobe
+26:02.595	ID:4	result: 3
+26:02.596	ID:4	send packet
+26:02.601	ID:4	HC GRADIENT mode strobe
+26:02.602	ID:4	result: 3
+26:02.603	ID:4	go to sleep
+26:02.607	ID:4	wakeups: 25, dc: 3, Tw: 1053
+26:03.366	ID:8	send packet
+26:03.371	ID:8	HC GRADIENT mode strobe
+26:03.371	ID:8	result: 3
+26:03.372	ID:8	send packet
+26:03.377	ID:8	HC GRADIENT mode strobe
+26:03.378	ID:8	result: 3
+26:03.379	ID:8	send packet
+26:03.384	ID:8	HC GRADIENT mode strobe
+26:03.385	ID:8	result: 3
+26:03.386	ID:8	send packet
+26:03.391	ID:8	HC GRADIENT mode strobe
+26:03.392	ID:8	result: 3
+26:03.393	ID:8	send packet
+26:03.398	ID:8	HC GRADIENT mode strobe
+26:03.399	ID:8	result: 3
+26:03.399	ID:8	send packet
+26:03.405	ID:8	HC GRADIENT mode strobe
+26:03.405	ID:8	result: 3
+26:03.406	ID:8	send packet
+26:03.411	ID:8	HC GRADIENT mode strobe
+26:03.412	ID:8	result: 3
+26:03.413	ID:8	go to sleep
+26:03.417	ID:8	wakeups: 1, dc: 48, Tw: 985
+26:04.025	ID:9	send packet
+26:04.030	ID:9	HC GRADIENT mode strobe
+26:04.033	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 30
+26:04.505	ID:3	send packet
+26:04.510	ID:3	HC GRADIENT mode strobe
+26:04.513	ID:3	Beacon send DATA: 9, TTL: 2, SEQ: 27
+26:05.037	ID:9	current_state: 3, collisions: 0
+26:05.039	ID:9	2 9 1
+26:05.042	ID:9	power: 342336
+26:05.045	ID:9	6 342336 3
+26:05.046	ID:9	result: 1
+26:05.047	ID:9	go to sleep
+26:05.051	ID:9	wakeups: 1, dc: 3, Tw: 1111
+26:05.516	ID:3	2 3 1
+26:05.519	ID:3	power: 66402
+26:05.522	ID:3	6 66402 34
+26:05.523	ID:3	result: 1
+26:05.524	ID:3	go to sleep
+26:05.528	ID:3	wakeups: 1, dc: 34, Tw: 1425
+26:06.629	ID:6	send packet
+26:06.634	ID:6	HC GRADIENT mode strobe
+26:06.637	ID:6	Beacon send DATA: 9, TTL: 1, SEQ: 29
+26:07.641	ID:6	2 6 1
+26:07.644	ID:6	power: 509688
+26:07.647	ID:6	6 509688 22
+26:07.648	ID:6	result: 1
+26:07.649	ID:6	go to sleep
+26:07.654	ID:6	wakeups: 1, dc: 22, Tw: 1294
+26:08.289	ID:5	send packet
+26:08.294	ID:5	HC GRADIENT mode strobe
+26:08.295	ID:5	result: 3
+26:08.296	ID:5	send packet
+26:08.301	ID:5	HC GRADIENT mode strobe
+26:08.302	ID:5	result: 3
+26:08.303	ID:5	send packet
+26:08.308	ID:5	HC GRADIENT mode strobe
+26:08.309	ID:5	result: 3
+26:08.309	ID:5	send packet
+26:08.315	ID:5	HC GRADIENT mode strobe
+26:08.315	ID:5	result: 3
+26:08.316	ID:5	send packet
+26:08.321	ID:5	HC GRADIENT mode strobe
+26:08.322	ID:5	result: 3
+26:08.323	ID:5	go to sleep
+26:08.328	ID:5	wakeups: 1, dc: 43, Tw: 1496
+26:09.452	ID:7	send packet
+26:09.457	ID:7	HC GRADIENT mode strobe
+26:09.460	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 23
+26:09.709	ID:2	send packet
+26:09.714	ID:2	HC GRADIENT mode strobe
+26:09.714	ID:2	result: 3
+26:09.715	ID:2	send packet
+26:09.720	ID:2	HC GRADIENT mode strobe
+26:09.721	ID:2	result: 3
+26:09.722	ID:2	send packet
+26:09.727	ID:2	HC GRADIENT mode strobe
+26:09.728	ID:2	result: 3
+26:09.729	ID:2	send packet
+26:09.734	ID:2	HC GRADIENT mode strobe
+26:09.735	ID:2	result: 3
+26:09.736	ID:2	send packet
+26:09.741	ID:2	HC GRADIENT mode strobe
+26:09.742	ID:2	result: 3
+26:09.742	ID:2	send packet
+26:09.748	ID:2	HC GRADIENT mode strobe
+26:09.748	ID:2	result: 3
+26:09.749	ID:2	send packet
+26:09.754	ID:2	HC GRADIENT mode strobe
+26:09.755	ID:2	result: 3
+26:09.756	ID:2	go to sleep
+26:09.761	ID:2	wakeups: 25, dc: 3, Tw: 1104
+26:10.464	ID:7	2 7 3
+26:10.467	ID:7	power: 404418
+26:10.470	ID:7	6 404418 54
+26:10.471	ID:7	result: 1
+26:10.472	ID:7	go to sleep
+26:10.477	ID:7	wakeups: 3, dc: 54, Tw: 1239
+26:10.829	ID:4	send packet
+26:10.834	ID:4	HC GRADIENT mode strobe
+26:10.835	ID:4	result: 3
+26:10.835	ID:4	send packet
+26:10.840	ID:4	HC GRADIENT mode strobe
+26:10.841	ID:4	result: 3
+26:10.842	ID:4	send packet
+26:10.847	ID:4	HC GRADIENT mode strobe
+26:10.848	ID:4	result: 3
+26:10.849	ID:4	send packet
+26:10.854	ID:4	HC GRADIENT mode strobe
+26:10.855	ID:4	result: 3
+26:10.856	ID:4	send packet
+26:10.861	ID:4	HC GRADIENT mode strobe
+26:10.862	ID:4	result: 3
+26:10.863	ID:4	send packet
+26:10.868	ID:4	HC GRADIENT mode strobe
+26:10.869	ID:4	result: 3
+26:10.869	ID:4	go to sleep
+26:10.874	ID:4	wakeups: 25, dc: 3, Tw: 1256
+26:11.108	ID:8	send packet
+26:11.113	ID:8	HC GRADIENT mode strobe
+26:11.114	ID:8	result: 3
+26:11.114	ID:8	send packet
+26:11.120	ID:8	HC GRADIENT mode strobe
+26:11.120	ID:8	result: 3
+26:11.121	ID:8	send packet
+26:11.126	ID:8	HC GRADIENT mode strobe
+26:11.127	ID:8	result: 3
+26:11.128	ID:8	send packet
+26:11.133	ID:8	HC GRADIENT mode strobe
+26:11.134	ID:8	result: 3
+26:11.135	ID:8	send packet
+26:11.140	ID:8	HC GRADIENT mode strobe
+26:11.141	ID:8	result: 3
+26:11.142	ID:8	send packet
+26:11.147	ID:8	HC GRADIENT mode strobe
+26:11.148	ID:8	result: 3
+26:11.148	ID:8	go to sleep
+26:11.153	ID:8	wakeups: 1, dc: 48, Tw: 1393
+26:13.728	ID:9	send packet
+26:13.733	ID:9	HC GRADIENT mode strobe
+26:13.736	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 30
+26:14.741	ID:9	current_state: 3, collisions: 0
+26:14.742	ID:9	2 9 1
+26:14.745	ID:9	power: 403110
+26:14.748	ID:9	6 403110 4
+26:14.749	ID:9	result: 1
+26:14.750	ID:9	go to sleep
+26:14.754	ID:9	wakeups: 1, dc: 4, Tw: 1123
+26:16.661	ID:3	send packet
+26:16.666	ID:3	HC GRADIENT mode strobe
+26:16.669	ID:3	Beacon send DATA: 9, TTL: 2, SEQ: 27
+26:17.673	ID:3	2 3 1
+26:17.676	ID:3	power: 127038
+26:17.679	ID:3	6 127038 34
+26:17.680	ID:3	result: 1
+26:17.681	ID:3	go to sleep
+26:17.686	ID:3	wakeups: 1, dc: 34, Tw: 1537
+26:17.762	ID:6	send packet
+26:17.767	ID:6	HC GRADIENT mode strobe
+26:17.770	ID:6	Beacon send DATA: 9, TTL: 1, SEQ: 29
+26:18.380	ID:2	send packet
+26:18.386	ID:2	HC GRADIENT mode strobe
+26:18.386	ID:2	result: 3
+26:18.387	ID:2	send packet
+26:18.392	ID:2	HC GRADIENT mode strobe
+26:18.393	ID:2	result: 3
+26:18.394	ID:2	send packet
+26:18.399	ID:2	HC GRADIENT mode strobe
+26:18.400	ID:2	result: 3
+26:18.401	ID:2	send packet
+26:18.406	ID:2	HC GRADIENT mode strobe
+26:18.407	ID:2	result: 3
+26:18.408	ID:2	send packet
+26:18.413	ID:2	HC GRADIENT mode strobe
+26:18.413	ID:2	result: 3
+26:18.414	ID:2	go to sleep
+26:18.419	ID:2	wakeups: 25, dc: 3, Tw: 1054
+26:18.774	ID:6	2 6 1
+26:18.777	ID:6	power: 570312
+26:18.780	ID:6	6 570312 22
+26:18.781	ID:6	result: 1
+26:18.782	ID:6	go to sleep
+26:18.787	ID:6	wakeups: 1, dc: 22, Tw: 1528
+26:20.016	ID:5	send packet
+26:20.021	ID:5	HC GRADIENT mode strobe
+26:20.022	ID:5	result: 3
+26:20.022	ID:5	send packet
+26:20.028	ID:5	HC GRADIENT mode strobe
+26:20.028	ID:5	result: 3
+26:20.029	ID:5	send packet
+26:20.034	ID:5	HC GRADIENT mode strobe
+26:20.035	ID:5	result: 3
+26:20.036	ID:5	send packet
+26:20.041	ID:5	HC GRADIENT mode strobe
+26:20.042	ID:5	result: 3
+26:20.043	ID:5	send packet
+26:20.048	ID:5	HC GRADIENT mode strobe
+26:20.049	ID:5	result: 3
+26:20.050	ID:5	send packet
+26:20.055	ID:5	HC GRADIENT mode strobe
+26:20.056	ID:5	result: 3
+26:20.056	ID:5	send packet
+26:20.061	ID:5	HC GRADIENT mode strobe
+26:20.062	ID:5	result: 3
+26:20.063	ID:5	go to sleep
+26:20.068	ID:5	wakeups: 1, dc: 43, Tw: 1187
+26:20.155	ID:7	send packet
+26:20.161	ID:7	HC GRADIENT mode strobe
+26:20.163	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 23
+26:20.680	ID:4	send packet
+26:20.682	ID:4	HC_GRADIENT mode rx
+26:20.684	ID:7	5 7 4
+26:20.686	ID:4	result: 2
+26:20.686	ID:7	2 4 3
+26:20.687	ID:4	send packet
+26:20.689	ID:7	power: 436158
+26:20.692	ID:4	HC GRADIENT mode strobe
+26:20.692	ID:7	6 436158 54
+26:20.693	ID:7	result: 1
+26:20.694	ID:7	go to sleep
+26:20.695	ID:4	Beacon send DATA: 9, TTL: 3, SEQ: 23
+26:20.698	ID:4	5 4 1
+26:20.699	ID:7	wakeups: 3, dc: 54, Tw: 1027
+26:20.699	ID:1	9 23 4 25
+26:20.700	ID:4	2 1 65
+26:20.703	ID:4	power: 316800
+26:20.706	ID:4	6 316800 3
+26:20.707	ID:4	result: 1
+26:20.708	ID:4	send packet
+26:20.713	ID:4	HC GRADIENT mode strobe
+26:20.714	ID:4	result: 3
+26:20.715	ID:4	send packet
+26:20.720	ID:4	HC GRADIENT mode strobe
+26:20.720	ID:4	result: 3
+26:20.721	ID:4	go to sleep
+26:20.726	ID:4	wakeups: 25, dc: 3, Tw: 1156
+26:22.030	ID:8	send packet
+26:22.035	ID:8	HC GRADIENT mode strobe
+26:22.036	ID:8	result: 3
+26:22.036	ID:8	send packet
+26:22.041	ID:8	HC GRADIENT mode strobe
+26:22.042	ID:8	result: 3
+26:22.043	ID:8	send packet
+26:22.048	ID:8	HC GRADIENT mode strobe
+26:22.049	ID:8	result: 3
+26:22.050	ID:8	send packet
+26:22.055	ID:8	HC GRADIENT mode strobe
+26:22.056	ID:8	result: 3
+26:22.057	ID:8	send packet
+26:22.062	ID:8	HC GRADIENT mode strobe
+26:22.063	ID:8	result: 3
+26:22.063	ID:8	send packet
+26:22.069	ID:8	HC GRADIENT mode strobe
+26:22.069	ID:8	result: 3
+26:22.070	ID:8	go to sleep
+26:22.075	ID:8	wakeups: 1, dc: 48, Tw: 1300
+26:23.525	ID:9	send packet
+26:23.530	ID:9	HC GRADIENT mode strobe
+26:23.533	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 30
+26:24.538	ID:9	current_state: 3, collisions: 0
+26:24.539	ID:9	2 9 1
+26:24.542	ID:9	power: 463896
+26:24.545	ID:9	6 463896 4
+26:24.546	ID:9	result: 1
+26:24.547	ID:9	go to sleep
+26:24.551	ID:9	wakeups: 1, dc: 4, Tw: 1285
+26:26.654	ID:2	send packet
+26:26.659	ID:2	HC GRADIENT mode strobe
+26:26.660	ID:2	result: 3
+26:26.661	ID:2	send packet
+26:26.666	ID:2	HC GRADIENT mode strobe
+26:26.667	ID:2	result: 3
+26:26.667	ID:2	send packet
+26:26.673	ID:2	HC GRADIENT mode strobe
+26:26.673	ID:2	result: 3
+26:26.674	ID:2	send packet
+26:26.679	ID:2	HC GRADIENT mode strobe
+26:26.680	ID:2	result: 3
+26:26.681	ID:2	send packet
+26:26.686	ID:2	HC GRADIENT mode strobe
+26:26.687	ID:2	result: 3
+26:26.688	ID:2	send packet
+26:26.693	ID:2	HC GRADIENT mode strobe
+26:26.694	ID:2	result: 3
+26:26.695	ID:2	go to sleep
+26:26.699	ID:2	wakeups: 25, dc: 3, Tw: 1005
+26:28.718	ID:7	send packet
+26:28.723	ID:7	HC GRADIENT mode strobe
+26:28.726	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 24
+26:29.336	ID:5	send packet
+26:29.341	ID:5	HC GRADIENT mode strobe
+26:29.342	ID:5	result: 3
+26:29.343	ID:5	send packet
+26:29.348	ID:5	HC GRADIENT mode strobe
+26:29.349	ID:5	result: 3
+26:29.350	ID:5	send packet
+26:29.355	ID:5	HC GRADIENT mode strobe
+26:29.355	ID:5	result: 3
+26:29.356	ID:5	send packet
+26:29.361	ID:5	HC GRADIENT mode strobe
+26:29.362	ID:5	result: 3
+26:29.363	ID:5	send packet
+26:29.368	ID:5	HC GRADIENT mode strobe
+26:29.369	ID:5	result: 3
+26:29.370	ID:5	go to sleep
+26:29.375	ID:5	wakeups: 1, dc: 43, Tw: 1450
+26:29.692	ID:3	send packet
+26:29.697	ID:3	HC GRADIENT mode strobe
+26:29.700	ID:3	Beacon send DATA: 9, TTL: 2, SEQ: 27
+26:29.730	ID:7	2 7 3
+26:29.733	ID:7	power: 496788
+26:29.736	ID:7	6 496788 54
+26:29.737	ID:7	result: 1
+26:29.738	ID:7	go to sleep
+26:29.743	ID:7	wakeups: 3, dc: 54, Tw: 1217
+26:29.758	ID:4	send packet
+26:29.763	ID:4	HC GRADIENT mode strobe
+26:29.764	ID:4	result: 3
+26:29.765	ID:4	send packet
+26:29.770	ID:4	HC GRADIENT mode strobe
+26:29.771	ID:4	result: 3
+26:29.772	ID:4	send packet
+26:29.777	ID:4	HC GRADIENT mode strobe
+26:29.778	ID:4	result: 3
+26:29.779	ID:4	send packet
+26:29.784	ID:4	HC GRADIENT mode strobe
+26:29.785	ID:4	result: 3
+26:29.785	ID:4	send packet
+26:29.790	ID:4	HC GRADIENT mode strobe
+26:29.791	ID:4	result: 3
+26:29.792	ID:4	send packet
+26:29.797	ID:4	HC GRADIENT mode strobe
+26:29.798	ID:4	result: 3
+26:29.799	ID:4	send packet
+26:29.804	ID:4	HC GRADIENT mode strobe
+26:29.805	ID:4	result: 3
+26:29.806	ID:4	go to sleep
+26:29.811	ID:4	wakeups: 25, dc: 3, Tw: 1310
+26:30.704	ID:3	2 3 1
+26:30.707	ID:3	power: 187662
+26:30.710	ID:3	6 187662 34
+26:30.711	ID:3	result: 1
+26:30.712	ID:3	go to sleep
+26:30.717	ID:3	wakeups: 1, dc: 34, Tw: 1170
+26:30.723	ID:6	send packet
+26:30.728	ID:6	HC GRADIENT mode strobe
+26:30.731	ID:6	Beacon send DATA: 9, TTL: 1, SEQ: 29
+26:31.735	ID:6	2 6 1
+26:31.738	ID:6	power: 630942
+26:31.741	ID:6	6 630942 23
+26:31.742	ID:6	result: 1
+26:31.743	ID:6	go to sleep
+26:31.748	ID:6	wakeups: 1, dc: 23, Tw: 1133
+26:32.225	ID:8	send packet
+26:32.230	ID:8	HC GRADIENT mode strobe
+26:32.231	ID:8	result: 3
+26:32.232	ID:8	send packet
+26:32.237	ID:8	HC GRADIENT mode strobe
+26:32.238	ID:8	result: 3
+26:32.238	ID:8	send packet
+26:32.244	ID:8	HC GRADIENT mode strobe
+26:32.244	ID:8	result: 3
+26:32.245	ID:8	send packet
+26:32.250	ID:8	HC GRADIENT mode strobe
+26:32.251	ID:8	result: 3
+26:32.252	ID:8	send packet
+26:32.257	ID:8	HC GRADIENT mode strobe
+26:32.258	ID:8	result: 3
+26:32.259	ID:8	send packet
+26:32.264	ID:8	HC GRADIENT mode strobe
+26:32.265	ID:8	result: 3
+26:32.266	ID:8	go to sleep
+26:32.270	ID:8	wakeups: 1, dc: 48, Tw: 951
+26:34.544	ID:2	send packet
+26:34.550	ID:2	HC GRADIENT mode strobe
+26:34.550	ID:2	result: 3
+26:34.551	ID:2	send packet
+26:34.556	ID:2	HC GRADIENT mode strobe
+26:34.557	ID:2	result: 3
+26:34.558	ID:2	send packet
+26:34.563	ID:2	HC GRADIENT mode strobe
+26:34.564	ID:2	result: 3
+26:34.565	ID:2	send packet
+26:34.570	ID:2	HC GRADIENT mode strobe
+26:34.571	ID:2	result: 3
+26:34.572	ID:2	send packet
+26:34.577	ID:2	HC GRADIENT mode strobe
+26:34.578	ID:2	result: 3
+26:34.578	ID:2	send packet
+26:34.583	ID:2	HC GRADIENT mode strobe
+26:34.584	ID:2	result: 3
+26:34.585	ID:2	send packet
+26:34.587	ID:9	send packet
+26:34.590	ID:2	HC GRADIENT mode strobe
+26:34.591	ID:2	result: 3
+26:34.592	ID:2	go to sleep
+26:34.592	ID:9	HC GRADIENT mode strobe
+26:34.595	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 30
+26:34.597	ID:2	wakeups: 25, dc: 3, Tw: 1159
+26:35.600	ID:9	current_state: 3, collisions: 0
+26:35.602	ID:9	2 9 1
+26:35.605	ID:9	power: 524682
+26:35.608	ID:9	6 524682 5
+26:35.609	ID:9	result: 1
+26:35.609	ID:9	go to sleep
+26:35.614	ID:9	wakeups: 1, dc: 5, Tw: 1568
+26:39.249	ID:7	send packet
+26:39.254	ID:7	HC GRADIENT mode strobe
+26:39.257	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 24
+26:39.694	ID:8	send packet
+26:39.698	ID:8	HC_GRADIENT mode rx
+26:39.701	ID:8	drop because 2 is smaller then 3
+26:39.703	ID:8	packet from 7 is dropped
+26:39.704	ID:8	result: 9
+26:39.705	ID:8	send packet
+26:39.706	ID:8	HC_GRADIENT mode rx
+26:39.709	ID:8	drop because 2 is smaller then 3
+26:39.711	ID:8	packet from 7 is dropped
+26:39.712	ID:8	result: 9
+26:39.713	ID:8	send packet
+26:39.715	ID:8	HC_GRADIENT mode rx
+26:39.717	ID:8	drop because 2 is smaller then 3
+26:39.719	ID:8	packet from 7 is dropped
+26:39.720	ID:8	result: 9
+26:39.721	ID:8	send packet
+26:39.723	ID:8	HC_GRADIENT mode rx
+26:39.726	ID:8	drop because 2 is smaller then 3
+26:39.728	ID:8	packet from 7 is dropped
+26:39.729	ID:8	result: 9
+26:39.730	ID:8	send packet
+26:39.731	ID:8	HC_GRADIENT mode rx
+26:39.734	ID:8	drop because 2 is smaller then 3
+26:39.736	ID:8	packet from 7 is dropped
+26:39.737	ID:8	result: 9
+26:39.738	ID:8	go to sleep
+26:39.743	ID:8	wakeups: 1, dc: 48, Tw: 1409
+26:39.856	ID:3	send packet
+26:39.861	ID:3	HC GRADIENT mode strobe
+26:39.864	ID:3	Beacon send DATA: 9, TTL: 2, SEQ: 27
+26:40.040	ID:4	send packet
+26:40.042	ID:4	HC_GRADIENT mode rx
+26:40.045	ID:7	5 7 4
+26:40.046	ID:4	result: 2
+26:40.046	ID:7	2 4 2
+26:40.047	ID:4	send packet
+26:40.049	ID:7	power: 544524
+26:40.052	ID:4	HC GRADIENT mode strobe
+26:40.052	ID:7	6 544524 54
+26:40.054	ID:7	result: 1
+26:40.054	ID:7	go to sleep
+26:40.055	ID:4	Beacon send DATA: 9, TTL: 3, SEQ: 24
+26:40.059	ID:7	wakeups: 2, dc: 54, Tw: 1335
+26:40.598	ID:6	send packet
+26:40.602	ID:3	collision
+26:40.602	ID:6	result: 8
+26:40.603	ID:6	send packet
+26:40.604	ID:3	result: 1
+26:40.605	ID:3	go to sleep
+26:40.608	ID:4	5 4 1
+26:40.608	ID:6	HC GRADIENT mode strobe
+26:40.609	ID:1	9 24 4 26
+26:40.609	ID:3	wakeups: 1, dc: 34, Tw: 1262
+26:40.610	ID:4	2 1 6
+26:40.611	ID:6	Beacon send DATA: 9, TTL: 1, SEQ: 29
+26:40.612	ID:4	power: 353490
+26:40.615	ID:4	6 353490 3
+26:40.617	ID:4	result: 1
+26:40.617	ID:4	go to sleep
+26:40.622	ID:4	wakeups: 6, dc: 3, Tw: 1576
+26:40.703	ID:5	send packet
+26:40.705	ID:5	HC_GRADIENT mode rx
+26:40.707	ID:6	5 6 5
+26:40.709	ID:5	result: 2
+26:40.709	ID:6	2 5 1
+26:40.710	ID:5	send packet
+26:40.712	ID:6	power: 637410
+26:40.715	ID:5	HC GRADIENT mode strobe
+26:40.715	ID:6	6 637410 23
+26:40.716	ID:6	result: 1
+26:40.717	ID:6	go to sleep
+26:40.718	ID:5	Beacon send DATA: 9, TTL: 2, SEQ: 29
+26:40.722	ID:6	wakeups: 1, dc: 23, Tw: 1175
+26:41.722	ID:5	2 5 1
+26:41.724	ID:5	power: 34032
+26:41.727	ID:5	6 34032 33
+26:41.728	ID:5	result: 1
+26:41.729	ID:5	go to sleep
+26:41.734	ID:5	wakeups: 1, dc: 33, Tw: 1480
+26:43.646	ID:2	send packet
+26:43.651	ID:2	HC GRADIENT mode strobe
+26:43.652	ID:2	result: 3
+26:43.653	ID:2	send packet
+26:43.658	ID:2	HC GRADIENT mode strobe
+26:43.659	ID:2	result: 3
+26:43.660	ID:2	send packet
+26:43.665	ID:2	HC GRADIENT mode strobe
+26:43.666	ID:2	result: 3
+26:43.666	ID:2	send packet
+26:43.671	ID:2	HC GRADIENT mode strobe
+26:43.672	ID:2	result: 3
+26:43.673	ID:2	send packet
+26:43.678	ID:2	HC GRADIENT mode strobe
+26:43.679	ID:2	result: 3
+26:43.680	ID:2	send packet
+26:43.685	ID:2	HC GRADIENT mode strobe
+26:43.686	ID:2	result: 3
+26:43.687	ID:2	send packet
+26:43.692	ID:2	HC GRADIENT mode strobe
+26:43.693	ID:2	result: 3
+26:43.694	ID:2	go to sleep
+26:43.698	ID:2	wakeups: 25, dc: 3, Tw: 1203
+26:47.861	ID:9	send packet
+26:47.866	ID:9	HC GRADIENT mode strobe
+26:47.869	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 30
+26:48.873	ID:9	current_state: 3, collisions: 0
+26:48.875	ID:9	2 9 1
+26:48.878	ID:9	power: 585456
+26:48.881	ID:9	6 585456 6
+26:48.882	ID:9	result: 1
+26:48.883	ID:9	go to sleep
+26:48.887	ID:9	wakeups: 1, dc: 6, Tw: 1533
+26:49.903	ID:6	send packet
+26:49.908	ID:6	HC GRADIENT mode strobe
+26:49.909	ID:6	result: 3
+26:49.910	ID:6	send packet
+26:49.915	ID:6	HC GRADIENT mode strobe
+26:49.916	ID:6	result: 3
+26:49.916	ID:6	send packet
+26:49.921	ID:6	HC GRADIENT mode strobe
+26:49.922	ID:6	result: 3
+26:49.923	ID:6	send packet
+26:49.928	ID:6	HC GRADIENT mode strobe
+26:49.929	ID:6	result: 3
+26:49.930	ID:6	send packet
+26:49.935	ID:6	HC GRADIENT mode strobe
+26:49.936	ID:6	result: 3
+26:49.937	ID:6	send packet
+26:49.942	ID:6	HC GRADIENT mode strobe
+26:49.943	ID:6	result: 3
+26:49.944	ID:6	send packet
+26:49.949	ID:6	HC GRADIENT mode strobe
+26:49.949	ID:6	result: 3
+26:49.950	ID:6	go to sleep
+26:49.955	ID:6	wakeups: 1, dc: 23, Tw: 1360
+26:50.466	ID:3	send packet
+26:50.471	ID:3	HC GRADIENT mode strobe
+26:50.474	ID:3	Beacon send DATA: 9, TTL: 2, SEQ: 27
+26:50.484	ID:7	send packet
+26:50.489	ID:7	HC GRADIENT mode strobe
+26:50.492	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 25
+26:50.748	ID:8	send packet
+26:50.752	ID:8	HC_GRADIENT mode rx
+26:50.755	ID:8	drop because 2 is smaller then 3
+26:50.757	ID:8	packet from 7 is dropped
+26:50.758	ID:8	result: 9
+26:50.758	ID:8	send packet
+26:50.760	ID:8	HC_GRADIENT mode rx
+26:50.763	ID:8	drop because 2 is smaller then 3
+26:50.765	ID:8	packet from 7 is dropped
+26:50.766	ID:8	result: 9
+26:50.767	ID:8	send packet
+26:50.769	ID:8	HC_GRADIENT mode rx
+26:50.771	ID:8	drop because 2 is smaller then 3
+26:50.773	ID:8	packet from 7 is dropped
+26:50.774	ID:8	result: 9
+26:50.775	ID:8	send packet
+26:50.777	ID:8	HC_GRADIENT mode rx
+26:50.780	ID:8	drop because 2 is smaller then 3
+26:50.782	ID:8	packet from 7 is dropped
+26:50.783	ID:8	result: 9
+26:50.783	ID:8	go to sleep
+26:50.788	ID:8	wakeups: 1, dc: 48, Tw: 1373
+26:51.477	ID:3	2 3 1
+26:51.480	ID:3	power: 293076
+26:51.483	ID:3	6 293076 35
+26:51.485	ID:3	result: 1
+26:51.485	ID:3	go to sleep
+26:51.490	ID:3	wakeups: 1, dc: 35, Tw: 1495
+26:51.496	ID:7	2 7 2
+26:51.499	ID:7	power: 605172
+26:51.502	ID:7	6 605172 55
+26:51.503	ID:7	result: 1
+26:51.504	ID:7	go to sleep
+26:51.509	ID:7	wakeups: 2, dc: 55, Tw: 1073
+26:52.930	ID:4	send packet
+26:52.935	ID:4	HC GRADIENT mode strobe
+26:52.936	ID:4	result: 3
+26:52.937	ID:4	send packet
+26:52.942	ID:4	HC GRADIENT mode strobe
+26:52.943	ID:4	result: 3
+26:52.944	ID:4	send packet
+26:52.949	ID:4	HC GRADIENT mode strobe
+26:52.950	ID:4	result: 3
+26:52.951	ID:4	send packet
+26:52.956	ID:4	HC GRADIENT mode strobe
+26:52.956	ID:4	result: 3
+26:52.957	ID:4	send packet
+26:52.962	ID:4	HC GRADIENT mode strobe
+26:52.963	ID:4	result: 3
+26:52.964	ID:4	send packet
+26:52.969	ID:4	HC GRADIENT mode strobe
+26:52.970	ID:4	result: 3
+26:52.971	ID:4	go to sleep
+26:52.975	ID:4	wakeups: 6, dc: 3, Tw: 1451
+26:53.091	ID:2	send packet
+26:53.096	ID:2	HC GRADIENT mode strobe
+26:53.097	ID:2	result: 3
+26:53.098	ID:2	send packet
+26:53.103	ID:2	HC GRADIENT mode strobe
+26:53.104	ID:2	result: 3
+26:53.105	ID:2	send packet
+26:53.110	ID:2	HC GRADIENT mode strobe
+26:53.111	ID:2	result: 3
+26:53.112	ID:2	send packet
+26:53.117	ID:2	HC GRADIENT mode strobe
+26:53.118	ID:2	result: 3
+26:53.118	ID:2	send packet
+26:53.124	ID:2	HC GRADIENT mode strobe
+26:53.124	ID:2	result: 3
+26:53.125	ID:2	send packet
+26:53.130	ID:2	HC GRADIENT mode strobe
+26:53.131	ID:2	result: 3
+26:53.132	ID:2	send packet
+26:53.137	ID:2	HC GRADIENT mode strobe
+26:53.138	ID:2	result: 3
+26:53.139	ID:2	go to sleep
+26:53.144	ID:2	wakeups: 25, dc: 3, Tw: 1291
+26:53.297	ID:5	send packet
+26:53.302	ID:5	HC GRADIENT mode strobe
+26:53.305	ID:5	Beacon send DATA: 9, TTL: 2, SEQ: 29
+26:54.309	ID:5	2 5 1
+26:54.311	ID:5	power: 94662
+26:54.314	ID:5	6 94662 33
+26:54.315	ID:5	result: 1
+26:54.316	ID:5	go to sleep
+26:54.321	ID:5	wakeups: 1, dc: 33, Tw: 1056
+26:59.890	ID:7	send packet
+26:59.895	ID:7	HC GRADIENT mode strobe
+26:59.898	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 25
+27:00.575	ID:6	send packet
+27:00.580	ID:6	HC GRADIENT mode strobe
+27:00.581	ID:6	result: 3
+27:00.581	ID:6	send packet
+27:00.587	ID:6	HC GRADIENT mode strobe
+27:00.587	ID:6	result: 3
+27:00.588	ID:6	send packet
+27:00.593	ID:6	HC GRADIENT mode strobe
+27:00.594	ID:6	result: 3
+27:00.595	ID:6	send packet
+27:00.600	ID:6	HC GRADIENT mode strobe
+27:00.601	ID:6	result: 3
+27:00.602	ID:6	send packet
+27:00.607	ID:6	HC GRADIENT mode strobe
+27:00.608	ID:6	result: 3
+27:00.609	ID:6	send packet
+27:00.614	ID:6	HC GRADIENT mode strobe
+27:00.615	ID:6	result: 3
+27:00.615	ID:6	send packet
+27:00.620	ID:6	HC GRADIENT mode strobe
+27:00.621	ID:6	result: 3
+27:00.622	ID:6	go to sleep
+27:00.627	ID:6	wakeups: 1, dc: 23, Tw: 983
+27:00.861	ID:9	send packet
+27:00.866	ID:9	HC GRADIENT mode strobe
+27:00.869	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 30
+27:00.902	ID:7	2 7 2
+27:00.905	ID:7	power: 665796
+27:00.908	ID:7	6 665796 55
+27:00.909	ID:7	result: 1
+27:00.910	ID:7	go to sleep
+27:00.914	ID:7	wakeups: 2, dc: 55, Tw: 1066
+27:01.514	ID:8	send packet
+27:01.518	ID:8	HC_GRADIENT mode rx
+27:01.521	ID:9	current_state: 5, collisions: 0
+27:01.522	ID:9	5 9 8
+27:01.522	ID:8	result: 5
+27:01.523	ID:8	send packet
+27:01.524	ID:9	2 8 1
+27:01.527	ID:9	power: 625176
+27:01.528	ID:8	HC GRADIENT mode strobe
+27:01.530	ID:9	6 625176 6
+27:01.531	ID:9	result: 1
+27:01.531	ID:8	Beacon send DATA: 9, TTL: 1, SEQ: 30
+27:01.532	ID:9	go to sleep
+27:01.536	ID:9	wakeups: 1, dc: 6, Tw: 1419
+27:02.535	ID:8	2 8 1
+27:02.538	ID:8	power: 561324
+27:02.541	ID:8	6 561324 46
+27:02.542	ID:8	result: 1
+27:02.543	ID:8	go to sleep
+27:02.548	ID:8	wakeups: 1, dc: 46, Tw: 1373
+27:02.570	ID:5	send packet
+27:02.575	ID:5	HC GRADIENT mode strobe
+27:02.578	ID:5	Beacon send DATA: 9, TTL: 2, SEQ: 29
+27:03.169	ID:3	send packet
+27:03.174	ID:3	HC GRADIENT mode strobe
+27:03.177	ID:3	Beacon send DATA: 9, TTL: 2, SEQ: 27
+27:03.224	ID:2	send packet
+27:03.226	ID:2	HC_GRADIENT mode rx
+27:03.228	ID:3	5 3 2
+27:03.230	ID:2	result: 2
+27:03.230	ID:3	2 2 1
+27:03.231	ID:2	send packet
+27:03.233	ID:3	power: 296670
+27:03.233	ID:2	HC_GRADIENT mode rx
+27:03.235	ID:5	5 5 2
+27:03.236	ID:3	6 296670 35
+27:03.237	ID:2	result: 2
+27:03.237	ID:5	2 2 1
+27:03.237	ID:3	result: 1
+27:03.238	ID:2	send packet
+27:03.238	ID:3	go to sleep
+27:03.240	ID:5	power: 134574
+27:03.243	ID:2	HC GRADIENT mode strobe
+27:03.243	ID:3	wakeups: 1, dc: 35, Tw: 1076
+27:03.243	ID:5	6 134574 33
+27:03.244	ID:5	result: 1
+27:03.245	ID:5	go to sleep
+27:03.246	ID:2	Beacon send DATA: 9, TTL: 3, SEQ: 27
+27:03.249	ID:2	5 2 1
+27:03.250	ID:1	9 27 4 27
+27:03.250	ID:5	wakeups: 1, dc: 33, Tw: 1371
+27:03.251	ID:2	2 1 65
+27:03.254	ID:2	power: 297696
+27:03.257	ID:2	6 297696 3
+27:03.258	ID:2	result: 1
+27:03.259	ID:2	send packet
+27:03.264	ID:2	HC GRADIENT mode strobe
+27:03.267	ID:2	Beacon send DATA: 9, TTL: 3, SEQ: 29
+27:03.270	ID:2	5 2 1
+27:03.271	ID:1	9 29 4 28
+27:03.272	ID:2	2 1 65
+27:03.275	ID:2	power: 298392
+27:03.278	ID:2	6 298392 3
+27:03.279	ID:2	result: 1
+27:03.280	ID:2	go to sleep
+27:03.285	ID:2	wakeups: 25, dc: 3, Tw: 1437
+27:04.305	ID:4	send packet
+27:04.310	ID:4	HC GRADIENT mode strobe
+27:04.311	ID:4	result: 3
+27:04.312	ID:4	send packet
+27:04.317	ID:4	HC GRADIENT mode strobe
+27:04.318	ID:4	result: 3
+27:04.319	ID:4	send packet
+27:04.324	ID:4	HC GRADIENT mode strobe
+27:04.325	ID:4	result: 3
+27:04.326	ID:4	send packet
+27:04.331	ID:4	HC GRADIENT mode strobe
+27:04.331	ID:4	result: 3
+27:04.332	ID:4	send packet
+27:04.337	ID:4	HC GRADIENT mode strobe
+27:04.338	ID:4	result: 3
+27:04.339	ID:4	go to sleep
+27:04.343	ID:4	wakeups: 6, dc: 3, Tw: 1206
+27:08.301	ID:6	send packet
+27:08.306	ID:6	HC GRADIENT mode strobe
+27:08.307	ID:6	result: 3
+27:08.308	ID:6	send packet
+27:08.313	ID:6	HC GRADIENT mode strobe
+27:08.314	ID:6	result: 3
+27:08.315	ID:6	send packet
+27:08.320	ID:6	HC GRADIENT mode strobe
+27:08.321	ID:6	result: 3
+27:08.322	ID:6	send packet
+27:08.327	ID:6	HC GRADIENT mode strobe
+27:08.328	ID:6	result: 3
+27:08.328	ID:6	send packet
+27:08.333	ID:6	HC GRADIENT mode strobe
+27:08.334	ID:6	result: 3
+27:08.335	ID:6	send packet
+27:08.340	ID:6	HC GRADIENT mode strobe
+27:08.341	ID:6	result: 3
+27:08.342	ID:6	go to sleep
+27:08.347	ID:6	wakeups: 1, dc: 23, Tw: 1194
+27:09.241	ID:7	send packet
+27:09.246	ID:7	HC GRADIENT mode strobe
+27:09.249	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 25
+27:10.253	ID:7	2 7 2
+27:10.256	ID:7	power: 726426
+27:10.259	ID:7	6 726426 55
+27:10.260	ID:7	result: 1
+27:10.261	ID:7	go to sleep
+27:10.266	ID:7	wakeups: 2, dc: 55, Tw: 1451
+27:11.645	ID:3	send packet
+27:11.650	ID:3	HC GRADIENT mode strobe
+27:11.651	ID:3	result: 3
+27:11.652	ID:3	send packet
+27:11.657	ID:3	HC GRADIENT mode strobe
+27:11.658	ID:3	result: 3
+27:11.659	ID:3	send packet
+27:11.664	ID:3	HC GRADIENT mode strobe
+27:11.665	ID:3	result: 3
+27:11.666	ID:3	send packet
+27:11.671	ID:3	HC GRADIENT mode strobe
+27:11.672	ID:3	result: 3
+27:11.672	ID:3	send packet
+27:11.677	ID:3	HC GRADIENT mode strobe
+27:11.678	ID:3	result: 3
+27:11.679	ID:3	go to sleep
+27:11.684	ID:3	wakeups: 1, dc: 35, Tw: 1538
+27:12.618	ID:9	send packet
+27:12.623	ID:9	HC GRADIENT mode strobe
+27:12.626	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 31
+27:13.272	ID:8	send packet
+27:13.276	ID:8	HC_GRADIENT mode rx
+27:13.279	ID:9	current_state: 5, collisions: 0
+27:13.280	ID:9	5 9 8
+27:13.280	ID:8	result: 5
+27:13.281	ID:8	send packet
+27:13.282	ID:9	2 8 1
+27:13.285	ID:9	power: 664908
+27:13.286	ID:8	HC GRADIENT mode strobe
+27:13.288	ID:9	6 664908 6
+27:13.289	ID:9	result: 1
+27:13.289	ID:8	Beacon send DATA: 9, TTL: 1, SEQ: 30
+27:13.290	ID:9	go to sleep
+27:13.294	ID:9	wakeups: 1, dc: 6, Tw: 1292
+27:13.766	ID:4	send packet
+27:13.771	ID:4	HC GRADIENT mode strobe
+27:13.772	ID:4	result: 3
+27:13.773	ID:4	send packet
+27:13.778	ID:4	HC GRADIENT mode strobe
+27:13.779	ID:4	result: 3
+27:13.780	ID:4	send packet
+27:13.785	ID:4	HC GRADIENT mode strobe
+27:13.786	ID:4	result: 3
+27:13.786	ID:4	send packet
+27:13.792	ID:4	HC GRADIENT mode strobe
+27:13.792	ID:4	result: 3
+27:13.793	ID:4	send packet
+27:13.798	ID:4	HC GRADIENT mode strobe
+27:13.799	ID:4	result: 3
+27:13.800	ID:4	send packet
+27:13.805	ID:4	HC GRADIENT mode strobe
+27:13.806	ID:4	result: 3
+27:13.807	ID:4	send packet
+27:13.812	ID:4	HC GRADIENT mode strobe
+27:13.813	ID:4	result: 3
+27:13.814	ID:4	go to sleep
+27:13.818	ID:4	wakeups: 6, dc: 3, Tw: 1230
+27:13.961	ID:5	send packet
+27:13.963	ID:5	HC_GRADIENT mode rx
+27:13.965	ID:8	5 8 5
+27:13.967	ID:5	result: 2
+27:13.967	ID:8	2 5 1
+27:13.968	ID:5	send packet
+27:13.970	ID:8	power: 602856
+27:13.973	ID:5	HC GRADIENT mode strobe
+27:13.973	ID:8	6 602856 46
+27:13.974	ID:8	result: 1
+27:13.975	ID:8	go to sleep
+27:13.976	ID:5	Beacon send DATA: 9, TTL: 2, SEQ: 30
+27:13.980	ID:8	wakeups: 1, dc: 46, Tw: 961
+27:14.505	ID:2	send packet
+27:14.508	ID:2	HC_GRADIENT mode rx
+27:14.510	ID:5	5 5 2
+27:14.512	ID:2	result: 2
+27:14.512	ID:5	2 2 1
+27:14.513	ID:2	send packet
+27:14.515	ID:5	power: 167448
+27:14.518	ID:2	HC GRADIENT mode strobe
+27:14.518	ID:5	6 167448 33
+27:14.519	ID:5	result: 1
+27:14.520	ID:5	go to sleep
+27:14.521	ID:2	Beacon send DATA: 9, TTL: 3, SEQ: 30
+27:14.524	ID:2	5 2 1
+27:14.525	ID:5	wakeups: 1, dc: 33, Tw: 1413
+27:14.525	ID:1	9 30 4 29
+27:14.526	ID:2	2 1 65
+27:14.529	ID:2	power: 299424
+27:14.532	ID:2	6 299424 3
+27:14.533	ID:2	result: 1
+27:14.534	ID:2	send packet
+27:14.539	ID:2	HC GRADIENT mode strobe
+27:14.540	ID:2	result: 3
+27:14.541	ID:2	go to sleep
+27:14.545	ID:2	wakeups: 25, dc: 3, Tw: 1246
+27:17.668	ID:6	send packet
+27:17.673	ID:6	HC GRADIENT mode strobe
+27:17.674	ID:6	result: 3
+27:17.675	ID:6	send packet
+27:17.680	ID:6	HC GRADIENT mode strobe
+27:17.681	ID:6	result: 3
+27:17.682	ID:6	send packet
+27:17.687	ID:6	HC GRADIENT mode strobe
+27:17.688	ID:6	result: 3
+27:17.689	ID:6	send packet
+27:17.694	ID:6	HC GRADIENT mode strobe
+27:17.695	ID:6	result: 3
+27:17.696	ID:6	send packet
+27:17.701	ID:6	HC GRADIENT mode strobe
+27:17.701	ID:6	result: 3
+27:17.702	ID:6	send packet
+27:17.707	ID:6	HC GRADIENT mode strobe
+27:17.708	ID:6	result: 3
+27:17.709	ID:6	send packet
+27:17.714	ID:6	HC GRADIENT mode strobe
+27:17.715	ID:6	result: 3
+27:17.716	ID:6	go to sleep
+27:17.721	ID:6	wakeups: 1, dc: 23, Tw: 1435
+27:21.483	ID:8	send packet
+27:21.488	ID:8	HC GRADIENT mode strobe
+27:21.491	ID:8	Beacon send DATA: 9, TTL: 1, SEQ: 31
+27:21.601	ID:7	send packet
+27:21.604	ID:7	HC_GRADIENT mode rx
+27:21.606	ID:8	5 8 7
+27:21.608	ID:7	result: 2
+27:21.608	ID:8	2 7 1
+27:21.609	ID:7	send packet
+27:21.611	ID:8	power: 610284
+27:21.614	ID:7	HC GRADIENT mode strobe
+27:21.614	ID:8	6 610284 46
+27:21.615	ID:8	result: 1
+27:21.616	ID:8	go to sleep
+27:21.617	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 25
+27:21.621	ID:8	wakeups: 1, dc: 46, Tw: 1035
+27:22.620	ID:7	2 7 2
+27:22.622	ID:7	power: 984
+27:22.625	ID:7	6 984 55
+27:22.626	ID:7	result: 1
+27:22.627	ID:7	go to sleep
+27:22.631	ID:7	wakeups: 2, dc: 55, Tw: 958
+27:23.384	ID:9	send packet
+27:23.389	ID:9	HC GRADIENT mode strobe
+27:23.392	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 32
+27:23.422	ID:4	send packet
+27:23.427	ID:4	HC GRADIENT mode strobe
+27:23.428	ID:4	result: 3
+27:23.429	ID:4	send packet
+27:23.434	ID:4	HC GRADIENT mode strobe
+27:23.435	ID:4	result: 3
+27:23.436	ID:4	send packet
+27:23.441	ID:4	HC GRADIENT mode strobe
+27:23.442	ID:4	result: 3
+27:23.443	ID:4	send packet
+27:23.448	ID:4	HC GRADIENT mode strobe
+27:23.449	ID:4	result: 3
+27:23.449	ID:4	send packet
+27:23.455	ID:4	HC GRADIENT mode strobe
+27:23.455	ID:4	result: 3
+27:23.456	ID:4	go to sleep
+27:23.461	ID:4	wakeups: 6, dc: 3, Tw: 1148
+27:23.700	ID:3	send packet
+27:23.705	ID:3	HC GRADIENT mode strobe
+27:23.706	ID:3	result: 3
+27:23.707	ID:3	send packet
+27:23.712	ID:3	HC GRADIENT mode strobe
+27:23.713	ID:3	result: 3
+27:23.713	ID:3	send packet
+27:23.719	ID:3	HC GRADIENT mode strobe
+27:23.719	ID:3	result: 3
+27:23.720	ID:3	send packet
+27:23.725	ID:3	HC GRADIENT mode strobe
+27:23.726	ID:3	result: 3
+27:23.727	ID:3	send packet
+27:23.732	ID:3	HC GRADIENT mode strobe
+27:23.733	ID:3	result: 3
+27:23.734	ID:3	go to sleep
+27:23.739	ID:3	wakeups: 1, dc: 35, Tw: 1194
+27:24.279	ID:2	send packet
+27:24.284	ID:2	HC GRADIENT mode strobe
+27:24.285	ID:2	result: 3
+27:24.286	ID:2	send packet
+27:24.291	ID:2	HC GRADIENT mode strobe
+27:24.292	ID:2	result: 3
+27:24.292	ID:2	send packet
+27:24.298	ID:2	HC GRADIENT mode strobe
+27:24.298	ID:2	result: 3
+27:24.299	ID:2	send packet
+27:24.304	ID:2	HC GRADIENT mode strobe
+27:24.305	ID:2	result: 3
+27:24.306	ID:2	send packet
+27:24.311	ID:2	HC GRADIENT mode strobe
+27:24.312	ID:2	result: 3
+27:24.313	ID:2	send packet
+27:24.318	ID:2	HC GRADIENT mode strobe
+27:24.319	ID:2	result: 3
+27:24.320	ID:2	go to sleep
+27:24.324	ID:2	wakeups: 25, dc: 3, Tw: 1455
+27:24.397	ID:9	current_state: 3, collisions: 0
+27:24.398	ID:9	2 9 1
+27:24.401	ID:9	power: 725688
+27:24.404	ID:9	6 725688 7
+27:24.405	ID:9	result: 1
+27:24.406	ID:9	go to sleep
+27:24.411	ID:9	wakeups: 1, dc: 7, Tw: 1369
+27:25.563	ID:5	send packet
+27:25.568	ID:5	HC GRADIENT mode strobe
+27:25.568	ID:5	result: 3
+27:25.569	ID:5	send packet
+27:25.574	ID:5	HC GRADIENT mode strobe
+27:25.575	ID:5	result: 3
+27:25.576	ID:5	send packet
+27:25.581	ID:5	HC GRADIENT mode strobe
+27:25.582	ID:5	result: 3
+27:25.583	ID:5	send packet
+27:25.588	ID:5	HC GRADIENT mode strobe
+27:25.589	ID:5	result: 3
+27:25.590	ID:5	send packet
+27:25.595	ID:5	HC GRADIENT mode strobe
+27:25.596	ID:5	result: 3
+27:25.596	ID:5	send packet
+27:25.602	ID:5	HC GRADIENT mode strobe
+27:25.602	ID:5	result: 3
+27:25.603	ID:5	go to sleep
+27:25.608	ID:5	wakeups: 1, dc: 33, Tw: 1285
+27:28.926	ID:6	send packet
+27:28.931	ID:6	HC GRADIENT mode strobe
+27:28.932	ID:6	result: 3
+27:28.933	ID:6	send packet
+27:28.938	ID:6	HC GRADIENT mode strobe
+27:28.939	ID:6	result: 3
+27:28.940	ID:6	send packet
+27:28.945	ID:6	HC GRADIENT mode strobe
+27:28.946	ID:6	result: 3
+27:28.947	ID:6	send packet
+27:28.952	ID:6	HC GRADIENT mode strobe
+27:28.953	ID:6	result: 3
+27:28.953	ID:6	send packet
+27:28.958	ID:6	HC GRADIENT mode strobe
+27:28.959	ID:6	result: 3
+27:28.960	ID:6	go to sleep
+27:28.965	ID:6	wakeups: 1, dc: 23, Tw: 1313
+27:29.701	ID:8	send packet
+27:29.707	ID:8	HC GRADIENT mode strobe
+27:29.707	ID:8	result: 3
+27:29.708	ID:8	send packet
+27:29.713	ID:8	HC GRADIENT mode strobe
+27:29.714	ID:8	result: 3
+27:29.715	ID:8	send packet
+27:29.720	ID:8	HC GRADIENT mode strobe
+27:29.721	ID:8	result: 3
+27:29.722	ID:8	send packet
+27:29.727	ID:8	HC GRADIENT mode strobe
+27:29.728	ID:8	result: 3
+27:29.729	ID:8	send packet
+27:29.734	ID:8	HC GRADIENT mode strobe
+27:29.735	ID:8	result: 3
+27:29.735	ID:8	send packet
+27:29.740	ID:8	HC GRADIENT mode strobe
+27:29.741	ID:8	result: 3
+27:29.742	ID:8	send packet
+27:29.747	ID:8	HC GRADIENT mode strobe
+27:29.748	ID:8	result: 3
+27:29.749	ID:8	go to sleep
+27:29.754	ID:8	wakeups: 1, dc: 46, Tw: 1421
+27:30.116	ID:7	send packet
+27:30.121	ID:7	HC GRADIENT mode strobe
+27:30.124	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 25
+27:31.128	ID:7	2 7 2
+27:31.131	ID:7	power: 61614
+27:31.134	ID:7	6 61614 56
+27:31.135	ID:7	result: 1
+27:31.136	ID:7	go to sleep
+27:31.140	ID:7	wakeups: 2, dc: 56, Tw: 1147
+27:32.430	ID:4	send packet
+27:32.435	ID:4	HC GRADIENT mode strobe
+27:32.436	ID:4	result: 3
+27:32.437	ID:4	send packet
+27:32.442	ID:4	HC GRADIENT mode strobe
+27:32.443	ID:4	result: 3
+27:32.444	ID:4	send packet
+27:32.449	ID:4	HC GRADIENT mode strobe
+27:32.450	ID:4	result: 3
+27:32.451	ID:4	send packet
+27:32.456	ID:4	HC GRADIENT mode strobe
+27:32.456	ID:4	result: 3
+27:32.457	ID:4	send packet
+27:32.462	ID:4	HC GRADIENT mode strobe
+27:32.463	ID:4	result: 3
+27:32.464	ID:4	send packet
+27:32.469	ID:4	HC GRADIENT mode strobe
+27:32.470	ID:4	result: 3
+27:32.471	ID:4	send packet
+27:32.476	ID:4	HC GRADIENT mode strobe
+27:32.477	ID:4	result: 3
+27:32.478	ID:4	go to sleep
+27:32.482	ID:4	wakeups: 6, dc: 3, Tw: 1258
+27:33.067	ID:3	send packet
+27:33.072	ID:3	HC GRADIENT mode strobe
+27:33.073	ID:3	result: 3
+27:33.074	ID:3	send packet
+27:33.079	ID:3	HC GRADIENT mode strobe
+27:33.080	ID:3	result: 3
+27:33.081	ID:3	send packet
+27:33.086	ID:3	HC GRADIENT mode strobe
+27:33.087	ID:3	result: 3
+27:33.087	ID:3	send packet
+27:33.093	ID:3	HC GRADIENT mode strobe
+27:33.093	ID:3	result: 3
+27:33.094	ID:3	send packet
+27:33.099	ID:3	HC GRADIENT mode strobe
+27:33.100	ID:3	result: 3
+27:33.101	ID:3	go to sleep
+27:33.106	ID:3	wakeups: 1, dc: 35, Tw: 1213
+27:35.103	ID:9	send packet
+27:35.108	ID:9	HC GRADIENT mode strobe
+27:35.111	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 32
+27:35.641	ID:5	send packet
+27:35.646	ID:5	HC GRADIENT mode strobe
+27:35.647	ID:5	result: 3
+27:35.647	ID:5	send packet
+27:35.653	ID:5	HC GRADIENT mode strobe
+27:35.653	ID:5	result: 3
+27:35.654	ID:5	send packet
+27:35.659	ID:5	HC GRADIENT mode strobe
+27:35.660	ID:5	result: 3
+27:35.661	ID:5	send packet
+27:35.666	ID:5	HC GRADIENT mode strobe
+27:35.667	ID:5	result: 3
+27:35.668	ID:5	send packet
+27:35.673	ID:5	HC GRADIENT mode strobe
+27:35.674	ID:5	result: 3
+27:35.675	ID:5	go to sleep
+27:35.679	ID:5	wakeups: 1, dc: 33, Tw: 1213
+27:35.685	ID:2	send packet
+27:35.690	ID:2	HC GRADIENT mode strobe
+27:35.691	ID:2	result: 3
+27:35.692	ID:2	send packet
+27:35.697	ID:2	HC GRADIENT mode strobe
+27:35.698	ID:2	result: 3
+27:35.699	ID:2	send packet
+27:35.704	ID:2	HC GRADIENT mode strobe
+27:35.705	ID:2	result: 3
+27:35.705	ID:2	send packet
+27:35.711	ID:2	HC GRADIENT mode strobe
+27:35.711	ID:2	result: 3
+27:35.712	ID:2	send packet
+27:35.717	ID:2	HC GRADIENT mode strobe
+27:35.718	ID:2	result: 3
+27:35.719	ID:2	go to sleep
+27:35.724	ID:2	wakeups: 25, dc: 3, Tw: 1526
+27:36.115	ID:9	current_state: 3, collisions: 0
+27:36.117	ID:9	2 9 1
+27:36.119	ID:9	power: 30
+27:36.120	ID:9	6 30 7
+27:36.121	ID:9	result: 1
+27:36.122	ID:9	go to sleep
+27:36.127	ID:9	wakeups: 1, dc: 7, Tw: 1043
+27:39.223	ID:6	send packet
+27:39.228	ID:6	HC GRADIENT mode strobe
+27:39.229	ID:6	result: 3
+27:39.230	ID:6	send packet
+27:39.235	ID:6	HC GRADIENT mode strobe
+27:39.236	ID:6	result: 3
+27:39.237	ID:6	send packet
+27:39.242	ID:6	HC GRADIENT mode strobe
+27:39.243	ID:6	result: 3
+27:39.243	ID:6	send packet
+27:39.249	ID:6	HC GRADIENT mode strobe
+27:39.249	ID:6	result: 3
+27:39.250	ID:6	send packet
+27:39.255	ID:6	HC GRADIENT mode strobe
+27:39.256	ID:6	result: 3
+27:39.257	ID:6	send packet
+27:39.262	ID:6	HC GRADIENT mode strobe
+27:39.263	ID:6	result: 3
+27:39.264	ID:6	go to sleep
+27:39.268	ID:6	wakeups: 1, dc: 23, Tw: 1233
+27:40.101	ID:7	send packet
+27:40.106	ID:7	HC GRADIENT mode strobe
+27:40.109	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 25
+27:40.850	ID:8	send packet
+27:40.852	ID:8	HC_GRADIENT mode rx
+27:40.855	ID:8	drop because 2 is smaller then 3
+27:40.857	ID:8	packet from 7 is dropped
+27:40.858	ID:8	result: 9
+27:40.859	ID:8	send packet
+27:40.861	ID:8	HC_GRADIENT mode rx
+27:40.863	ID:8	drop because 2 is smaller then 3
+27:40.865	ID:8	packet from 7 is dropped
+27:40.866	ID:8	result: 9
+27:40.867	ID:8	send packet
+27:40.869	ID:8	HC_GRADIENT mode rx
+27:40.872	ID:8	drop because 2 is smaller then 3
+27:40.874	ID:8	packet from 7 is dropped
+27:40.875	ID:8	result: 9
+27:40.875	ID:8	send packet
+27:40.877	ID:8	HC_GRADIENT mode rx
+27:40.880	ID:8	drop because 2 is smaller then 3
+27:40.882	ID:8	packet from 7 is dropped
+27:40.883	ID:8	result: 9
+27:40.884	ID:8	go to sleep
+27:40.889	ID:8	wakeups: 1, dc: 46, Tw: 1197
+27:41.113	ID:7	2 7 2
+27:41.116	ID:7	power: 122244
+27:41.119	ID:7	6 122244 56
+27:41.120	ID:7	result: 1
+27:41.121	ID:7	go to sleep
+27:41.125	ID:7	wakeups: 2, dc: 56, Tw: 1163
+27:42.305	ID:4	send packet
+27:42.310	ID:4	HC GRADIENT mode strobe
+27:42.311	ID:4	result: 3
+27:42.312	ID:4	send packet
+27:42.317	ID:4	HC GRADIENT mode strobe
+27:42.318	ID:4	result: 3
+27:42.319	ID:4	send packet
+27:42.324	ID:4	HC GRADIENT mode strobe
+27:42.325	ID:4	result: 3
+27:42.326	ID:4	send packet
+27:42.331	ID:4	HC GRADIENT mode strobe
+27:42.331	ID:4	result: 3
+27:42.332	ID:4	send packet
+27:42.337	ID:4	HC GRADIENT mode strobe
+27:42.338	ID:4	result: 3
+27:42.339	ID:4	go to sleep
+27:42.343	ID:4	wakeups: 6, dc: 3, Tw: 1397
+27:42.583	ID:3	send packet
+27:42.588	ID:3	HC GRADIENT mode strobe
+27:42.589	ID:3	result: 3
+27:42.589	ID:3	send packet
+27:42.595	ID:3	HC GRADIENT mode strobe
+27:42.595	ID:3	result: 3
+27:42.596	ID:3	send packet
+27:42.601	ID:3	HC GRADIENT mode strobe
+27:42.602	ID:3	result: 3
+27:42.603	ID:3	send packet
+27:42.608	ID:3	HC GRADIENT mode strobe
+27:42.609	ID:3	result: 3
+27:42.610	ID:3	send packet
+27:42.615	ID:3	HC GRADIENT mode strobe
+27:42.616	ID:3	result: 3
+27:42.617	ID:3	go to sleep
+27:42.621	ID:3	wakeups: 1, dc: 35, Tw: 1147
+27:44.275	ID:9	send packet
+27:44.280	ID:9	HC GRADIENT mode strobe
+27:44.283	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 32
+27:45.156	ID:5	send packet
+27:45.161	ID:5	HC GRADIENT mode strobe
+27:45.162	ID:5	result: 3
+27:45.163	ID:5	send packet
+27:45.168	ID:5	HC GRADIENT mode strobe
+27:45.169	ID:5	result: 3
+27:45.170	ID:5	send packet
+27:45.175	ID:5	HC GRADIENT mode strobe
+27:45.176	ID:5	result: 3
+27:45.177	ID:5	send packet
+27:45.182	ID:5	HC GRADIENT mode strobe
+27:45.183	ID:5	result: 3
+27:45.183	ID:5	send packet
+27:45.189	ID:5	HC GRADIENT mode strobe
+27:45.189	ID:5	result: 3
+27:45.190	ID:5	go to sleep
+27:45.195	ID:5	wakeups: 1, dc: 33, Tw: 1241
+27:45.288	ID:9	current_state: 3, collisions: 0
+27:45.289	ID:9	2 9 1
+27:45.292	ID:9	power: 60810
+27:45.294	ID:9	6 60810 8
+27:45.295	ID:9	result: 1
+27:45.296	ID:9	go to sleep
+27:45.301	ID:9	wakeups: 1, dc: 8, Tw: 1377
+27:47.646	ID:2	send packet
+27:47.651	ID:2	HC GRADIENT mode strobe
+27:47.652	ID:2	result: 3
+27:47.653	ID:2	send packet
+27:47.658	ID:2	HC GRADIENT mode strobe
+27:47.659	ID:2	result: 3
+27:47.660	ID:2	send packet
+27:47.665	ID:2	HC GRADIENT mode strobe
+27:47.666	ID:2	result: 3
+27:47.666	ID:2	send packet
+27:47.671	ID:2	HC GRADIENT mode strobe
+27:47.672	ID:2	result: 3
+27:47.673	ID:2	send packet
+27:47.678	ID:2	HC GRADIENT mode strobe
+27:47.679	ID:2	result: 3
+27:47.680	ID:2	send packet
+27:47.685	ID:2	HC GRADIENT mode strobe
+27:47.686	ID:2	result: 3
+27:47.687	ID:2	go to sleep
+27:47.691	ID:2	wakeups: 25, dc: 3, Tw: 1372
+27:48.895	ID:6	send packet
+27:48.900	ID:6	HC GRADIENT mode strobe
+27:48.901	ID:6	result: 3
+27:48.902	ID:6	send packet
+27:48.907	ID:6	HC GRADIENT mode strobe
+27:48.908	ID:6	result: 3
+27:48.909	ID:6	send packet
+27:48.914	ID:6	HC GRADIENT mode strobe
+27:48.914	ID:6	result: 3
+27:48.915	ID:6	send packet
+27:48.920	ID:6	HC GRADIENT mode strobe
+27:48.921	ID:6	result: 3
+27:48.922	ID:6	send packet
+27:48.927	ID:6	HC GRADIENT mode strobe
+27:48.928	ID:6	result: 3
+27:48.929	ID:6	go to sleep
+27:48.934	ID:6	wakeups: 1, dc: 23, Tw: 1160
+27:50.210	ID:7	send packet
+27:50.215	ID:7	HC GRADIENT mode strobe
+27:50.218	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 25
+27:50.241	ID:8	send packet
+27:50.243	ID:8	HC_GRADIENT mode rx
+27:50.245	ID:8	drop because 2 is smaller then 3
+27:50.247	ID:8	packet from 7 is dropped
+27:50.248	ID:8	result: 9
+27:50.249	ID:8	send packet
+27:50.251	ID:8	HC_GRADIENT mode rx
+27:50.253	ID:8	drop because 2 is smaller then 3
+27:50.255	ID:8	packet from 7 is dropped
+27:50.256	ID:8	result: 9
+27:50.257	ID:8	send packet
+27:50.259	ID:8	HC_GRADIENT mode rx
+27:50.262	ID:8	drop because 2 is smaller then 3
+27:50.264	ID:8	packet from 7 is dropped
+27:50.265	ID:8	result: 9
+27:50.266	ID:8	send packet
+27:50.268	ID:8	HC_GRADIENT mode rx
+27:50.270	ID:8	drop because 2 is smaller then 3
+27:50.272	ID:8	packet from 7 is dropped
+27:50.273	ID:8	result: 9
+27:50.274	ID:8	send packet
+27:50.276	ID:8	HC_GRADIENT mode rx
+27:50.278	ID:8	drop because 2 is smaller then 3
+27:50.280	ID:8	packet from 7 is dropped
+27:50.282	ID:8	result: 9
+27:50.282	ID:8	send packet
+27:50.284	ID:8	HC_GRADIENT mode rx
+27:50.287	ID:8	drop because 2 is smaller then 3
+27:50.289	ID:8	packet from 7 is dropped
+27:50.290	ID:8	result: 9
+27:50.291	ID:8	go to sleep
+27:50.295	ID:8	wakeups: 1, dc: 46, Tw: 1422
+27:51.222	ID:7	2 7 2
+27:51.225	ID:7	power: 182874
+27:51.228	ID:7	6 182874 56
+27:51.229	ID:7	result: 1
+27:51.230	ID:7	go to sleep
+27:51.235	ID:7	wakeups: 2, dc: 56, Tw: 1485
+27:51.583	ID:3	send packet
+27:51.588	ID:3	HC GRADIENT mode strobe
+27:51.589	ID:3	result: 3
+27:51.589	ID:3	send packet
+27:51.595	ID:3	HC GRADIENT mode strobe
+27:51.595	ID:3	result: 3
+27:51.596	ID:3	send packet
+27:51.601	ID:3	HC GRADIENT mode strobe
+27:51.602	ID:3	result: 3
+27:51.603	ID:3	send packet
+27:51.608	ID:3	HC GRADIENT mode strobe
+27:51.609	ID:3	result: 3
+27:51.610	ID:3	send packet
+27:51.615	ID:3	HC GRADIENT mode strobe
+27:51.616	ID:3	result: 3
+27:51.617	ID:3	send packet
+27:51.622	ID:3	HC GRADIENT mode strobe
+27:51.623	ID:3	result: 3
+27:51.623	ID:3	go to sleep
+27:51.628	ID:3	wakeups: 1, dc: 35, Tw: 1031
+27:53.258	ID:4	send packet
+27:53.263	ID:4	HC GRADIENT mode strobe
+27:53.264	ID:4	result: 3
+27:53.265	ID:4	send packet
+27:53.270	ID:4	HC GRADIENT mode strobe
+27:53.271	ID:4	result: 3
+27:53.272	ID:4	send packet
+27:53.277	ID:4	HC GRADIENT mode strobe
+27:53.278	ID:4	result: 3
+27:53.279	ID:4	send packet
+27:53.284	ID:4	HC GRADIENT mode strobe
+27:53.285	ID:4	result: 3
+27:53.285	ID:4	send packet
+27:53.290	ID:4	HC GRADIENT mode strobe
+27:53.291	ID:4	result: 3
+27:53.292	ID:4	go to sleep
+27:53.297	ID:4	wakeups: 6, dc: 3, Tw: 1320
+27:54.891	ID:5	send packet
+27:54.896	ID:5	HC GRADIENT mode strobe
+27:54.897	ID:5	result: 3
+27:54.897	ID:5	send packet
+27:54.903	ID:5	HC GRADIENT mode strobe
+27:54.903	ID:5	result: 3
+27:54.904	ID:5	send packet
+27:54.909	ID:5	HC GRADIENT mode strobe
+27:54.910	ID:5	result: 3
+27:54.911	ID:5	send packet
+27:54.916	ID:5	HC GRADIENT mode strobe
+27:54.917	ID:5	result: 3
+27:54.918	ID:5	send packet
+27:54.923	ID:5	HC GRADIENT mode strobe
+27:54.924	ID:5	result: 3
+27:54.925	ID:5	go to sleep
+27:54.929	ID:5	wakeups: 1, dc: 33, Tw: 977
+27:56.056	ID:9	send packet
+27:56.061	ID:9	HC GRADIENT mode strobe
+27:56.064	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 32
+27:57.069	ID:9	current_state: 3, collisions: 0
+27:57.070	ID:9	2 9 1
+27:57.073	ID:9	power: 121584
+27:57.076	ID:9	6 121584 9
+27:57.077	ID:9	result: 1
+27:57.078	ID:9	go to sleep
+27:57.082	ID:9	wakeups: 1, dc: 9, Tw: 1252
+27:57.997	ID:6	send packet
+27:58.002	ID:6	HC GRADIENT mode strobe
+27:58.002	ID:6	result: 3
+27:58.003	ID:6	send packet
+27:58.008	ID:6	HC GRADIENT mode strobe
+27:58.009	ID:6	result: 3
+27:58.010	ID:6	send packet
+27:58.015	ID:6	HC GRADIENT mode strobe
+27:58.016	ID:6	result: 3
+27:58.017	ID:6	send packet
+27:58.022	ID:6	HC GRADIENT mode strobe
+27:58.023	ID:6	result: 3
+27:58.024	ID:6	send packet
+27:58.029	ID:6	HC GRADIENT mode strobe
+27:58.030	ID:6	result: 3
+27:58.030	ID:6	go to sleep
+27:58.035	ID:6	wakeups: 1, dc: 23, Tw: 968
+27:58.404	ID:2	send packet
+27:58.409	ID:2	HC GRADIENT mode strobe
+27:58.410	ID:2	result: 3
+27:58.411	ID:2	send packet
+27:58.416	ID:2	HC GRADIENT mode strobe
+27:58.417	ID:2	result: 3
+27:58.417	ID:2	send packet
+27:58.423	ID:2	HC GRADIENT mode strobe
+27:58.423	ID:2	result: 3
+27:58.424	ID:2	send packet
+27:58.429	ID:2	HC GRADIENT mode strobe
+27:58.430	ID:2	result: 3
+27:58.431	ID:2	send packet
+27:58.436	ID:2	HC GRADIENT mode strobe
+27:58.437	ID:2	result: 3
+27:58.438	ID:2	send packet
+27:58.443	ID:2	HC GRADIENT mode strobe
+27:58.444	ID:2	result: 3
+27:58.445	ID:2	send packet
+27:58.450	ID:2	HC GRADIENT mode strobe
+27:58.451	ID:2	result: 3
+27:58.451	ID:2	go to sleep
+27:58.456	ID:2	wakeups: 25, dc: 3, Tw: 1096
+27:59.676	ID:3	send packet
+27:59.682	ID:3	HC GRADIENT mode strobe
+27:59.682	ID:3	result: 3
+27:59.683	ID:3	send packet
+27:59.688	ID:3	HC GRADIENT mode strobe
+27:59.689	ID:3	result: 3
+27:59.690	ID:3	send packet
+27:59.695	ID:3	HC GRADIENT mode strobe
+27:59.696	ID:3	result: 3
+27:59.697	ID:3	send packet
+27:59.702	ID:3	HC GRADIENT mode strobe
+27:59.703	ID:3	result: 3
+27:59.704	ID:3	send packet
+27:59.709	ID:3	HC GRADIENT mode strobe
+27:59.710	ID:3	result: 3
+27:59.710	ID:3	send packet
+27:59.715	ID:3	HC GRADIENT mode strobe
+27:59.716	ID:3	result: 3
+27:59.717	ID:3	send packet
+27:59.722	ID:3	HC GRADIENT mode strobe
+27:59.723	ID:3	result: 3
+27:59.724	ID:3	send packet
+27:59.729	ID:3	HC GRADIENT mode strobe
+27:59.730	ID:3	result: 3
+27:59.731	ID:3	go to sleep
+27:59.735	ID:3	wakeups: 1, dc: 35, Tw: 1397
+28:01.405	ID:8	send packet
+28:01.410	ID:8	HC GRADIENT mode strobe
+28:01.411	ID:8	result: 3
+28:01.411	ID:8	send packet
+28:01.416	ID:8	HC GRADIENT mode strobe
+28:01.417	ID:8	result: 3
+28:01.418	ID:8	send packet
+28:01.423	ID:8	HC GRADIENT mode strobe
+28:01.424	ID:8	result: 3
+28:01.425	ID:8	send packet
+28:01.430	ID:8	HC GRADIENT mode strobe
+28:01.431	ID:8	result: 3
+28:01.432	ID:8	send packet
+28:01.437	ID:8	HC GRADIENT mode strobe
+28:01.438	ID:8	result: 3
+28:01.438	ID:8	send packet
+28:01.444	ID:8	HC GRADIENT mode strobe
+28:01.444	ID:8	result: 3
+28:01.445	ID:8	go to sleep
+28:01.450	ID:8	wakeups: 1, dc: 46, Tw: 1088
+28:02.563	ID:5	send packet
+28:02.568	ID:5	HC GRADIENT mode strobe
+28:02.568	ID:5	result: 3
+28:02.569	ID:5	send packet
+28:02.574	ID:5	HC GRADIENT mode strobe
+28:02.575	ID:5	result: 3
+28:02.576	ID:5	send packet
+28:02.581	ID:5	HC GRADIENT mode strobe
+28:02.582	ID:5	result: 3
+28:02.583	ID:5	send packet
+28:02.588	ID:5	HC GRADIENT mode strobe
+28:02.589	ID:5	result: 3
+28:02.590	ID:5	send packet
+28:02.595	ID:5	HC GRADIENT mode strobe
+28:02.596	ID:5	result: 3
+28:02.596	ID:5	send packet
+28:02.602	ID:5	HC GRADIENT mode strobe
+28:02.602	ID:5	result: 3
+28:02.603	ID:5	send packet
+28:02.608	ID:5	HC GRADIENT mode strobe
+28:02.609	ID:5	result: 3
+28:02.610	ID:5	send packet
+28:02.615	ID:5	HC GRADIENT mode strobe
+28:02.616	ID:5	result: 3
+28:02.617	ID:5	go to sleep
+28:02.621	ID:5	wakeups: 1, dc: 33, Tw: 993
+28:02.835	ID:7	send packet
+28:02.840	ID:7	HC GRADIENT mode strobe
+28:02.843	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 25
+28:03.610	ID:4	send packet
+28:03.614	ID:4	HC_GRADIENT mode rx
+28:03.617	ID:7	5 7 4
+28:03.618	ID:4	result: 2
+28:03.618	ID:7	2 4 1
+28:03.619	ID:4	send packet
+28:03.621	ID:7	power: 229770
+28:03.624	ID:4	HC GRADIENT mode strobe
+28:03.624	ID:7	6 229770 56
+28:03.625	ID:7	result: 1
+28:03.626	ID:7	go to sleep
+28:03.627	ID:4	Beacon send DATA: 9, TTL: 3, SEQ: 25
+28:03.630	ID:4	5 4 1
+28:03.631	ID:1	9 25 4 30
+28:03.631	ID:7	wakeups: 1, dc: 56, Tw: 1110
+28:03.632	ID:1	complete!
