@@ -285,7 +285,7 @@ $(function() {
       });
     simulationInfoView.select('.timestamp')
       .text(function(d) {
-        return 'Timestamp: ' + simulationInfo.timestamp;
+        return 'Timestamp: ' + simulationInfo.timestamp + ' / ' + simulationInfo.lastTimestamp;
       });
     simulationInfoView.select('.totalPower')
       .text(function(d) {
@@ -315,6 +315,11 @@ $(function() {
 
   function run(log) {
     var index = 0;
+    var lastMessage = log[log.length - 1];
+    if (lastMessage === '') {
+      lastMessage = log[log.length - 2];
+    }
+    simulationInfo.lastTimestamp = lastMessage.split('\t')[0];
     logReader = setInterval(function() {
       while (true) {
         var message = log[index];
