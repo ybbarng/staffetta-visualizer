@@ -8,6 +8,8 @@ exports.Node = function(nodeId, x, y) {
   }
   this.inMessage = 0;
   this.outMessage = 0;
+  this.dutyCycle = 0;
+  this.power = 0;
 };
 
 exports.Node.prototype = {

@@ -170,6 +170,19 @@ $(function() {
       .style('text-anchor', 'middle')
       .style('dominant-baseline', 'central');
 
+    newNodeViews.append('text')
+      .attr('class', 'dutyCycleAndPower')
+      .attr('transform', 'translate(0, -24)')
+      .style('text-anchor', 'middle')
+      .style('dominant-baseline', 'central');
+
+    var nodePowerMessage = nodeViews.select('text.dutyCycleAndPower')
+      .transition('update')
+      .duration(500)
+      .text(function(d) {
+        return 'D: ' + d.dutyCycle + '% / P: ' + d.power + 'uJ';
+      });
+
     function printInAndOutMessage(d) {
       return d.inMessage + ' / ' + d.outMessage;
     }
@@ -310,6 +323,10 @@ $(function() {
             refresh();
           }
         }, 2000);
+        return true;
+      } else if (argv[0] === 6) {
+        node.power = parseInt(argv[1]);
+        node.dutyCycle = parseInt(argv[2]);
         return true;
       }
       return false;
