@@ -78,15 +78,16 @@ $(function() {
   var flows = [];
   var logReader = null;
 
-  var svg_width = 950;
-  var svg_height = 600;
-  var chart_width = 600;
-  var chart_height = 600;
+  var chart_width = 700;
+  var chart_height = 700;
+  var chart_padding = 50;
   var legend_left_margin = 10;
   var logReaderInterval = 500;
+  var svg_width = chart_width + 350;
+  var svg_height = chart_height;
 
-  var x = d3.scale.linear().domain([-10, 130]).range([0, chart_width]);
-  var y = d3.scale.linear().domain([-10, 130]).range([0, chart_height]);
+  var x = d3.scale.linear().domain([-10, 130]).range([chart_padding, chart_width - chart_padding]);
+  var y = d3.scale.linear().domain([-10, 130]).range([chart_padding, chart_height - chart_padding]);
 
   var svg = d3.select('#visualizer')
     .append('svg').attr({width: svg_width, height: svg_height});
@@ -110,10 +111,10 @@ $(function() {
   svg.append('line')
     .attr('class', 'layout')
     .attr({
-        'x1': 600,
+        'x1': chart_width,
         'y1': 0,
-        'x2': 600,
-        'y2': 600
+        'x2': chart_width,
+        'y2': svg_height
     });
 
   // Left side of svg
@@ -180,7 +181,7 @@ $(function() {
       .transition('update')
       .duration(500)
       .text(function(d) {
-        return 'D: ' + d.dutyCycle + '% / P: ' + d.power + 'uJ';
+        return 'D: ' + d.dutyCycle + '% P: ' + d.power + 'uJ';
       });
 
     function printInAndOutMessage(d) {
