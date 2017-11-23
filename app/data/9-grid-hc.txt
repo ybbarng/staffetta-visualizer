@@ -1,0 +1,689 @@
+00:00.339	ID:8	Contiki 2.4 started. Node id is set to 8.
+00:00.342	ID:8	Starting 'Staffetta test'
+00:00.347	ID:8	wakeups: 10, dc: 100, Tw: 109
+00:00.503	ID:2	Contiki 2.4 started. Node id is set to 2.
+00:00.505	ID:2	Starting 'Staffetta test'
+00:00.510	ID:2	wakeups: 10, dc: 100, Tw: 134
+00:00.517	ID:6	Contiki 2.4 started. Node id is set to 6.
+00:00.519	ID:6	Starting 'Staffetta test'
+00:00.525	ID:6	wakeups: 10, dc: 100, Tw: 117
+00:00.615	ID:4	Contiki 2.4 started. Node id is set to 4.
+00:00.617	ID:4	Starting 'Staffetta test'
+00:00.623	ID:4	wakeups: 10, dc: 100, Tw: 126
+00:00.649	ID:1	Contiki 2.4 started. Node id is set to 1.
+00:00.651	ID:1	Starting 'Staffetta test'
+00:00.652	ID:1	Sink active
+00:00.668	ID:7	Contiki 2.4 started. Node id is set to 7.
+00:00.671	ID:7	Starting 'Staffetta test'
+00:00.676	ID:7	wakeups: 10, dc: 100, Tw: 107
+00:00.975	ID:9	Contiki 2.4 started. Node id is set to 9.
+00:00.977	ID:9	Starting 'Staffetta test'
+00:00.978	ID:9	4 9 0
+00:00.979	ID:9	4 9 1
+00:00.980	ID:9	4 9 2
+00:00.981	ID:9	4 9 3
+00:00.982	ID:5	Contiki 2.4 started. Node id is set to 5.
+00:00.982	ID:9	4 9 4
+00:00.983	ID:9	4 9 5
+00:00.984	ID:9	4 9 6
+00:00.984	ID:5	Starting 'Staffetta test'
+00:00.985	ID:9	4 9 7
+00:00.985	ID:9	4 9 8
+00:00.986	ID:9	4 9 9
+00:00.989	ID:5	wakeups: 10, dc: 100, Tw: 116
+00:00.991	ID:9	wakeups: 10, dc: 100, Tw: 97
+00:01.166	ID:3	Contiki 2.4 started. Node id is set to 3.
+00:01.168	ID:3	Starting 'Staffetta test'
+00:01.174	ID:3	wakeups: 10, dc: 100, Tw: 126
+00:01.200	ID:8	HC GRADIENT mode strobe
+00:01.205	ID:8	wakeups: 10, dc: 100, Tw: 130
+00:01.440	ID:6	HC GRADIENT mode strobe
+00:01.445	ID:6	wakeups: 10, dc: 100, Tw: 133
+00:01.513	ID:7	HC GRADIENT mode strobe
+00:01.518	ID:7	wakeups: 10, dc: 100, Tw: 138
+00:01.558	ID:2	HC GRADIENT mode strobe
+00:01.563	ID:2	wakeups: 10, dc: 100, Tw: 122
+00:01.608	ID:4	HC GRADIENT mode strobe
+00:01.613	ID:4	wakeups: 10, dc: 100, Tw: 108
+00:01.749	ID:9	HC GRADIENT mode strobe
+00:01.752	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 0
+00:01.897	ID:5	HC GRADIENT mode strobe
+00:01.902	ID:5	wakeups: 10, dc: 100, Tw: 126
+00:02.159	ID:3	HC GRADIENT mode strobe
+00:02.164	ID:3	wakeups: 10, dc: 100, Tw: 109
+00:02.221	ID:8	HC_GRADIENT mode rx
+00:02.224	ID:9	current_state: 5, collisions: 0
+00:02.228	ID:9	history[0]: 0, history[1]: 0, history[2]: 0
+00:02.228	ID:9	r: 3
+00:02.229	ID:9	check success
+00:02.230	ID:8	wakeups: 10, dc: 100, Tw: 123
+00:02.231	ID:9	5 9 8
+00:02.232	ID:9	2 8 4
+00:02.235	ID:9	power: 29160 uJ
+00:02.238	ID:9	6 29160 386
+00:02.243	ID:9	wakeups: 4, dc: 386, Tw: 199
+00:02.460	ID:4	HC GRADIENT mode strobe
+00:02.465	ID:4	wakeups: 10, dc: 100, Tw: 104
+00:02.487	ID:6	HC GRADIENT mode strobe
+00:02.492	ID:6	wakeups: 10, dc: 100, Tw: 105
+00:02.519	ID:2	HC GRADIENT mode strobe
+00:02.524	ID:2	wakeups: 10, dc: 100, Tw: 123
+00:02.599	ID:7	HC GRADIENT mode strobe
+00:02.604	ID:7	wakeups: 10, dc: 100, Tw: 142
+00:02.889	ID:5	HC GRADIENT mode strobe
+00:02.894	ID:5	wakeups: 10, dc: 100, Tw: 99
+00:03.018	ID:3	HC GRADIENT mode strobe
+00:03.023	ID:3	wakeups: 10, dc: 100, Tw: 124
+00:03.192	ID:8	HC GRADIENT mode strobe
+00:03.195	ID:8	Beacon send DATA: 9, TTL: 1, SEQ: 0
+00:03.280	ID:4	HC GRADIENT mode strobe
+00:03.285	ID:4	wakeups: 10, dc: 100, Tw: 109
+00:03.315	ID:6	HC GRADIENT mode strobe
+00:03.320	ID:6	wakeups: 10, dc: 100, Tw: 87
+00:03.488	ID:2	HC GRADIENT mode strobe
+00:03.493	ID:2	wakeups: 10, dc: 100, Tw: 122
+00:03.669	ID:5	HC_GRADIENT mode rx
+00:03.673	ID:8	history[0]: 0, history[1]: 0, history[2]: 0
+00:03.673	ID:8	r: 3
+00:03.675	ID:8	check success
+00:03.676	ID:8	5 8 5
+00:03.678	ID:8	2 5 4
+00:03.678	ID:5	wakeups: 10, dc: 100, Tw: 138
+00:03.680	ID:8	power: 30060 uJ
+00:03.684	ID:8	6 30060 149
+00:03.689	ID:8	wakeups: 4, dc: 149, Tw: 303
+00:03.716	ID:7	HC GRADIENT mode strobe
+00:03.721	ID:7	wakeups: 10, dc: 100, Tw: 122
+00:03.796	ID:9	HC GRADIENT mode strobe
+00:03.799	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 1
+00:03.995	ID:3	HC GRADIENT mode strobe
+00:04.000	ID:3	wakeups: 10, dc: 100, Tw: 115
+00:04.001	ID:6	HC_GRADIENT mode rx
+00:04.004	ID:9	current_state: 5, collisions: 0
+00:04.008	ID:9	history[0]: 8, history[1]: 0, history[2]: 0
+00:04.009	ID:9	r: 3
+00:04.010	ID:9	check success
+00:04.010	ID:6	wakeups: 10, dc: 100, Tw: 138
+00:04.011	ID:9	5 9 6
+00:04.013	ID:9	2 6 4
+00:04.015	ID:9	power: 42360 uJ
+00:04.019	ID:9	6 42360 232
+00:04.024	ID:9	wakeups: 4, dc: 232, Tw: 211
+00:04.139	ID:4	HC GRADIENT mode strobe
+00:04.144	ID:4	wakeups: 10, dc: 100, Tw: 137
+00:04.449	ID:2	HC GRADIENT mode strobe
+00:04.454	ID:2	wakeups: 10, dc: 100, Tw: 108
+00:04.677	ID:7	HC GRADIENT mode strobe
+00:04.682	ID:7	wakeups: 10, dc: 100, Tw: 104
+00:04.756	ID:5	HC GRADIENT mode strobe
+00:04.759	ID:5	Beacon send DATA: 9, TTL: 2, SEQ: 0
+00:04.901	ID:3	HC GRADIENT mode strobe
+00:04.906	ID:3	wakeups: 10, dc: 100, Tw: 108
+00:05.086	ID:6	HC_GRADIENT mode rx
+00:05.088	ID:6	drop because 2 is smaller then 3
+00:05.090	ID:6	packet from 5 is dropped
+00:05.096	ID:6	wakeups: 10, dc: 100, Tw: 120
+00:05.216	ID:4	HC_GRADIENT mode rx
+00:05.221	ID:5	history[0]: 0, history[1]: 0, history[2]: 0
+00:05.221	ID:5	r: 3
+00:05.222	ID:5	check success
+00:05.224	ID:5	5 5 4
+00:05.225	ID:4	wakeups: 10, dc: 100, Tw: 103
+00:05.226	ID:5	2 4 10
+00:05.228	ID:5	power: 29400 uJ
+00:05.232	ID:5	6 29400 115
+00:05.237	ID:5	wakeups: 10, dc: 115, Tw: 96
+00:05.300	ID:2	HC GRADIENT mode strobe
+00:05.305	ID:2	wakeups: 10, dc: 100, Tw: 94
+00:05.497	ID:7	HC GRADIENT mode strobe
+00:05.502	ID:7	wakeups: 10, dc: 100, Tw: 112
+00:05.671	ID:9	HC GRADIENT mode strobe
+00:05.674	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 2
+00:05.753	ID:3	HC GRADIENT mode strobe
+00:05.758	ID:3	wakeups: 10, dc: 100, Tw: 128
+00:05.990	ID:5	HC GRADIENT mode strobe
+00:05.995	ID:5	wakeups: 10, dc: 115, Tw: 103
+00:06.030	ID:4	HC GRADIENT mode strobe
+00:06.032	ID:6	HC_GRADIENT mode rx
+00:06.033	ID:4	Beacon send DATA: 9, TTL: 3, SEQ: 0
+00:06.035	ID:9	current_state: 5, collisions: 0
+00:06.038	ID:4	history[0]: 0, history[1]: 0, history[2]: 0
+00:06.039	ID:9	history[0]: 8, history[1]: 6, history[2]: 0
+00:06.039	ID:4	r: 3
+00:06.039	ID:9	r: 3
+00:06.040	ID:4	check success
+00:06.040	ID:9	check success
+00:06.041	ID:6	wakeups: 10, dc: 100, Tw: 101
+00:06.041	ID:4	5 4 1
+00:06.042	ID:1	9 0 4 1
+00:06.042	ID:9	5 9 6
+00:06.043	ID:2	HC GRADIENT mode strobe
+00:06.043	ID:4	2 1 11
+00:06.043	ID:9	2 6 3
+00:06.045	ID:4	power: 2640 uJ
+00:06.046	ID:9	power: 64920 uJ
+00:06.048	ID:2	wakeups: 10, dc: 100, Tw: 122
+00:06.048	ID:4	6 2640 8
+00:06.049	ID:9	6 64920 213
+00:06.052	ID:4	wakeups: 11, dc: 8, Tw: 101
+00:06.054	ID:9	wakeups: 3, dc: 213, Tw: 389
+00:06.059	ID:8	HC GRADIENT mode strobe
+00:06.064	ID:8	wakeups: 4, dc: 149, Tw: 301
+00:06.380	ID:7	HC GRADIENT mode strobe
+00:06.385	ID:7	wakeups: 10, dc: 100, Tw: 111
+00:06.761	ID:3	HC GRADIENT mode strobe
+00:06.765	ID:3	wakeups: 10, dc: 100, Tw: 93
+00:06.803	ID:5	HC GRADIENT mode strobe
+00:06.808	ID:5	wakeups: 10, dc: 115, Tw: 119
+00:06.831	ID:6	HC GRADIENT mode strobe
+00:06.833	ID:6	Beacon send DATA: 9, TTL: 1, SEQ: 1
+00:06.842	ID:4	HC GRADIENT mode strobe
+00:06.847	ID:4	wakeups: 11, dc: 8, Tw: 134
+00:07.004	ID:2	HC GRADIENT mode strobe
+00:07.009	ID:2	wakeups: 10, dc: 100, Tw: 110
+00:07.255	ID:7	HC GRADIENT mode strobe
+00:07.260	ID:7	wakeups: 10, dc: 100, Tw: 106
+00:07.493	ID:3	HC_GRADIENT mode rx
+00:07.498	ID:6	history[0]: 0, history[1]: 0, history[2]: 0
+00:07.498	ID:6	r: 3
+00:07.499	ID:6	check success
+00:07.501	ID:6	5 6 3
+00:07.502	ID:6	2 3 3
+00:07.502	ID:3	wakeups: 10, dc: 100, Tw: 128
+00:07.505	ID:6	power: 42660 uJ
+00:07.508	ID:6	6 42660 101
+00:07.513	ID:6	wakeups: 3, dc: 101, Tw: 455
+00:07.740	ID:5	HC GRADIENT mode strobe
+00:07.745	ID:5	wakeups: 10, dc: 115, Tw: 84
+00:07.871	ID:2	HC GRADIENT mode strobe
+00:07.876	ID:2	wakeups: 10, dc: 100, Tw: 97
+00:07.897	ID:4	HC GRADIENT mode strobe
+00:07.901	ID:4	wakeups: 11, dc: 8, Tw: 115
+00:08.091	ID:7	HC GRADIENT mode strobe
+00:08.096	ID:7	wakeups: 10, dc: 100, Tw: 135
+00:08.404	ID:5	HC GRADIENT mode strobe
+00:08.410	ID:5	wakeups: 10, dc: 115, Tw: 137
+00:08.418	ID:8	HC GRADIENT mode strobe
+00:08.423	ID:8	wakeups: 4, dc: 149, Tw: 275
+00:08.503	ID:3	HC GRADIENT mode strobe
+00:08.506	ID:3	Beacon send DATA: 9, TTL: 2, SEQ: 1
+00:08.635	ID:2	HC_GRADIENT mode rx
+00:08.640	ID:3	history[0]: 0, history[1]: 0, history[2]: 0
+00:08.640	ID:3	r: 3
+00:08.641	ID:3	check success
+00:08.643	ID:3	5 3 2
+00:08.644	ID:2	wakeups: 10, dc: 100, Tw: 103
+00:08.644	ID:3	2 2 8
+00:08.647	ID:3	power: 10920 uJ
+00:08.650	ID:3	6 10920 24
+00:08.655	ID:3	wakeups: 8, dc: 24, Tw: 177
+00:08.803	ID:4	HC GRADIENT mode strobe
+00:08.808	ID:4	wakeups: 11, dc: 8, Tw: 128
+00:09.093	ID:9	HC GRADIENT mode strobe
+00:09.096	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 3
+00:09.154	ID:7	HC GRADIENT mode strobe
+00:09.159	ID:7	wakeups: 10, dc: 100, Tw: 105
+00:09.449	ID:2	HC GRADIENT mode strobe
+00:09.452	ID:2	Beacon send DATA: 9, TTL: 3, SEQ: 1
+00:09.457	ID:2	history[0]: 0, history[1]: 0, history[2]: 0
+00:09.458	ID:2	r: 3
+00:09.459	ID:2	check success
+00:09.460	ID:2	5 2 1
+00:09.461	ID:1	9 1 4 2
+00:09.462	ID:2	2 1 11
+00:09.464	ID:2	power: 3780 uJ
+00:09.467	ID:2	6 3780 7
+00:09.471	ID:2	wakeups: 11, dc: 7, Tw: 102
+00:09.483	ID:5	HC GRADIENT mode strobe
+00:09.488	ID:5	wakeups: 10, dc: 115, Tw: 109
+00:09.811	ID:4	HC GRADIENT mode strobe
+00:09.816	ID:4	wakeups: 11, dc: 8, Tw: 126
+00:09.982	ID:7	HC GRADIENT mode strobe
+00:09.987	ID:7	wakeups: 10, dc: 100, Tw: 119
+00:10.042	ID:3	HC GRADIENT mode strobe
+00:10.046	ID:3	wakeups: 8, dc: 24, Tw: 192
+00:10.101	ID:9	current_state: 3, collisions: 0
+00:10.102	ID:9	2 9 3
+00:10.105	ID:9	power: 125700 uJ
+00:10.109	ID:9	6 125700 229
+00:10.114	ID:9	wakeups: 3, dc: 229, Tw: 343
+00:10.269	ID:2	HC GRADIENT mode strobe
+00:10.274	ID:2	wakeups: 11, dc: 7, Tw: 107
+00:10.342	ID:5	HC GRADIENT mode strobe
+00:10.347	ID:5	wakeups: 10, dc: 115, Tw: 85
+00:10.575	ID:8	HC GRADIENT mode strobe
+00:10.579	ID:8	wakeups: 4, dc: 149, Tw: 272
+00:10.803	ID:4	HC GRADIENT mode strobe
+00:10.808	ID:4	wakeups: 11, dc: 8, Tw: 135
+00:10.919	ID:7	HC GRADIENT mode strobe
+00:10.924	ID:7	wakeups: 10, dc: 100, Tw: 106
+00:11.014	ID:5	HC GRADIENT mode strobe
+00:11.019	ID:5	wakeups: 10, dc: 115, Tw: 138
+00:11.073	ID:6	HC GRADIENT mode strobe
+00:11.076	ID:6	Beacon send DATA: 9, TTL: 1, SEQ: 2
+00:11.113	ID:2	HC GRADIENT mode strobe
+00:11.117	ID:2	wakeups: 11, dc: 7, Tw: 107
+00:11.547	ID:3	HC_GRADIENT mode rx
+00:11.551	ID:6	history[0]: 3, history[1]: 0, history[2]: 0
+00:11.552	ID:6	r: 3
+00:11.553	ID:6	check success
+00:11.554	ID:6	5 6 3
+00:11.555	ID:3	wakeups: 8, dc: 24, Tw: 129
+00:11.556	ID:6	2 3 2
+00:11.559	ID:6	power: 71880 uJ
+00:11.562	ID:6	6 71880 108
+00:11.567	ID:6	wakeups: 2, dc: 108, Tw: 512
+00:11.755	ID:7	HC GRADIENT mode strobe
+00:11.760	ID:7	wakeups: 10, dc: 100, Tw: 87
+00:11.866	ID:4	HC GRADIENT mode strobe
+00:11.870	ID:4	wakeups: 11, dc: 8, Tw: 136
+00:11.957	ID:2	HC GRADIENT mode strobe
+00:11.961	ID:2	wakeups: 11, dc: 7, Tw: 112
+00:12.100	ID:5	HC GRADIENT mode strobe
+00:12.105	ID:5	wakeups: 10, dc: 115, Tw: 109
+00:12.443	ID:7	HC GRADIENT mode strobe
+00:12.448	ID:7	wakeups: 10, dc: 100, Tw: 141
+00:12.565	ID:3	HC GRADIENT mode strobe
+00:12.568	ID:3	Beacon send DATA: 9, TTL: 2, SEQ: 2
+00:12.707	ID:8	HC GRADIENT mode strobe
+00:12.712	ID:8	wakeups: 4, dc: 149, Tw: 273
+00:12.796	ID:9	HC GRADIENT mode strobe
+00:12.799	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 3
+00:12.837	ID:2	HC_GRADIENT mode rx
+00:12.841	ID:3	history[0]: 2, history[1]: 0, history[2]: 0
+00:12.842	ID:3	r: 3
+00:12.843	ID:3	check success
+00:12.844	ID:3	5 3 2
+00:12.845	ID:2	wakeups: 11, dc: 7, Tw: 98
+00:12.846	ID:3	2 2 5
+00:12.848	ID:3	power: 28620 uJ
+00:12.851	ID:3	6 28620 40
+00:12.856	ID:3	wakeups: 5, dc: 40, Tw: 203
+00:12.936	ID:4	HC GRADIENT mode strobe
+00:12.941	ID:4	wakeups: 11, dc: 8, Tw: 139
+00:12.959	ID:5	HC GRADIENT mode strobe
+00:12.964	ID:5	wakeups: 10, dc: 115, Tw: 110
+00:13.552	ID:7	HC GRADIENT mode strobe
+00:13.557	ID:7	wakeups: 10, dc: 100, Tw: 111
+00:13.613	ID:2	HC GRADIENT mode strobe
+00:13.616	ID:2	Beacon send DATA: 9, TTL: 3, SEQ: 2
+00:13.621	ID:2	history[0]: 1, history[1]: 0, history[2]: 0
+00:13.622	ID:2	r: 3
+00:13.623	ID:2	check success
+00:13.624	ID:2	5 2 1
+00:13.625	ID:1	9 2 4 3
+00:13.626	ID:2	2 1 14
+00:13.628	ID:2	power: 6000 uJ
+00:13.631	ID:2	6 6000 7
+00:13.635	ID:2	wakeups: 14, dc: 7, Tw: 103
+00:13.804	ID:9	current_state: 3, collisions: 0
+00:13.806	ID:9	2 9 3
+00:13.809	ID:9	power: 186480 uJ
+00:13.812	ID:9	6 186480 242
+00:13.817	ID:9	wakeups: 3, dc: 242, Tw: 363
+00:13.826	ID:5	HC GRADIENT mode strobe
+00:13.831	ID:5	wakeups: 10, dc: 115, Tw: 92
+00:14.030	ID:4	HC GRADIENT mode strobe
+00:14.034	ID:4	wakeups: 11, dc: 8, Tw: 111
+00:14.427	ID:7	HC GRADIENT mode strobe
+00:14.432	ID:7	wakeups: 10, dc: 100, Tw: 89
+00:14.440	ID:3	HC GRADIENT mode strobe
+00:14.441	ID:2	HC GRADIENT mode strobe
+00:14.445	ID:3	wakeups: 5, dc: 40, Tw: 212
+00:14.446	ID:2	wakeups: 14, dc: 7, Tw: 111
+00:14.553	ID:5	HC GRADIENT mode strobe
+00:14.558	ID:5	wakeups: 10, dc: 115, Tw: 107
+00:14.848	ID:8	HC GRADIENT mode strobe
+00:14.853	ID:8	wakeups: 4, dc: 149, Tw: 328
+00:14.905	ID:4	HC GRADIENT mode strobe
+00:14.909	ID:4	wakeups: 11, dc: 8, Tw: 87
+00:15.130	ID:7	HC GRADIENT mode strobe
+00:15.135	ID:7	wakeups: 10, dc: 100, Tw: 124
+00:15.316	ID:2	HC GRADIENT mode strobe
+00:15.321	ID:2	wakeups: 14, dc: 7, Tw: 108
+00:15.397	ID:5	HC GRADIENT mode strobe
+00:15.402	ID:5	wakeups: 10, dc: 115, Tw: 139
+00:15.565	ID:6	HC GRADIENT mode strobe
+00:15.570	ID:6	wakeups: 2, dc: 108, Tw: 567
+00:15.592	ID:4	HC GRADIENT mode strobe
+00:15.597	ID:4	wakeups: 11, dc: 8, Tw: 115
+00:16.104	ID:3	HC GRADIENT mode strobe
+00:16.107	ID:7	HC GRADIENT mode strobe
+00:16.109	ID:3	wakeups: 5, dc: 40, Tw: 279
+00:16.112	ID:7	wakeups: 10, dc: 100, Tw: 114
+00:16.168	ID:2	HC GRADIENT mode strobe
+00:16.172	ID:2	wakeups: 14, dc: 7, Tw: 71
+00:16.490	ID:5	HC GRADIENT mode strobe
+00:16.495	ID:5	wakeups: 10, dc: 115, Tw: 108
+00:16.499	ID:4	HC GRADIENT mode strobe
+00:16.503	ID:4	wakeups: 11, dc: 8, Tw: 121
+00:16.656	ID:9	HC GRADIENT mode strobe
+00:16.658	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 3
+00:16.730	ID:2	HC GRADIENT mode strobe
+00:16.734	ID:2	wakeups: 14, dc: 7, Tw: 70
+00:17.005	ID:7	HC GRADIENT mode strobe
+00:17.010	ID:7	wakeups: 10, dc: 100, Tw: 125
+00:17.285	ID:2	HC GRADIENT mode strobe
+00:17.289	ID:2	wakeups: 14, dc: 7, Tw: 86
+00:17.342	ID:5	HC GRADIENT mode strobe
+00:17.347	ID:5	wakeups: 10, dc: 115, Tw: 103
+00:17.416	ID:8	HC_GRADIENT mode rx
+00:17.419	ID:9	current_state: 5, collisions: 0
+00:17.423	ID:9	history[0]: 8, history[1]: 6, history[2]: 6
+00:17.423	ID:9	r: 3
+00:17.424	ID:9	check success
+00:17.425	ID:8	wakeups: 4, dc: 149, Tw: 331
+00:17.426	ID:9	5 9 8
+00:17.428	ID:9	2 8 3
+00:17.430	ID:9	power: 233040 uJ
+00:17.434	ID:9	6 233040 236
+00:17.439	ID:9	wakeups: 3, dc: 236, Tw: 347
+00:17.452	ID:4	HC GRADIENT mode strobe
+00:17.456	ID:4	wakeups: 11, dc: 8, Tw: 95
+00:17.965	ID:2	HC GRADIENT mode strobe
+00:17.969	ID:2	wakeups: 14, dc: 7, Tw: 101
+00:17.990	ID:7	HC GRADIENT mode strobe
+00:17.995	ID:7	wakeups: 10, dc: 100, Tw: 111
+00:18.154	ID:5	HC GRADIENT mode strobe
+00:18.160	ID:5	wakeups: 10, dc: 115, Tw: 119
+00:18.202	ID:4	HC GRADIENT mode strobe
+00:18.206	ID:4	wakeups: 11, dc: 8, Tw: 102
+00:18.292	ID:3	HC GRADIENT mode strobe
+00:18.296	ID:3	wakeups: 5, dc: 40, Tw: 271
+00:18.761	ID:2	HC GRADIENT mode strobe
+00:18.765	ID:2	wakeups: 14, dc: 7, Tw: 86
+00:18.865	ID:7	HC GRADIENT mode strobe
+00:18.870	ID:7	wakeups: 10, dc: 100, Tw: 121
+00:19.006	ID:4	HC GRADIENT mode strobe
+00:19.011	ID:4	wakeups: 11, dc: 8, Tw: 128
+00:19.092	ID:5	HC GRADIENT mode strobe
+00:19.097	ID:5	wakeups: 10, dc: 115, Tw: 97
+00:19.441	ID:2	HC GRADIENT mode strobe
+00:19.446	ID:2	wakeups: 14, dc: 7, Tw: 110
+00:19.818	ID:7	HC GRADIENT mode strobe
+00:19.823	ID:7	wakeups: 10, dc: 100, Tw: 140
+00:19.858	ID:5	HC GRADIENT mode strobe
+00:19.863	ID:5	wakeups: 10, dc: 115, Tw: 116
+00:20.003	ID:6	HC GRADIENT mode strobe
+00:20.007	ID:6	wakeups: 2, dc: 108, Tw: 621
+00:20.012	ID:8	HC GRADIENT mode strobe
+00:20.014	ID:4	HC GRADIENT mode strobe
+00:20.015	ID:8	Beacon send DATA: 9, TTL: 1, SEQ: 3
+00:20.019	ID:4	wakeups: 11, dc: 8, Tw: 116
+00:20.145	ID:9	HC_GRADIENT mode rx
+00:20.147	ID:9	drop because 3 is smaller then 4
+00:20.149	ID:9	packet from 8 is dropped
+00:20.154	ID:9	wakeups: 3, dc: 236, Tw: 246
+00:20.308	ID:2	HC GRADIENT mode strobe
+00:20.312	ID:2	wakeups: 14, dc: 7, Tw: 84
+00:20.417	ID:3	HC GRADIENT mode strobe
+00:20.421	ID:3	wakeups: 5, dc: 40, Tw: 216
+00:20.770	ID:5	HC_GRADIENT mode rx
+00:20.774	ID:8	history[0]: 5, history[1]: 0, history[2]: 0
+00:20.774	ID:8	r: 3
+00:20.775	ID:8	check success
+00:20.777	ID:8	5 8 5
+00:20.778	ID:8	2 5 4
+00:20.778	ID:5	wakeups: 10, dc: 115, Tw: 134
+00:20.781	ID:8	power: 78120 uJ
+00:20.784	ID:8	6 78120 63
+00:20.789	ID:8	wakeups: 4, dc: 63, Tw: 280
+00:20.919	ID:7	HC GRADIENT mode strobe
+00:20.924	ID:7	wakeups: 10, dc: 100, Tw: 96
+00:20.928	ID:4	HC GRADIENT mode strobe
+00:20.933	ID:4	wakeups: 11, dc: 8, Tw: 112
+00:20.972	ID:2	HC GRADIENT mode strobe
+00:20.976	ID:2	wakeups: 14, dc: 7, Tw: 67
+00:21.504	ID:2	HC GRADIENT mode strobe
+00:21.508	ID:2	wakeups: 14, dc: 7, Tw: 91
+00:21.677	ID:7	HC GRADIENT mode strobe
+00:21.682	ID:7	wakeups: 10, dc: 100, Tw: 96
+00:21.811	ID:4	HC GRADIENT mode strobe
+00:21.815	ID:4	wakeups: 11, dc: 8, Tw: 90
+00:21.826	ID:5	HC GRADIENT mode strobe
+00:21.829	ID:5	Beacon send DATA: 9, TTL: 2, SEQ: 3
+00:22.078	ID:9	HC GRADIENT mode strobe
+00:22.080	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 4
+00:22.112	ID:3	HC GRADIENT mode strobe
+00:22.117	ID:3	wakeups: 5, dc: 40, Tw: 210
+00:22.220	ID:2	HC_GRADIENT mode rx
+00:22.224	ID:5	history[0]: 4, history[1]: 0, history[2]: 0
+00:22.225	ID:5	r: 3
+00:22.226	ID:5	check success
+00:22.227	ID:5	5 5 2
+00:22.228	ID:2	wakeups: 14, dc: 7, Tw: 102
+00:22.229	ID:5	2 2 5
+00:22.232	ID:5	power: 59160 uJ
+00:22.235	ID:5	6 59160 46
+00:22.239	ID:5	wakeups: 5, dc: 46, Tw: 266
+00:22.435	ID:7	HC GRADIENT mode strobe
+00:22.440	ID:7	wakeups: 10, dc: 100, Tw: 89
+00:22.522	ID:4	HC GRADIENT mode strobe
+00:22.526	ID:4	wakeups: 11, dc: 8, Tw: 121
+00:22.979	ID:8	HC_GRADIENT mode rx
+00:22.983	ID:9	current_state: 5, collisions: 0
+00:22.986	ID:9	history[0]: 8, history[1]: 6, history[2]: 6
+00:22.987	ID:9	r: 3
+00:22.988	ID:8	wakeups: 4, dc: 63, Tw: 323
+00:22.988	ID:9	check success
+00:22.989	ID:9	5 9 8
+00:22.991	ID:9	2 8 3
+00:22.994	ID:9	power: 288420 uJ
+00:22.998	ID:9	6 288420 218
+00:23.002	ID:9	wakeups: 3, dc: 218, Tw: 344
+00:23.027	ID:2	HC GRADIENT mode strobe
+00:23.030	ID:2	Beacon send DATA: 9, TTL: 3, SEQ: 3
+00:23.035	ID:2	history[0]: 1, history[1]: 1, history[2]: 0
+00:23.036	ID:2	r: 3
+00:23.037	ID:2	check success
+00:23.038	ID:2	5 2 1
+00:23.039	ID:1	9 3 4 4
+00:23.040	ID:2	2 1 18
+00:23.043	ID:2	power: 10620 uJ
+00:23.046	ID:2	6 10620 7
+00:23.050	ID:2	wakeups: 18, dc: 7, Tw: 77
+00:23.138	ID:7	HC GRADIENT mode strobe
+00:23.143	ID:7	wakeups: 10, dc: 100, Tw: 118
+00:23.475	ID:4	HC GRADIENT mode strobe
+00:23.480	ID:4	wakeups: 11, dc: 8, Tw: 106
+00:23.652	ID:2	HC GRADIENT mode strobe
+00:23.656	ID:2	wakeups: 18, dc: 7, Tw: 83
+00:23.761	ID:3	HC GRADIENT mode strobe
+00:23.765	ID:3	wakeups: 5, dc: 40, Tw: 186
+00:24.068	ID:7	HC GRADIENT mode strobe
+00:24.072	ID:7	wakeups: 10, dc: 100, Tw: 94
+00:24.308	ID:2	HC GRADIENT mode strobe
+00:24.311	ID:4	HC GRADIENT mode strobe
+00:24.312	ID:2	wakeups: 18, dc: 7, Tw: 76
+00:24.316	ID:4	wakeups: 11, dc: 8, Tw: 137
+00:24.319	ID:5	HC GRADIENT mode strobe
+00:24.323	ID:5	wakeups: 5, dc: 46, Tw: 242
+00:24.810	ID:7	HC GRADIENT mode strobe
+00:24.815	ID:7	wakeups: 10, dc: 100, Tw: 100
+00:24.862	ID:6	HC GRADIENT mode strobe
+00:24.867	ID:6	wakeups: 2, dc: 108, Tw: 609
+00:24.910	ID:2	HC GRADIENT mode strobe
+00:24.914	ID:2	wakeups: 18, dc: 7, Tw: 82
+00:25.221	ID:3	HC GRADIENT mode strobe
+00:25.226	ID:3	wakeups: 5, dc: 40, Tw: 273
+00:25.389	ID:4	HC GRADIENT mode strobe
+00:25.394	ID:4	wakeups: 11, dc: 8, Tw: 120
+00:25.512	ID:8	HC GRADIENT mode strobe
+00:25.515	ID:8	Beacon send DATA: 9, TTL: 1, SEQ: 4
+00:25.558	ID:2	HC GRADIENT mode strobe
+00:25.562	ID:2	wakeups: 18, dc: 7, Tw: 80
+00:25.598	ID:7	HC_GRADIENT mode rx
+00:25.602	ID:8	history[0]: 5, history[1]: 5, history[2]: 0
+00:25.602	ID:8	r: 3
+00:25.603	ID:8	check success
+00:25.605	ID:8	5 8 7
+00:25.607	ID:8	2 7 4
+00:25.607	ID:7	wakeups: 10, dc: 100, Tw: 125
+00:25.609	ID:8	power: 84420 uJ
+00:25.612	ID:8	6 84420 55
+00:25.617	ID:8	wakeups: 4, dc: 55, Tw: 319
+00:25.695	ID:9	HC GRADIENT mode strobe
+00:25.698	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 5
+00:26.191	ID:2	HC GRADIENT mode strobe
+00:26.195	ID:2	wakeups: 18, dc: 7, Tw: 62
+00:26.217	ID:5	HC GRADIENT mode strobe
+00:26.221	ID:5	wakeups: 5, dc: 46, Tw: 206
+00:26.335	ID:4	HC GRADIENT mode strobe
+00:26.339	ID:4	wakeups: 11, dc: 8, Tw: 130
+00:26.583	ID:7	HC GRADIENT mode strobe
+00:26.586	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 4
+00:26.683	ID:2	HC GRADIENT mode strobe
+00:26.687	ID:2	wakeups: 18, dc: 7, Tw: 53
+00:26.703	ID:9	current_state: 3, collisions: 0
+00:26.704	ID:9	2 9 3
+00:26.707	ID:9	power: 349200 uJ
+00:26.711	ID:9	6 349200 226
+00:26.716	ID:9	wakeups: 3, dc: 226, Tw: 383
+00:27.105	ID:2	HC GRADIENT mode strobe
+00:27.109	ID:2	wakeups: 18, dc: 7, Tw: 79
+00:27.357	ID:4	HC_GRADIENT mode rx
+00:27.362	ID:7	history[0]: 0, history[1]: 0, history[2]: 0
+00:27.362	ID:3	HC GRADIENT mode strobe
+00:27.362	ID:7	r: 3
+00:27.363	ID:7	check success
+00:27.365	ID:7	5 7 4
+00:27.366	ID:4	wakeups: 11, dc: 8, Tw: 133
+00:27.367	ID:3	wakeups: 5, dc: 40, Tw: 207
+00:27.367	ID:7	2 4 10
+00:27.369	ID:7	power: 55560 uJ
+00:27.372	ID:7	6 55560 34
+00:27.377	ID:7	wakeups: 10, dc: 34, Tw: 107
+00:27.730	ID:2	HC GRADIENT mode strobe
+00:27.734	ID:2	wakeups: 18, dc: 7, Tw: 57
+00:27.834	ID:5	HC GRADIENT mode strobe
+00:27.839	ID:5	wakeups: 5, dc: 46, Tw: 265
+00:28.114	ID:8	HC GRADIENT mode strobe
+00:28.118	ID:8	wakeups: 4, dc: 55, Tw: 227
+00:28.183	ID:2	HC GRADIENT mode strobe
+00:28.187	ID:2	wakeups: 18, dc: 7, Tw: 63
+00:28.216	ID:7	HC GRADIENT mode strobe
+00:28.221	ID:7	wakeups: 10, dc: 34, Tw: 104
+00:28.405	ID:4	HC GRADIENT mode strobe
+00:28.408	ID:4	Beacon send DATA: 9, TTL: 3, SEQ: 4
+00:28.413	ID:4	history[0]: 1, history[1]: 0, history[2]: 0
+00:28.414	ID:4	r: 3
+00:28.415	ID:4	check success
+00:28.416	ID:4	5 4 1
+00:28.417	ID:1	9 4 4 5
+00:28.418	ID:4	2 1 14
+00:28.421	ID:4	power: 10560 uJ
+00:28.423	ID:4	6 10560 6
+00:28.428	ID:4	wakeups: 14, dc: 6, Tw: 95
+00:28.683	ID:2	HC GRADIENT mode strobe
+00:28.687	ID:2	wakeups: 18, dc: 7, Tw: 58
+00:28.987	ID:3	HC GRADIENT mode strobe
+00:28.992	ID:3	wakeups: 5, dc: 40, Tw: 299
+00:29.036	ID:7	HC GRADIENT mode strobe
+00:29.041	ID:7	wakeups: 10, dc: 34, Tw: 129
+00:29.144	ID:2	HC GRADIENT mode strobe
+00:29.148	ID:2	wakeups: 18, dc: 7, Tw: 76
+00:29.171	ID:4	HC GRADIENT mode strobe
+00:29.175	ID:4	wakeups: 14, dc: 6, Tw: 88
+00:29.628	ID:6	HC GRADIENT mode strobe
+00:29.632	ID:6	wakeups: 2, dc: 108, Tw: 602
+00:29.710	ID:9	HC GRADIENT mode strobe
+00:29.713	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 5
+00:29.746	ID:2	HC GRADIENT mode strobe
+00:29.750	ID:2	wakeups: 18, dc: 7, Tw: 72
+00:29.866	ID:4	HC GRADIENT mode strobe
+00:29.870	ID:4	wakeups: 14, dc: 6, Tw: 71
+00:29.893	ID:8	HC_GRADIENT mode rx
+00:29.896	ID:9	current_state: 5, collisions: 0
+00:29.900	ID:9	history[0]: 8, history[1]: 8, history[2]: 6
+00:29.900	ID:9	r: 3
+00:29.901	ID:8	wakeups: 4, dc: 55, Tw: 296
+00:29.902	ID:9	check success
+00:29.903	ID:9	5 9 8
+00:29.905	ID:9	2 8 2
+00:29.908	ID:9	power: 361080 uJ
+00:29.911	ID:9	6 361080 208
+00:29.912	ID:5	HC GRADIENT mode strobe
+00:29.916	ID:9	wakeups: 2, dc: 208, Tw: 570
+00:29.917	ID:5	wakeups: 5, dc: 46, Tw: 290
+00:30.052	ID:7	HC GRADIENT mode strobe
+00:30.057	ID:7	wakeups: 10, dc: 34, Tw: 130
+00:30.316	ID:2	HC GRADIENT mode strobe
+00:30.320	ID:2	wakeups: 18, dc: 7, Tw: 52
+00:30.428	ID:4	HC GRADIENT mode strobe
+00:30.432	ID:4	wakeups: 14, dc: 6, Tw: 78
+00:30.730	ID:2	HC GRADIENT mode strobe
+00:30.734	ID:2	wakeups: 18, dc: 7, Tw: 74
+00:31.046	ID:4	HC GRADIENT mode strobe
+00:31.050	ID:4	wakeups: 14, dc: 6, Tw: 97
+00:31.075	ID:7	HC GRADIENT mode strobe
+00:31.080	ID:7	wakeups: 10, dc: 34, Tw: 107
+00:31.316	ID:2	HC GRADIENT mode strobe
+00:31.320	ID:2	wakeups: 18, dc: 7, Tw: 61
+00:31.331	ID:3	HC GRADIENT mode strobe
+00:31.335	ID:3	wakeups: 5, dc: 40, Tw: 274
+00:31.800	ID:2	HC GRADIENT mode strobe
+00:31.805	ID:2	wakeups: 18, dc: 7, Tw: 77
+00:31.811	ID:4	HC GRADIENT mode strobe
+00:31.815	ID:4	wakeups: 14, dc: 6, Tw: 94
+00:31.919	ID:7	HC GRADIENT mode strobe
+00:31.924	ID:7	wakeups: 10, dc: 34, Tw: 115
+00:32.186	ID:5	HC GRADIENT mode strobe
+00:32.190	ID:5	wakeups: 5, dc: 46, Tw: 254
+00:32.215	ID:8	HC GRADIENT mode strobe
+00:32.218	ID:8	Beacon send DATA: 9, TTL: 1, SEQ: 5
+00:32.410	ID:2	HC GRADIENT mode strobe
+00:32.414	ID:2	wakeups: 18, dc: 7, Tw: 55
+00:32.553	ID:4	HC GRADIENT mode strobe
+00:32.557	ID:4	wakeups: 14, dc: 6, Tw: 68
+00:32.823	ID:7	HC_GRADIENT mode rx
+00:32.827	ID:8	history[0]: 5, history[1]: 5, history[2]: 7
+00:32.827	ID:8	r: 3
+00:32.828	ID:8	check success
+00:32.830	ID:8	5 8 7
+00:32.831	ID:7	wakeups: 10, dc: 34, Tw: 145
+00:32.832	ID:8	2 7 4
+00:32.835	ID:8	power: 122340 uJ
+00:32.838	ID:8	6 122340 62
+00:32.842	ID:8	wakeups: 4, dc: 62, Tw: 226
+00:32.847	ID:2	HC GRADIENT mode strobe
+00:32.851	ID:2	wakeups: 18, dc: 7, Tw: 66
+00:33.092	ID:4	HC GRADIENT mode strobe
+00:33.096	ID:4	wakeups: 14, dc: 6, Tw: 77
+00:33.371	ID:2	HC GRADIENT mode strobe
+00:33.375	ID:2	wakeups: 18, dc: 7, Tw: 64
+00:33.479	ID:3	HC GRADIENT mode strobe
+00:33.484	ID:3	wakeups: 5, dc: 40, Tw: 241
+00:33.702	ID:4	HC GRADIENT mode strobe
+00:33.706	ID:4	wakeups: 14, dc: 6, Tw: 101
+00:33.879	ID:2	HC GRADIENT mode strobe
+00:33.883	ID:2	wakeups: 18, dc: 7, Tw: 62
+00:33.966	ID:7	HC GRADIENT mode strobe
+00:33.969	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 5
+00:34.178	ID:5	HC GRADIENT mode strobe
+00:34.182	ID:5	wakeups: 5, dc: 46, Tw: 286
+00:34.338	ID:6	HC GRADIENT mode strobe
+00:34.343	ID:6	wakeups: 2, dc: 108, Tw: 561
+00:34.371	ID:2	HC GRADIENT mode strobe
+00:34.374	ID:9	HC GRADIENT mode strobe
+00:34.375	ID:2	wakeups: 18, dc: 7, Tw: 63
+00:34.377	ID:9	Beacon send DATA: 9, TTL: 0, SEQ: 6
+00:34.496	ID:7	collision
+00:34.500	ID:4	wakeups: 14, dc: 6, Tw: 85
+00:34.502	ID:7	wakeups: 10, dc: 34, Tw: 123
+00:34.604	ID:8	HC_GRADIENT mode rx
+00:34.608	ID:9	current_state: 5, collisions: 0
+00:34.611	ID:9	history[0]: 8, history[1]: 8, history[2]: 8
+00:34.612	ID:9	r: 3
+00:34.613	ID:8	wakeups: 4, dc: 62, Tw: 295
+00:34.614	ID:9	drop for load balancing
+00:34.618	ID:9	wakeups: 2, dc: 208, Tw: 440
+00:34.871	ID:2	HC GRADIENT mode strobe
+00:34.875	ID:2	wakeups: 18, dc: 7, Tw: 69
+00:35.163	ID:4	HC GRADIENT mode strobe
+00:35.167	ID:4	wakeups: 14, dc: 6, Tw: 90
+00:35.370	ID:3	HC GRADIENT mode strobe
+00:35.374	ID:3	wakeups: 5, dc: 40, Tw: 233
+00:35.418	ID:2	HC GRADIENT mode strobe
+00:35.422	ID:2	wakeups: 18, dc: 7, Tw: 81
+00:35.466	ID:7	HC GRADIENT mode strobe
+00:35.469	ID:7	Beacon send DATA: 9, TTL: 2, SEQ: 5
