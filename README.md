@@ -1,5 +1,7 @@
 # Staffetta Visualizer
 
+![Preview](/preview.png)
+
 * [Source Code](https://github.com/ybbarng/staffetta-visualizer)
 * [Demonstration](https://staffetta.byb.kr)
 
