@@ -17,4 +17,4 @@ gulp.task('bundle-js', function() {
     .pipe(gulp.dest('app/js'));
 });
 
-gulp.task('default', ['bundle-js']);
+gulp.task('default', gulp.series('bundle-js'));

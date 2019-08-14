@@ -56,7 +56,7 @@ $(function() {
     $dataSelect.empty();
     $.get('/datalist.json', function(data) {
       $dataSelect.append($defaultOption);
-      var dataList = JSON.parse(data);
+      var dataList = typeof data === 'string' ? JSON.parse(data) : data;
       dataList.map(function(dataName) {
         $dataSelect.append($('<option>', {
               value: dataName,
