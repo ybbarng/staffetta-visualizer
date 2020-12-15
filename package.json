@@ -6,7 +6,7 @@
   "author": "ybbarng <ybbarng@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "ecstatic": "^2.1.0",
+    "ecstatic": "^4.1.4",
     "express": "^4.14.0",
     "multer": "^1.2.0",
     "routes": "^2.1.0",
